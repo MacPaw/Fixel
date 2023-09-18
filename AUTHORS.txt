@@ -5,5 +5,8 @@
 # Names should be added to this file as: 
 # Name or Organization <email address> 
 
-Fixel
-Max Kukurudziak <max@macpaw.com>
+Kyrylo Tkachov <alfabravo.studio@gmail.com>
+Marchela Mozhyna <marymo.art@gmail.com>
+Serhii Makarenko <mstrmime@gmail.com>
+Zakhar Kryvoshyia <zkryvoshyya@gmail.com>
+Mariia Vainshtein <MariaVainsh@gmail.com>
