@@ -1,7 +1,11 @@
 # Fixel
 Fixel font public repository.
 
-
+<img src="documentation/image_1.png">
+<img src="documentation/image_2.png">
+<img src="documentation/image_3.png">
+<img src="documentation/image_4.png">
+<img src="documentation/image_5.png">
 
 * Fixel Font includes extended Latin and Cyrillic alphabets, covering over 40 languages. 
 * The font comes in both Text and Display width options, with nine weight options from Thin to Black. 
