@@ -9,4 +9,9 @@
 # Names should be added to this file as:
 # Name <email address>
 
+Oleksandr Ageev <ageev@macpaw.com>
 Max Kukurudziak <max@macpaw.com>
+Alona Korolova <alenakor@macpaw.com>
+Nata Avramenko <nata.avramenko@macpaw.com>
+Yurii Husynskyi <yura@macpaw.com>
+Oleksandr Koval <sashko@macpaw.com>
