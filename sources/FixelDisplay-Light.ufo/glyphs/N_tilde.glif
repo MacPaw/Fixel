@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <advance width="720"/>
+  <unicode hex="00D1"/>
+  <anchor x="357.667" y="-1" name="bottom"/>
+  <anchor x="360" y="520" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="tilde.case" xScale="1" xOffset="589.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+tilde.case</string>
+  </dict>
+  </lib>
+</glyph>

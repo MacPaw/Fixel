@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.osf" format="2">
+  <advance width="648"/>
+  <outline>
+    <contour>
+      <point x="47.2" y="16.8" type="line"/>
+      <point x="82.8" y="-90.2"/>
+      <point x="176.6" y="-156.4"/>
+      <point x="307.4" y="-156.4" type="curve" smooth="yes"/>
+      <point x="500.8" y="-156.4"/>
+      <point x="616.4" y="-12.2"/>
+      <point x="616.4" y="223.4" type="curve" smooth="yes"/>
+      <point x="616.4" y="455.8"/>
+      <point x="503.6" y="595"/>
+      <point x="312.6" y="595" type="curve" smooth="yes"/>
+      <point x="146" y="595"/>
+      <point x="27.6" y="489.4"/>
+      <point x="27.6" y="340.8" type="curve" smooth="yes"/>
+      <point x="27.6" y="202.6"/>
+      <point x="130.4" y="113.8"/>
+      <point x="271.2" y="113.8" type="curve" smooth="yes"/>
+      <point x="332.2" y="113.8"/>
+      <point x="391.2" y="131.6"/>
+      <point x="447.4" y="168.8" type="curve"/>
+      <point x="447.4" y="157.8"/>
+      <point x="446.8" y="147.8"/>
+      <point x="445.8" y="138.6" type="curve"/>
+      <point x="438.6" y="45.6"/>
+      <point x="389.6" y="-8.8"/>
+      <point x="310.6" y="-8.8" type="curve" smooth="yes"/>
+      <point x="261" y="-8.8"/>
+      <point x="227.2" y="12.8"/>
+      <point x="206.6" y="53.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="444.2" y="305.2" type="curve"/>
+      <point x="438.6" y="298.4"/>
+      <point x="433.8" y="292.6"/>
+      <point x="427.8" y="286.8" type="curve"/>
+      <point x="400.8" y="253"/>
+      <point x="355.8" y="235"/>
+      <point x="310.6" y="235" type="curve" smooth="yes"/>
+      <point x="241" y="235"/>
+      <point x="196.4" y="274.4"/>
+      <point x="196.4" y="334.8" type="curve" smooth="yes"/>
+      <point x="196.4" y="398.4"/>
+      <point x="246.6" y="445.8"/>
+      <point x="314.4" y="445.8" type="curve" smooth="yes"/>
+      <point x="393.2" y="445.8"/>
+      <point x="438.8" y="381.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|six</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|six</string>
+  </dict>
+  </lib>
+</glyph>

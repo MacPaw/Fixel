@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF516" format="2">
+  <advance width="589"/>
+  <unicode hex="F516"/>
+  <anchor x="289" y="520" name="top"/>
+  <outline>
+    <component base="Ze-cy"/>
+    <component base="caron.case" xOffset="460"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>З+caron.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

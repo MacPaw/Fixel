@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enclosingcirclecomb" format="2">
+  <unicode hex="20DD"/>
+  <anchor x="-642" y="520" name="_top.1"/>
+  <outline>
+    <contour>
+      <point x="-643" y="-328" type="curve" smooth="yes"/>
+      <point x="-970" y="-328"/>
+      <point x="-1235" y="-62.6"/>
+      <point x="-1235" y="264.2" type="curve" smooth="yes"/>
+      <point x="-1235" y="590.2"/>
+      <point x="-970" y="856"/>
+      <point x="-643" y="856" type="curve" smooth="yes"/>
+      <point x="-317" y="856"/>
+      <point x="-51" y="591.2"/>
+      <point x="-51" y="264.2" type="curve" smooth="yes"/>
+      <point x="-51" y="-61.8"/>
+      <point x="-317" y="-328"/>
+    </contour>
+    <contour>
+      <point x="-115" y="264.2" type="curve" smooth="yes"/>
+      <point x="-115" y="553.6"/>
+      <point x="-353.4" y="792"/>
+      <point x="-643" y="792" type="curve" smooth="yes"/>
+      <point x="-932" y="792"/>
+      <point x="-1169" y="554.2"/>
+      <point x="-1169" y="264.2" type="curve" smooth="yes"/>
+      <point x="-1169" y="-26.8"/>
+      <point x="-932.8" y="-264"/>
+      <point x="-643" y="-264" type="curve" smooth="yes"/>
+      <point x="-353.4" y="-264"/>
+      <point x="-115" y="-26.4"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

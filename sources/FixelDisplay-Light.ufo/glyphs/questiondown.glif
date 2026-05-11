@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="2">
+  <advance width="498"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="225" y="-197" type="curve" smooth="yes"/>
+      <point x="351.667" y="-197"/>
+      <point x="445.333" y="-115.667"/>
+      <point x="465.333" y="-9.33333" type="curve"/>
+      <point x="408.333" y="0.333333" type="line"/>
+      <point x="392.667" y="-82.3333"/>
+      <point x="324.333" y="-143.333"/>
+      <point x="228.667" y="-143.333" type="curve" smooth="yes"/>
+      <point x="145.667" y="-143.333"/>
+      <point x="87" y="-102"/>
+      <point x="87" y="-25.3333" type="curve" smooth="yes"/>
+      <point x="87" y="39.6667"/>
+      <point x="127" y="74.6667"/>
+      <point x="172.667" y="113.333" type="curve" smooth="yes"/>
+      <point x="235" y="165.667"/>
+      <point x="282.667" y="214.667"/>
+      <point x="282.667" y="313" type="curve" smooth="yes"/>
+      <point x="282.667" y="317.667"/>
+      <point x="282.667" y="323.333"/>
+      <point x="282" y="326.667" type="curve"/>
+      <point x="225.333" y="326.667" type="line"/>
+      <point x="225.333" y="313" type="line" smooth="yes"/>
+      <point x="225.333" y="236.667"/>
+      <point x="192" y="197"/>
+      <point x="126" y="140.667" type="curve" smooth="yes"/>
+      <point x="69" y="93"/>
+      <point x="27.6667" y="52"/>
+      <point x="27.6667" y="-28.3333" type="curve" smooth="yes"/>
+      <point x="27.6667" y="-129.667"/>
+      <point x="110.667" y="-197"/>
+    </contour>
+    <contour>
+      <point x="253" y="437.667" type="curve" smooth="yes"/>
+      <point x="278" y="437.667"/>
+      <point x="297.667" y="456.667"/>
+      <point x="297.667" y="480" type="curve" smooth="yes"/>
+      <point x="297.667" y="482.333" type="line" smooth="yes"/>
+      <point x="297.667" y="506.333"/>
+      <point x="278" y="525.667"/>
+      <point x="253" y="525.667" type="curve" smooth="yes"/>
+      <point x="228" y="525.667"/>
+      <point x="207.333" y="506.333"/>
+      <point x="207.333" y="482.333" type="curve" smooth="yes"/>
+      <point x="207.333" y="480" type="line" smooth="yes"/>
+      <point x="207.333" y="456.667"/>
+      <point x="228" y="437.667"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="525"/>
+  <guideline angle="0" x="0" y="328"/>
+  <guideline angle="0" x="0" y="-195"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|question</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|question</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thousandscyr.dnom" format="2">
+  <advance width="399"/>
+  <outline>
+    <contour>
+      <point x="90" y="-177.667" type="line"/>
+      <point x="136.333" y="-199.333" type="line"/>
+      <point x="175.333" y="-113.667" type="line"/>
+      <point x="258" y="-152.667" type="line"/>
+      <point x="279" y="-107.667" type="line"/>
+      <point x="196.333" y="-69" type="line"/>
+      <point x="248.333" y="42.6667" type="line"/>
+      <point x="331" y="4.66667" type="line"/>
+      <point x="352" y="49" type="line"/>
+      <point x="269.667" y="87" type="line"/>
+      <point x="309.333" y="172.333" type="line"/>
+      <point x="262.667" y="194" type="line"/>
+      <point x="223.667" y="108.667" type="line"/>
+      <point x="141.333" y="147.667" type="line"/>
+      <point x="120.333" y="102.667" type="line"/>
+      <point x="202.667" y="64.3333" type="line"/>
+      <point x="150.667" y="-48" type="line"/>
+      <point x="68" y="-9.66667" type="line"/>
+      <point x="46.6667" y="-54.3333" type="line"/>
+      <point x="129.667" y="-92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

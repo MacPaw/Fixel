@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hastrokecyr" format="2">
+  <advance width="569"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <contour>
+      <point x="58.2" y="215.4" type="line"/>
+      <point x="508.2" y="215.4" type="line"/>
+      <point x="508.2" y="323" type="line"/>
+      <point x="58.2" y="323" type="line"/>
+    </contour>
+    <contour>
+      <point x="8.6" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="279.4" y="191.6" type="line"/>
+      <point x="284.6" y="191.6" type="line"/>
+      <point x="395.4" y="0" type="line"/>
+      <point x="560.2" y="0" type="line"/>
+      <point x="375" y="267.8" type="line"/>
+      <point x="375" y="271.8" type="line"/>
+      <point x="553.2" y="520" type="line"/>
+      <point x="392" y="520" type="line"/>
+      <point x="289" y="344.8" type="line"/>
+      <point x="283.8" y="344.8" type="line"/>
+      <point x="181" y="520" type="line"/>
+      <point x="15.6" y="520" type="line"/>
+      <point x="195.4" y="271.6" type="line"/>
+      <point x="195.4" y="267.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>x</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

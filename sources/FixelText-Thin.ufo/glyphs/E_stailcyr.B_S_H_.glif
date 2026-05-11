@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Estailcyr.BSH" format="2">
+  <advance width="662"/>
+  <unicode hex="F53E"/>
+  <outline>
+    <contour>
+      <point x="359" y="-8" type="curve"/>
+      <point x="360" y="-8" type="line"/>
+      <point x="473" y="-8"/>
+      <point x="577" y="46"/>
+      <point x="622" y="129" type="curve"/>
+      <point x="607" y="139" type="line"/>
+      <point x="563" y="62"/>
+      <point x="465" y="11"/>
+      <point x="360" y="11" type="curve"/>
+      <point x="360" y="11" type="line" name="&#x1f525;"/>
+      <point x="190" y="11"/>
+      <point x="75" y="143"/>
+      <point x="75" y="338" type="curve" smooth="yes"/>
+      <point x="75" y="362" type="line" smooth="yes"/>
+      <point x="75" y="558"/>
+      <point x="190" y="690"/>
+      <point x="360" y="690" type="curve"/>
+      <point x="360" y="690" type="line" name="&#x1f525;.1"/>
+      <point x="463" y="690"/>
+      <point x="554" y="641"/>
+      <point x="596" y="561" type="curve"/>
+      <point x="612" y="571" type="line"/>
+      <point x="572" y="654"/>
+      <point x="471" y="709"/>
+      <point x="360" y="709" type="curve"/>
+      <point x="360" y="709" type="line" name="&#x1f525;.2"/>
+      <point x="180" y="709"/>
+      <point x="55" y="565"/>
+      <point x="55" y="359" type="curve" smooth="yes"/>
+      <point x="55" y="342" type="line" smooth="yes"/>
+      <point x="55" y="133"/>
+      <point x="177" y="-8"/>
+    </contour>
+    <contour>
+      <point x="341" y="4" type="curve"/>
+      <point x="333" y="-6" type="line"/>
+      <point x="357" y="-23"/>
+      <point x="368" y="-48"/>
+      <point x="362" y="-74" type="curve"/>
+      <point x="348" y="-74"/>
+      <point x="338" y="-84"/>
+      <point x="338" y="-98.7802" type="curve" smooth="yes"/>
+      <point x="338" y="-112"/>
+      <point x="346" y="-121"/>
+      <point x="358.857" y="-121" type="curve" smooth="yes"/>
+      <point x="376" y="-121"/>
+      <point x="386" y="-105"/>
+      <point x="386" y="-79.3906" type="curve" smooth="yes"/>
+      <point x="386" y="-46"/>
+      <point x="369" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>C</string>
+  <key>com.fontlab.recipe</key>
+  <string>C</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fitacyr" format="2">
+  <advance width="636"/>
+  <unicode hex="0473"/>
+  <anchor x="317.667" y="520" name="top"/>
+  <anchor x="317.667" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="315.333" y="-5.33333" type="curve" smooth="yes"/>
+      <point x="319.667" y="-5.33333" type="line" smooth="yes"/>
+      <point x="467.333" y="-5.33333"/>
+      <point x="573.667" y="104"/>
+      <point x="573.667" y="255" type="curve" smooth="yes"/>
+      <point x="573.667" y="265" type="line" smooth="yes"/>
+      <point x="573.667" y="416"/>
+      <point x="467.333" y="525.333"/>
+      <point x="319.667" y="525.333" type="curve" smooth="yes"/>
+      <point x="315.333" y="525.333" type="line" smooth="yes"/>
+      <point x="168.333" y="525.333"/>
+      <point x="62" y="416.667"/>
+      <point x="62" y="265" type="curve" smooth="yes"/>
+      <point x="62" y="255" type="line" smooth="yes"/>
+      <point x="62" y="103.333"/>
+      <point x="168.333" y="-5.33333"/>
+    </contour>
+    <contour>
+      <point x="315.333" y="31.6667" type="line" smooth="yes"/>
+      <point x="191" y="31.6667"/>
+      <point x="101.333" y="125.333"/>
+      <point x="101.333" y="256.333" type="curve" smooth="yes"/>
+      <point x="101.333" y="263.667" type="line" smooth="yes"/>
+      <point x="101.333" y="394.667"/>
+      <point x="191" y="488.333"/>
+      <point x="315.333" y="488.333" type="curve" smooth="yes"/>
+      <point x="319.667" y="488.333" type="line" smooth="yes"/>
+      <point x="444.667" y="488.333"/>
+      <point x="534.333" y="394.667"/>
+      <point x="534.333" y="263.667" type="curve" smooth="yes"/>
+      <point x="534.333" y="256.333" type="line" smooth="yes"/>
+      <point x="534.333" y="125.333"/>
+      <point x="444.667" y="31.6667"/>
+      <point x="319.667" y="31.6667" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="429.667" y="210" type="curve" smooth="yes"/>
+      <point x="478.667" y="210"/>
+      <point x="525.667" y="230"/>
+      <point x="562.667" y="267" type="curve"/>
+      <point x="538.333" y="293" type="line"/>
+      <point x="511.667" y="263.333"/>
+      <point x="471" y="245.333"/>
+      <point x="430.667" y="245.333" type="curve" smooth="yes"/>
+      <point x="353.333" y="245.333"/>
+      <point x="294.667" y="311.667"/>
+      <point x="203.333" y="311.667" type="curve" smooth="yes"/>
+      <point x="154.333" y="311.667"/>
+      <point x="105.333" y="292"/>
+      <point x="72.6667" y="258.333" type="curve"/>
+      <point x="97" y="232" type="line"/>
+      <point x="125" y="260.333"/>
+      <point x="162" y="276.333"/>
+      <point x="200" y="276.333" type="curve" smooth="yes"/>
+      <point x="281.333" y="276.333"/>
+      <point x="341.667" y="210"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="297" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>obarcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

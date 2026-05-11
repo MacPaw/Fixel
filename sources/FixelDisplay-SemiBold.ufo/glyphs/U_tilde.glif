@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="2">
+  <advance width="719"/>
+  <unicode hex="0168"/>
+  <anchor x="430.8" y="0" name="bottom"/>
+  <anchor x="360" y="520" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="tilde.case" xOffset="615"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+tilde.case</string>
+  </dict>
+  </lib>
+</glyph>

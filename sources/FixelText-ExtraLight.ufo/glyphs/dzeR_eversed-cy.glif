@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzeReversed-cy" format="2">
+  <advance width="474"/>
+  <unicode hex="A645"/>
+  <anchor x="252.333" y="0" name="bottom"/>
+  <anchor x="238" y="520" name="top"/>
+  <anchor x="238" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="218.333" y="-6" type="curve" smooth="yes"/>
+      <point x="119.667" y="-6"/>
+      <point x="45.6667" y="51.6667"/>
+      <point x="45.6667" y="140.333" type="curve" smooth="yes"/>
+      <point x="45.6667" y="242.333"/>
+      <point x="142" y="265.667"/>
+      <point x="229" y="286.333" type="curve" smooth="yes"/>
+      <point x="304" y="304.333"/>
+      <point x="372.333" y="320"/>
+      <point x="372.333" y="389" type="curve" smooth="yes"/>
+      <point x="372.333" y="449"/>
+      <point x="322" y="489"/>
+      <point x="254.667" y="489" type="curve" smooth="yes"/>
+      <point x="194" y="489"/>
+      <point x="143.333" y="468.667"/>
+      <point x="88.6667" y="433" type="curve"/>
+      <point x="69.6667" y="464" type="line"/>
+      <point x="121.667" y="501.333"/>
+      <point x="185" y="526"/>
+      <point x="253.667" y="526" type="curve" smooth="yes"/>
+      <point x="344" y="526"/>
+      <point x="411.333" y="472"/>
+      <point x="411.333" y="388.333" type="curve" smooth="yes"/>
+      <point x="411.333" y="292.333"/>
+      <point x="324" y="270.667"/>
+      <point x="240" y="252" type="curve" smooth="yes"/>
+      <point x="162" y="235"/>
+      <point x="85" y="214.667"/>
+      <point x="85" y="140" type="curve" smooth="yes"/>
+      <point x="85" y="74"/>
+      <point x="141.333" y="30.6667"/>
+      <point x="218.667" y="30.6667" type="curve" smooth="yes"/>
+      <point x="292" y="30.6667"/>
+      <point x="353" y="57"/>
+      <point x="407.333" y="101.667" type="curve"/>
+      <point x="429.333" y="73" type="line"/>
+      <point x="377" y="25.3333"/>
+      <point x="300" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|s</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|s</string>
+  <key>com.fontlab.recipe</key>
+  <string>s</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

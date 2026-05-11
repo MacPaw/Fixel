@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowright" format="2">
+  <advance width="678"/>
+  <unicode hex="2192"/>
+  <outline>
+    <component base="arrowleft" xScale="-1" xOffset="678.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|arrowleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|arrowleft</string>
+  </dict>
+  </lib>
+</glyph>

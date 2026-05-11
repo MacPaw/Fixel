@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+  <advance width="240"/>
+  <unicode hex="012A"/>
+  <anchor x="130" y="0" name="bottom"/>
+  <anchor x="120" y="520" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="macron.case" xOffset="266" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+macron.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatitlocyr" format="2">
+  <advance width="1146"/>
+  <unicode hex="047C"/>
+  <outline>
+    <component base="OmegaBroad-cy"/>
+    <contour>
+      <point x="487" y="785" type="line"/>
+      <point x="487" y="809.6"/>
+      <point x="499.8" y="828.4"/>
+      <point x="531.6" y="828.4" type="curve" smooth="yes"/>
+      <point x="591.4" y="828.4"/>
+      <point x="673.6" y="783.4"/>
+      <point x="761" y="783.4" type="curve"/>
+      <point x="761" y="860.6" type="line"/>
+      <point x="679.4" y="860.6"/>
+      <point x="609.8" y="906.6"/>
+      <point x="511.6" y="906.6" type="curve" smooth="yes"/>
+      <point x="442.4" y="906.6"/>
+      <point x="399.8" y="871.2"/>
+      <point x="399.8" y="785" type="curve"/>
+    </contour>
+    <contour>
+      <point x="557.2" y="613.4" type="line"/>
+      <point x="598.8" y="639"/>
+      <point x="624.2" y="684.8"/>
+      <point x="624.2" y="724.2" type="curve" smooth="yes"/>
+      <point x="624.2" y="760.8"/>
+      <point x="601.2" y="788.6"/>
+      <point x="567.2" y="788.6" type="curve" smooth="yes"/>
+      <point x="536.6" y="788.6"/>
+      <point x="517" y="766.8"/>
+      <point x="517" y="739.2" type="curve" smooth="yes"/>
+      <point x="517" y="714"/>
+      <point x="534" y="694.4"/>
+      <point x="560" y="693" type="curve"/>
+      <point x="559.6" y="675.2"/>
+      <point x="546.8" y="656"/>
+      <point x="525" y="644" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O+10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O+10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

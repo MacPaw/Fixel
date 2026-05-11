@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="2">
+  <advance width="745"/>
+  <unicode hex="0047"/>
+  <anchor x="360" y="-12" name="bottom"/>
+  <anchor x="402" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="337" y="-13" type="curve" smooth="yes" name="&#x1f525;"/>
+      <point x="355" y="-13" type="line" smooth="yes"/>
+      <point x="435" y="-13"/>
+      <point x="515" y="27"/>
+      <point x="536" y="75" type="curve"/>
+      <point x="537" y="47"/>
+      <point x="546" y="12"/>
+      <point x="555" y="0" type="curve"/>
+      <point x="701" y="0" type="line"/>
+      <point x="701" y="393" type="line"/>
+      <point x="400" y="393" type="line"/>
+      <point x="400" y="231" type="line"/>
+      <point x="517" y="231" type="line"/>
+      <point x="517" y="222" type="line" smooth="yes"/>
+      <point x="517" y="198"/>
+      <point x="466" y="159"/>
+      <point x="408" y="159" type="curve" smooth="yes"/>
+      <point x="394" y="159" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="301" y="159"/>
+      <point x="246" y="228"/>
+      <point x="246" y="338" type="curve" smooth="yes"/>
+      <point x="246" y="359" type="line" smooth="yes"/>
+      <point x="246" y="465"/>
+      <point x="302" y="541"/>
+      <point x="390" y="541" type="curve" smooth="yes"/>
+      <point x="403" y="541" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="455" y="541"/>
+      <point x="500" y="514"/>
+      <point x="536" y="451" type="curve"/>
+      <point x="694" y="553" type="line"/>
+      <point x="623" y="658"/>
+      <point x="518" y="714"/>
+      <point x="398" y="714" type="curve" smooth="yes"/>
+      <point x="385" y="714" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="174" y="714"/>
+      <point x="32" y="568"/>
+      <point x="32" y="357" type="curve" smooth="yes"/>
+      <point x="32" y="339" type="line" smooth="yes"/>
+      <point x="32" y="127"/>
+      <point x="151" y="-13"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O+18</string>
+  </dict>
+  </lib>
+</glyph>

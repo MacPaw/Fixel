@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+  <advance width="614"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="378.8" y="-11.4" type="curve" smooth="yes"/>
+      <point x="501.4" y="-11.4"/>
+      <point x="583" y="73.2"/>
+      <point x="583" y="198.6" type="curve" smooth="yes"/>
+      <point x="583" y="283.8"/>
+      <point x="544.8" y="349.4"/>
+      <point x="481.2" y="385.6" type="curve"/>
+      <point x="523.8" y="418.2"/>
+      <point x="549" y="467.4"/>
+      <point x="549" y="526.4" type="curve" smooth="yes"/>
+      <point x="549" y="640.6"/>
+      <point x="453.8" y="718"/>
+      <point x="310.2" y="718" type="curve" smooth="yes"/>
+      <point x="160.8" y="718"/>
+      <point x="62.2" y="634"/>
+      <point x="62.2" y="508.6" type="curve" smooth="yes"/>
+      <point x="62.2" y="0" type="line"/>
+      <point x="211.2" y="0" type="line"/>
+      <point x="211.2" y="501.8" type="line" smooth="yes"/>
+      <point x="211.2" y="562.4"/>
+      <point x="251.8" y="602.4"/>
+      <point x="310.4" y="602.4" type="curve" smooth="yes"/>
+      <point x="366.8" y="602.4"/>
+      <point x="403.6" y="566.2"/>
+      <point x="403.6" y="511" type="curve" smooth="yes"/>
+      <point x="403.6" y="460"/>
+      <point x="370" y="420"/>
+      <point x="323.6" y="420" type="curve" smooth="yes"/>
+      <point x="279.6" y="420" type="line"/>
+      <point x="279.6" y="326.6" type="line"/>
+      <point x="333.4" y="326.6" type="line" smooth="yes"/>
+      <point x="393.4" y="326.6"/>
+      <point x="434.8" y="284.4"/>
+      <point x="434.8" y="221.2" type="curve" smooth="yes"/>
+      <point x="434.8" y="157"/>
+      <point x="392.4" y="113.6"/>
+      <point x="329.2" y="113.6" type="curve" smooth="yes"/>
+      <point x="308.8" y="113.6"/>
+      <point x="280.6" y="118.6"/>
+      <point x="266" y="124.6" type="curve"/>
+      <point x="266" y="11.8" type="line"/>
+      <point x="292.8" y="-2"/>
+      <point x="338.8" y="-11.4"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>h-5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>з</string>
+  </dict>
+  </lib>
+</glyph>

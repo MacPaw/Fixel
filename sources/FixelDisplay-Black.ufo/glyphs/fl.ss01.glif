@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl.ss01" format="2">
+  <advance width="730"/>
+  <anchor x="636" y="0" name="bottom"/>
+  <anchor x="671" y="517" name="right"/>
+  <anchor x="570" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="578" y="-10" type="curve" smooth="yes"/>
+      <point x="625" y="-10"/>
+      <point x="678" y="-1"/>
+      <point x="711" y="13" type="curve"/>
+      <point x="711" y="158" type="line"/>
+      <point x="703" y="156"/>
+      <point x="680" y="152"/>
+      <point x="660" y="152" type="curve" smooth="yes"/>
+      <point x="621" y="152"/>
+      <point x="610" y="170"/>
+      <point x="610" y="224" type="curve" smooth="yes"/>
+      <point x="610" y="635" type="line"/>
+      <point x="516" y="672"/>
+      <point x="386" y="718"/>
+      <point x="271" y="718" type="curve" smooth="yes"/>
+      <point x="132" y="718"/>
+      <point x="51" y="649"/>
+      <point x="51" y="546" type="curve" smooth="yes"/>
+      <point x="51" y="535"/>
+      <point x="52" y="525"/>
+      <point x="54" y="514" type="curve"/>
+      <point x="40" y="511"/>
+      <point x="26" y="508"/>
+      <point x="15" y="505" type="curve"/>
+      <point x="15" y="379" type="line"/>
+      <point x="80" y="379" type="line"/>
+      <point x="80" y="-190" type="line"/>
+      <point x="279" y="-190" type="line"/>
+      <point x="279" y="379" type="line"/>
+      <point x="364" y="379" type="line"/>
+      <point x="364" y="520" type="line"/>
+      <point x="239" y="520" type="line"/>
+      <point x="239" y="522"/>
+      <point x="239" y="523"/>
+      <point x="239" y="525" type="curve"/>
+      <point x="239" y="552"/>
+      <point x="262" y="572"/>
+      <point x="307" y="572" type="curve" smooth="yes"/>
+      <point x="340" y="572"/>
+      <point x="384" y="557"/>
+      <point x="411" y="545" type="curve"/>
+      <point x="411" y="187" type="line" smooth="yes"/>
+      <point x="411" y="56"/>
+      <point x="462" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>f.ss01</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l.ss01</string>
+  <key>com.fontlab.recipe</key>
+  <string>f.ss01_l.ss01</string>
+  </dict>
+  </lib>
+</glyph>

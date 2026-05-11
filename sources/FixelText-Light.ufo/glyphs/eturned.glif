@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eturned" format="2">
+  <advance width="571"/>
+  <unicode hex="01DD"/>
+  <outline>
+    <component base="schwacyr"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>schwacyr</string>
+  </dict>
+  </lib>
+</glyph>

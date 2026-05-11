@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex.ss01" format="2">
+  <advance width="308"/>
+  <anchor x="173" y="517" name="top"/>
+  <outline>
+    <component base="J.ss01"/>
+    <component base="circumflex.case" xOffset="369" yOffset="-3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>J.ss01+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

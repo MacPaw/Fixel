@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ia-cy" format="2">
+  <advance width="571"/>
+  <unicode hex="044F"/>
+  <anchor x="291.8" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="250.4" y="167" type="line"/>
+      <point x="364.4" y="167" type="line"/>
+      <point x="364.4" y="0" type="line"/>
+      <point x="503.8" y="0" type="line"/>
+      <point x="503.8" y="520" type="line"/>
+      <point x="233.2" y="520" type="line" smooth="yes"/>
+      <point x="121.8" y="520"/>
+      <point x="41.8" y="450.8"/>
+      <point x="41.8" y="352.2" type="curve" smooth="yes"/>
+      <point x="41.8" y="333.6" type="line" smooth="yes"/>
+      <point x="41.8" y="264.2"/>
+      <point x="91.6" y="212.6"/>
+      <point x="162.4" y="185" type="curve"/>
+    </contour>
+    <contour>
+      <point x="267.6" y="268.8" type="line" smooth="yes"/>
+      <point x="218.4" y="268.8"/>
+      <point x="182.8" y="298.2"/>
+      <point x="182.8" y="337.4" type="curve" smooth="yes"/>
+      <point x="182.8" y="348.4" type="line" smooth="yes"/>
+      <point x="182.8" y="387"/>
+      <point x="218.4" y="412.2"/>
+      <point x="267.6" y="412.2" type="curve" smooth="yes"/>
+      <point x="366.2" y="412.2" type="line"/>
+      <point x="366.2" y="268.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="141.8" y="204.2" type="line"/>
+      <point x="24.6" y="0" type="line"/>
+      <point x="178.8" y="0" type="line"/>
+      <point x="275.8" y="180.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  </dict>
+  </lib>
+</glyph>

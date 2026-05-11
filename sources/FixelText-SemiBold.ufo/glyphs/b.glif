@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="2">
+  <advance width="623"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="348.2" y="-9.2" type="curve" smooth="yes"/>
+      <point x="356.8" y="-9.2" type="line" smooth="yes"/>
+      <point x="493.4" y="-9.2"/>
+      <point x="587" y="95"/>
+      <point x="587" y="245.4" type="curve" smooth="yes"/>
+      <point x="587" y="274.6" type="line" smooth="yes"/>
+      <point x="587" y="425"/>
+      <point x="493.4" y="529.2"/>
+      <point x="356.8" y="529.2" type="curve" smooth="yes"/>
+      <point x="348.2" y="529.2" type="line" smooth="yes"/>
+      <point x="286.2" y="529.2"/>
+      <point x="233.2" y="507.4"/>
+      <point x="194.2" y="469.4" type="curve"/>
+      <point x="194.2" y="720" type="line"/>
+      <point x="70.2" y="720" type="line"/>
+      <point x="70.2" y="0" type="line"/>
+      <point x="168.2" y="0" type="line"/>
+      <point x="174.4" y="15.4"/>
+      <point x="179.6" y="39.8"/>
+      <point x="182" y="61.2" type="curve"/>
+      <point x="182" y="61.2" type="line"/>
+      <point x="222.2" y="16.6"/>
+      <point x="280.2" y="-9.2"/>
+    </contour>
+    <contour>
+      <point x="321.6" y="89.6" type="line" smooth="yes"/>
+      <point x="244.4" y="89.6"/>
+      <point x="193.8" y="154"/>
+      <point x="193.8" y="249.8" type="curve" smooth="yes"/>
+      <point x="193.8" y="273.8" type="line" smooth="yes"/>
+      <point x="193.8" y="368.2"/>
+      <point x="245" y="430.4"/>
+      <point x="321.6" y="430.4" type="curve" smooth="yes"/>
+      <point x="330.4" y="430.4" type="line" smooth="yes"/>
+      <point x="407" y="430.4"/>
+      <point x="458.2" y="368.2"/>
+      <point x="458.2" y="273.8" type="curve" smooth="yes"/>
+      <point x="458.2" y="249.8" type="line" smooth="yes"/>
+      <point x="458.2" y="153.4"/>
+      <point x="407" y="89.6"/>
+      <point x="330.4" y="89.6" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  </dict>
+  </lib>
+</glyph>

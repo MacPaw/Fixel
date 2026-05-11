@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="2">
+  <advance width="598"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="520" y="-6.2" type="curve" smooth="yes"/>
+      <point x="538.4" y="-6.2"/>
+      <point x="553.6" y="-4"/>
+      <point x="570.4" y="0.6" type="curve"/>
+      <point x="570.4" y="84.6" type="line"/>
+      <point x="560" y="80.8"/>
+      <point x="550" y="78.8"/>
+      <point x="541.8" y="78.8" type="curve" smooth="yes"/>
+      <point x="510.2" y="78.8"/>
+      <point x="494.4" y="92.8"/>
+      <point x="494.4" y="157.2" type="curve" smooth="yes"/>
+      <point x="494.4" y="435" type="line"/>
+      <point x="563.2" y="435" type="line"/>
+      <point x="563.2" y="520" type="line"/>
+      <point x="25.8" y="520" type="line"/>
+      <point x="25.8" y="435" type="line"/>
+      <point x="93" y="435" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="435" type="line"/>
+      <point x="395.4" y="435" type="line"/>
+      <point x="395.4" y="139.2" type="line" smooth="yes"/>
+      <point x="395.4" y="31.6"/>
+      <point x="450.2" y="-6.2"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="415" y="0"/>
+  <guideline angle="90" x="434" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>t</string>
+  </dict>
+  </lib>
+</glyph>

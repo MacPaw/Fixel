@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="659"/>
+  <unicode hex="010F"/>
+  <anchor x="555.8" y="517" name="right"/>
+  <outline>
+    <component base="d"/>
+    <component base="caron.salt" xScale="1" xOffset="767.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d+caron.salt</string>
+  </dict>
+  </lib>
+</glyph>

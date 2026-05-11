@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.osf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="295.6" y="-154.6" type="curve" smooth="yes"/>
+      <point x="459.8" y="-154.6"/>
+      <point x="565.8" y="-50"/>
+      <point x="565.8" y="105" type="curve" smooth="yes"/>
+      <point x="565.8" y="248.4"/>
+      <point x="475.2" y="338.2"/>
+      <point x="327.4" y="338.2" type="curve" smooth="yes"/>
+      <point x="268" y="338.2"/>
+      <point x="215.6" y="322.8"/>
+      <point x="169.4" y="295.8" type="curve"/>
+      <point x="191.2" y="495.6" type="line"/>
+      <point x="519.8" y="495.6" type="line"/>
+      <point x="519.8" y="589" type="line"/>
+      <point x="108.8" y="589" type="line"/>
+      <point x="69.4" y="217.2" type="line"/>
+      <point x="156.8" y="193.4" type="line"/>
+      <point x="199.2" y="229.8"/>
+      <point x="251.4" y="248.8"/>
+      <point x="313" y="248.8" type="curve" smooth="yes"/>
+      <point x="406.6" y="248.8"/>
+      <point x="460.4" y="195.2"/>
+      <point x="460.4" y="100.8" type="curve" smooth="yes"/>
+      <point x="460.4" y="5.4"/>
+      <point x="405" y="-58"/>
+      <point x="296.2" y="-58" type="curve" smooth="yes"/>
+      <point x="221.2" y="-58"/>
+      <point x="162.6" y="-27.4"/>
+      <point x="135.4" y="38.6" type="curve"/>
+      <point x="39.4" y="14" type="line"/>
+      <point x="70.4" y="-92.6"/>
+      <point x="168" y="-154.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>five</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>five</string>
+  </dict>
+  </lib>
+</glyph>

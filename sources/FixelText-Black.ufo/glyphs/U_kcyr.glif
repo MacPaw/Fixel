@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ukcyr" format="2">
+  <advance width="1319"/>
+  <unicode hex="0478"/>
+  <outline>
+    <component base="O-cy"/>
+    <component base="u-cy" xOffset="746"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>y</string>
+  <key>com.fontlab.recipe</key>
+  <string>О_у</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

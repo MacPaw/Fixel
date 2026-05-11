@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zetailcyr.BSH" format="2">
+  <advance width="590"/>
+  <unicode hex="F50A"/>
+  <outline>
+    <contour>
+      <point x="288" y="-8" type="curve" smooth="yes"/>
+      <point x="428" y="-8"/>
+      <point x="529.333" y="74"/>
+      <point x="529.333" y="188" type="curve" smooth="yes"/>
+      <point x="529.333" y="191.333" type="line" smooth="yes"/>
+      <point x="529.333" y="276.333"/>
+      <point x="477.667" y="340.667"/>
+      <point x="403.333" y="369" type="curve"/>
+      <point x="456.667" y="400.333"/>
+      <point x="494" y="455.333"/>
+      <point x="494" y="524" type="curve" smooth="yes"/>
+      <point x="494" y="528" type="line" smooth="yes"/>
+      <point x="494" y="633.667"/>
+      <point x="408" y="709"/>
+      <point x="286" y="709" type="curve" smooth="yes"/>
+      <point x="188.333" y="709"/>
+      <point x="104" y="658"/>
+      <point x="53.3333" y="571" type="curve"/>
+      <point x="104" y="539" type="line"/>
+      <point x="141.667" y="611"/>
+      <point x="204" y="650.667"/>
+      <point x="280.333" y="650.667" type="curve" smooth="yes"/>
+      <point x="370.667" y="650.667"/>
+      <point x="431.333" y="598.667"/>
+      <point x="431.333" y="521.667" type="curve" smooth="yes"/>
+      <point x="431.333" y="517" type="line" smooth="yes"/>
+      <point x="431.333" y="438.333"/>
+      <point x="375.667" y="387.667"/>
+      <point x="292.667" y="387.667" type="curve" smooth="yes"/>
+      <point x="217" y="387.667" type="line"/>
+      <point x="217" y="330.333" type="line"/>
+      <point x="307" y="330.333" type="line" smooth="yes"/>
+      <point x="402" y="330.333"/>
+      <point x="466.667" y="278.333"/>
+      <point x="466.667" y="195" type="curve" smooth="yes"/>
+      <point x="466.667" y="190.333" type="line" smooth="yes"/>
+      <point x="466.667" y="104.333"/>
+      <point x="397.333" y="49"/>
+      <point x="291" y="49" type="curve" smooth="yes"/>
+      <point x="200.667" y="49"/>
+      <point x="131" y="90"/>
+      <point x="81.3333" y="172.333" type="curve"/>
+      <point x="32" y="140.667" type="line"/>
+      <point x="87.3333" y="46.6667"/>
+      <point x="175.667" y="-8"/>
+    </contour>
+    <contour>
+      <point x="275.333" y="15.3333" type="curve"/>
+      <point x="254.667" y="-5.33333" type="line"/>
+      <point x="278" y="-19.6667"/>
+      <point x="290.333" y="-42"/>
+      <point x="288.333" y="-62.6667" type="curve"/>
+      <point x="266.333" y="-62.6667"/>
+      <point x="251.667" y="-78"/>
+      <point x="251.667" y="-100" type="curve" smooth="yes"/>
+      <point x="251.667" y="-122"/>
+      <point x="266.333" y="-137"/>
+      <point x="288.225" y="-137" type="curve" smooth="yes"/>
+      <point x="314.333" y="-137"/>
+      <point x="331" y="-115.667"/>
+      <point x="331" y="-83.3775" type="curve" smooth="yes"/>
+      <point x="331" y="-46"/>
+      <point x="308.667" y="-7"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="288" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>З</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>З</string>
+  <key>com.fontlab.recipe</key>
+  <string>Zetailcyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

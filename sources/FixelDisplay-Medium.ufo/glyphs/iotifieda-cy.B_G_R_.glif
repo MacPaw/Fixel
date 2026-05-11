@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotifieda-cy.BGR" format="2">
+  <advance width="746"/>
+  <outline>
+    <contour>
+      <point x="612.2" y="131" type="line"/>
+      <point x="612.2" y="212.6" type="line"/>
+      <point x="340.8" y="212.6" type="line"/>
+      <point x="340.8" y="131" type="line"/>
+    </contour>
+    <contour>
+      <point x="82.4" y="0" type="line"/>
+      <point x="178.2" y="0" type="line"/>
+      <point x="178.2" y="315" type="line"/>
+      <point x="393.2" y="315" type="line"/>
+      <point x="393.2" y="400" type="line"/>
+      <point x="178.2" y="400" type="line"/>
+      <point x="178.2" y="720" type="line"/>
+      <point x="82.4" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="546.6" y="520" type="line"/>
+      <point x="405.4" y="520" type="line"/>
+      <point x="224.4" y="0" type="line"/>
+      <point x="328.6" y="0" type="line"/>
+      <point x="465.8" y="420.8" type="line"/>
+      <point x="485" y="420.8" type="line"/>
+      <point x="621.6" y="0" type="line"/>
+      <point x="726.6" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>el-cy.BGR</string>
+  <key>com.fontlab.recipe</key>
+  <string>iotifieda-cy</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IotifiedA-cy" format="2">
+  <advance width="989"/>
+  <unicode hex="A656"/>
+  <outline>
+    <contour>
+      <point x="495" y="520" type="line"/>
+      <point x="268" y="520" type="line"/>
+      <point x="268" y="700" type="line"/>
+      <point x="61" y="700" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="344" type="line"/>
+      <point x="495" y="344" type="line"/>
+    </contour>
+    <contour>
+      <point x="780" y="0" type="line"/>
+      <point x="999" y="0" type="line"/>
+      <point x="778" y="700" type="line"/>
+      <point x="522" y="700" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="642" y="478" type="line"/>
+      <point x="657" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="795" y="267" type="line"/>
+      <point x="500" y="267" type="line"/>
+      <point x="500" y="110" type="line"/>
+      <point x="795" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

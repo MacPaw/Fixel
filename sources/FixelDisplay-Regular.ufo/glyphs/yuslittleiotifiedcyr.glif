@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuslittleiotifiedcyr" format="2">
+  <advance width="747"/>
+  <unicode hex="0469"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="210" type="line"/>
+      <point x="332" y="210" type="line"/>
+      <point x="332" y="280" type="line"/>
+      <point x="160" y="280" type="line"/>
+      <point x="160" y="520" type="line"/>
+      <point x="90" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="509" y="520" type="line"/>
+      <point x="414" y="520" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="367" y="226" type="line"/>
+      <point x="456" y="436" type="line"/>
+      <point x="466" y="436" type="line"/>
+      <point x="553" y="231" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="732" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="210" type="line"/>
+      <point x="594" y="210" type="line"/>
+      <point x="594" y="280" type="line"/>
+      <point x="320" y="280" type="line"/>
+      <point x="320" y="210" type="line"/>
+      <point x="424" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>v-10</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

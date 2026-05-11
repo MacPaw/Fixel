@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gehookstrokecyr" format="2">
+  <advance width="488"/>
+  <unicode hex="04FA"/>
+  <outline>
+    <contour>
+      <point x="116.667" y="0" type="line"/>
+      <point x="156.667" y="8.33333" type="line"/>
+      <point x="156.667" y="662" type="line"/>
+      <point x="461.333" y="662" type="line"/>
+      <point x="461.333" y="700" type="line"/>
+      <point x="116.667" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="344.333" type="line"/>
+      <point x="326" y="344.333" type="line"/>
+      <point x="326" y="379.667" type="line"/>
+      <point x="40" y="379.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="247.667" y="-49.3333" type="line" smooth="yes"/>
+      <point x="247.667" y="-124.667"/>
+      <point x="226" y="-158.667"/>
+      <point x="177.601" y="-158.667" type="curve" smooth="yes"/>
+      <point x="161" y="-158.667"/>
+      <point x="143.667" y="-154.667"/>
+      <point x="123.333" y="-146" type="curve"/>
+      <point x="123.333" y="-184.333" type="line"/>
+      <point x="141.667" y="-192.333"/>
+      <point x="163.667" y="-196.667"/>
+      <point x="184.297" y="-196.667" type="curve" smooth="yes"/>
+      <point x="252" y="-196.667"/>
+      <point x="286.333" y="-150"/>
+      <point x="286.333" y="-57" type="curve" smooth="yes"/>
+      <point x="286.333" y="38" type="line"/>
+      <point x="146.667" y="38" type="line"/>
+      <point x="116.667" y="0" type="line"/>
+      <point x="247.667" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Gestrokecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Gestrokecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

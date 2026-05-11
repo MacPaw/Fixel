@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="588"/>
+  <unicode hex="00C8"/>
+  <anchor x="537" y="0" name="bottom"/>
+  <anchor x="298" y="520" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="grave.case" xOffset="451"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+grave.case</string>
+  </dict>
+  </lib>
+</glyph>

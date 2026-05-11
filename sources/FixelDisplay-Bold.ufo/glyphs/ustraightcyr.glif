@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustraightcyr" format="2">
+  <advance width="568"/>
+  <unicode hex="04AF"/>
+  <anchor x="284.4" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="208.4" y="39.4" type="line"/>
+      <point x="208.4" y="-200" type="line"/>
+      <point x="357.4" y="-200" type="line"/>
+      <point x="357.4" y="39.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.4" y="0" type="line"/>
+      <point x="369.8" y="0" type="line"/>
+      <point x="559.4" y="520" type="line"/>
+      <point x="403.8" y="520" type="line"/>
+      <point x="289.4" y="129.6" type="line"/>
+      <point x="279.4" y="129.6" type="line"/>
+      <point x="164.8" y="520" type="line"/>
+      <point x="8.8" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>v</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

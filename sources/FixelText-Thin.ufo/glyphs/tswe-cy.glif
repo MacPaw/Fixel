@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tswe-cy" format="2">
+  <advance width="646"/>
+  <unicode hex="A68F"/>
+  <outline>
+    <contour>
+      <point x="506" y="9" type="line"/>
+      <point x="506" y="520" type="line"/>
+      <point x="486" y="520" type="line"/>
+      <point x="486" y="19" type="line"/>
+      <point x="115" y="19" type="line"/>
+      <point x="115" y="520" type="line"/>
+      <point x="95" y="520" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="0" type="line"/>
+      <point x="536" y="0"/>
+      <point x="586" y="-31"/>
+      <point x="586" y="-88.865" type="curve" smooth="yes"/>
+      <point x="586" y="-149"/>
+      <point x="532" y="-181"/>
+      <point x="431" y="-181" type="curve" smooth="yes"/>
+      <point x="306" y="-181" type="line" smooth="yes"/>
+      <point x="243" y="-181"/>
+      <point x="201" y="-162"/>
+      <point x="201" y="-134.5" type="curve" smooth="yes"/>
+      <point x="201" y="-107"/>
+      <point x="243" y="-90"/>
+      <point x="306" y="-90" type="curve" smooth="yes"/>
+      <point x="459" y="-90" type="line"/>
+      <point x="459" y="-71" type="line"/>
+      <point x="306" y="-71" type="line" smooth="yes"/>
+      <point x="231" y="-71"/>
+      <point x="181" y="-97"/>
+      <point x="181" y="-135.5" type="curve" smooth="yes"/>
+      <point x="181" y="-174"/>
+      <point x="231" y="-200"/>
+      <point x="306" y="-200" type="curve" smooth="yes"/>
+      <point x="431" y="-200" type="line" smooth="yes"/>
+      <point x="543" y="-200"/>
+      <point x="606" y="-160"/>
+      <point x="606" y="-88.2489" type="curve" smooth="yes"/>
+      <point x="606" y="-20"/>
+      <point x="549" y="18"/>
+      <point x="447" y="18" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ш</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>shwe-cy</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

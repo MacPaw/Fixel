@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="2">
+  <advance width="773"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="103" y="339" type="line" smooth="yes"/>
+      <point x="103" y="180.333"/>
+      <point x="202.333" y="64.6667"/>
+      <point x="337.667" y="38" type="curve"/>
+      <point x="327" y="5" type="line"/>
+      <point x="175" y="34"/>
+      <point x="61.6667" y="161.667"/>
+      <point x="61.6667" y="343.667" type="curve" smooth="yes"/>
+      <point x="61.6667" y="361" type="line" smooth="yes"/>
+      <point x="61.6667" y="569.333"/>
+      <point x="194.333" y="706.333"/>
+      <point x="384.333" y="706.333" type="curve" smooth="yes"/>
+      <point x="389" y="706.333" type="line" smooth="yes"/>
+      <point x="579" y="706.333"/>
+      <point x="711.667" y="568.667"/>
+      <point x="711.667" y="359.333" type="curve" smooth="yes"/>
+      <point x="711.667" y="342" type="line" smooth="yes"/>
+      <point x="711.667" y="162"/>
+      <point x="598.333" y="34.3333"/>
+      <point x="446.333" y="5.33333" type="curve"/>
+      <point x="435.667" y="38.3333" type="line"/>
+      <point x="571" y="65"/>
+      <point x="670.333" y="180.667"/>
+      <point x="670.333" y="339.333" type="curve" smooth="yes"/>
+      <point x="670.333" y="360.667" type="line" smooth="yes"/>
+      <point x="670.333" y="542.667"/>
+      <point x="555" y="667.667"/>
+      <point x="388" y="667.667" type="curve" smooth="yes"/>
+      <point x="384" y="667.667" type="line" smooth="yes"/>
+      <point x="218.333" y="667.667"/>
+      <point x="103" y="542.667"/>
+      <point x="103" y="360.333" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="435.667" y="0" type="line"/>
+      <point x="435.667" y="38" type="line"/>
+      <point x="659.667" y="38" type="line"/>
+      <point x="659.667" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="337.667" y="0" type="line"/>
+      <point x="113.667" y="0" type="line"/>
+      <point x="113.667" y="38" type="line"/>
+      <point x="337.667" y="38" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="19"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O+10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O+10</string>
+  </dict>
+  </lib>
+</glyph>

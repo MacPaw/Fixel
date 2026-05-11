@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF51E" format="2">
+  <advance width="767"/>
+  <unicode hex="F51E"/>
+  <outline>
+    <component base="Obarcyr"/>
+    <component base="dieresis.case" xyScale="3.09441e-19" xOffset="625" yOffset="-13.4"/>
+    <component base="breve.case" xScale="1" xOffset="585.6" yOffset="152"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>com.fontlab.recipe</key>
+  <string>Obarcyr+dieresis.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

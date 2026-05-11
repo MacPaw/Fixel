@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xatailcyr" format="2">
+  <advance width="599"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="287" y="168" type="line"/>
+      <point x="294" y="168" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="424" y="271" type="line"/>
+      <point x="424" y="275" type="line"/>
+      <point x="579" y="520" type="line"/>
+      <point x="370" y="520" type="line"/>
+      <point x="297" y="372" type="line"/>
+      <point x="291" y="372" type="line"/>
+      <point x="219" y="520" type="line"/>
+      <point x="7" y="520" type="line"/>
+      <point x="163" y="274" type="line"/>
+      <point x="163" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="-128" type="line"/>
+      <point x="589" y="-128" type="line"/>
+      <point x="589" y="139" type="line"/>
+      <point x="374" y="139" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>zhetailcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

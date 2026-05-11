@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuslittlecyr" format="2">
+  <advance width="630"/>
+  <unicode hex="0467"/>
+  <anchor x="315.8" y="520" name="top"/>
+  <anchor x="315.8" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="421.4" y="520" type="line"/>
+      <point x="210.4" y="520" type="line"/>
+      <point x="-5.6" y="0" type="line"/>
+      <point x="164.8" y="0" type="line"/>
+      <point x="233.8" y="191.6" type="line"/>
+      <point x="309.2" y="393.6" type="line"/>
+      <point x="320.8" y="393.6" type="line"/>
+      <point x="394.2" y="199" type="line"/>
+      <point x="465.8" y="0" type="line"/>
+      <point x="636.4" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="255.6" y="0" type="line"/>
+      <point x="375.2" y="0" type="line"/>
+      <point x="375.2" y="165.2" type="line"/>
+      <point x="501.6" y="165.2" type="line"/>
+      <point x="501.6" y="281.6" type="line"/>
+      <point x="127.6" y="281.6" type="line"/>
+      <point x="127.6" y="165.2" type="line"/>
+      <point x="255.6" y="165.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>v-5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>v-5</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

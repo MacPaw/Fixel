@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="2">
+  <advance width="751"/>
+  <unicode hex="0147"/>
+  <anchor x="375.6" y="0" name="bottom"/>
+  <anchor x="375.6" y="521.2" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="caron.case" xScale="1" xyScale="-5.43565e-20" xOffset="595.2" yOffset="1.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+caron.case</string>
+  </dict>
+  </lib>
+</glyph>

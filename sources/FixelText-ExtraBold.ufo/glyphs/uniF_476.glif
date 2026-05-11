@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF476" format="2">
+  <advance width="285"/>
+  <unicode hex="F476"/>
+  <anchor x="229.4" y="0" name="bottom"/>
+  <anchor x="142.8" y="520" name="top"/>
+  <anchor x="142.8" y="520" name="top.1"/>
+  <outline>
+    <component base="iacute"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iacute</string>
+  </dict>
+  </lib>
+</glyph>

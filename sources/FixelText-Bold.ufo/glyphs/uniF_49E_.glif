@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF49E" format="2">
+  <advance width="700"/>
+  <unicode hex="F49E"/>
+  <outline>
+    <contour>
+      <point x="285.2" y="700" type="line"/>
+      <point x="129" y="700" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="285.2" y="0" type="line"/>
+      <point x="285.2" y="281.6" type="line"/>
+      <point x="323.2" y="294.6"/>
+      <point x="353" y="300.8"/>
+      <point x="384" y="300.8" type="curve" smooth="yes"/>
+      <point x="461.6" y="300.8"/>
+      <point x="489.2" y="269"/>
+      <point x="489.2" y="176.8" type="curve" smooth="yes"/>
+      <point x="489.2" y="0" type="line"/>
+      <point x="646" y="0" type="line"/>
+      <point x="646" y="211" type="line" smooth="yes"/>
+      <point x="646" y="360"/>
+      <point x="572.8" y="434.4"/>
+      <point x="426.6" y="434.4" type="curve" smooth="yes"/>
+      <point x="384" y="434.4"/>
+      <point x="338.2" y="427"/>
+      <point x="285.2" y="411.6" type="curve"/>
+    </contour>
+    <contour>
+      <point x="20" y="514" type="line"/>
+      <point x="425.2" y="514" type="line"/>
+      <point x="425.2" y="635" type="line"/>
+      <point x="20" y="635" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Yatcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Tshecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>Shhacyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

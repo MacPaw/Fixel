@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Reversedzecyr" format="2">
+  <advance width="628"/>
+  <unicode hex="0510"/>
+  <anchor x="310.2" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="296.4" y="-14.4" type="curve" smooth="yes"/>
+      <point x="140" y="-14.4"/>
+      <point x="29.2" y="65.2"/>
+      <point x="29.2" y="174.6" type="curve" smooth="yes"/>
+      <point x="29.2" y="184.8" type="line" smooth="yes"/>
+      <point x="29.2" y="258.6"/>
+      <point x="77.4" y="323.6"/>
+      <point x="146.6" y="352.6" type="curve"/>
+      <point x="88.8" y="387"/>
+      <point x="53.6" y="445.2"/>
+      <point x="53.6" y="511.2" type="curve" smooth="yes"/>
+      <point x="53.6" y="523.2" type="line" smooth="yes"/>
+      <point x="53.6" y="635.4"/>
+      <point x="156.2" y="715.4"/>
+      <point x="290.6" y="715.4" type="curve" smooth="yes"/>
+      <point x="412.6" y="715.4"/>
+      <point x="514" y="657.4"/>
+      <point x="577.8" y="559.8" type="curve"/>
+      <point x="425" y="473.6" type="line"/>
+      <point x="398.8" y="527.8"/>
+      <point x="353.6" y="559"/>
+      <point x="303.4" y="559" type="curve" smooth="yes"/>
+      <point x="258.4" y="559"/>
+      <point x="229.6" y="533.8"/>
+      <point x="229.6" y="492.6" type="curve"/>
+      <point x="229.6" y="491" type="line"/>
+      <point x="229.6" y="446.8"/>
+      <point x="258.2" y="419.4"/>
+      <point x="311.6" y="419.4" type="curve" smooth="yes"/>
+      <point x="373.6" y="419.4" type="line"/>
+      <point x="373.6" y="293.8" type="line"/>
+      <point x="304.2" y="293.8" type="line" smooth="yes"/>
+      <point x="247.8" y="293.8"/>
+      <point x="213.2" y="269.2"/>
+      <point x="213.2" y="219.6" type="curve" smooth="yes"/>
+      <point x="213.2" y="217.2" type="line" smooth="yes"/>
+      <point x="213.2" y="168.2"/>
+      <point x="250" y="140.8"/>
+      <point x="311" y="140.8" type="curve" smooth="yes"/>
+      <point x="372" y="140.8"/>
+      <point x="415.6" y="168.4"/>
+      <point x="446.4" y="233.8" type="curve"/>
+      <point x="604.4" y="145.2" type="line"/>
+      <point x="534" y="40.4"/>
+      <point x="428" y="-14.4"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|З</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|З</string>
+  <key>com.fontlab.recipe</key>
+  <string>З</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardsign-cy.BGR" format="2">
+  <advance width="591"/>
+  <outline>
+    <contour>
+      <point x="334.8" y="-10.8" type="curve" smooth="yes"/>
+      <point x="465.8" y="-10.8"/>
+      <point x="564.6" y="71.2"/>
+      <point x="564.6" y="193.2" type="curve" smooth="yes"/>
+      <point x="564.6" y="303"/>
+      <point x="492.2" y="369.2"/>
+      <point x="371.8" y="369.2" type="curve" smooth="yes"/>
+      <point x="334.4" y="369.2"/>
+      <point x="297.6" y="362"/>
+      <point x="263" y="349.2" type="curve"/>
+      <point x="263" y="520" type="line"/>
+      <point x="13.8" y="520" type="line"/>
+      <point x="13.8" y="401.4" type="line"/>
+      <point x="114" y="401.4" type="line"/>
+      <point x="114" y="61.4" type="line"/>
+      <point x="169.4" y="12.4"/>
+      <point x="252.8" y="-10.8"/>
+    </contour>
+    <contour>
+      <point x="258.8" y="238" type="line"/>
+      <point x="279.2" y="252.8"/>
+      <point x="308.8" y="261.8"/>
+      <point x="337.4" y="261.8" type="curve" smooth="yes"/>
+      <point x="388.6" y="261.8"/>
+      <point x="418.6" y="232.8"/>
+      <point x="418.6" y="185.4" type="curve" smooth="yes"/>
+      <point x="418.6" y="132.8"/>
+      <point x="382.4" y="98.2"/>
+      <point x="328" y="98.2" type="curve" smooth="yes"/>
+      <point x="303.8" y="98.2"/>
+      <point x="278.4" y="105"/>
+      <point x="258.8" y="116.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

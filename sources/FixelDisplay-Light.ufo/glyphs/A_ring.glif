@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="637"/>
+  <unicode hex="00C5"/>
+  <anchor x="628.333" y="0" name="bottom"/>
+  <anchor x="318.333" y="520" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ring.case" xOffset="470.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+ring.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="EmSoft-cy" format="2">
+  <advance width="1036"/>
+  <unicode hex="A666"/>
+  <outline>
+    <contour>
+      <point x="82.4" y="0" type="line"/>
+      <point x="210.4" y="0" type="line"/>
+      <point x="210.4" y="542.4" type="line"/>
+      <point x="217.4" y="542.4" type="line"/>
+      <point x="380.8" y="95.2" type="line"/>
+      <point x="482" y="95.2" type="line"/>
+      <point x="645.4" y="542.4" type="line"/>
+      <point x="652.4" y="542.4" type="line"/>
+      <point x="652.4" y="0" type="line"/>
+      <point x="780.4" y="0" type="line"/>
+      <point x="780.4" y="584" type="line"/>
+      <point x="1016.2" y="584" type="line"/>
+      <point x="1016.2" y="700" type="line"/>
+      <point x="593.2" y="700" type="line"/>
+      <point x="434.6" y="263.2" type="line"/>
+      <point x="428.2" y="263.2" type="line"/>
+      <point x="269" y="700" type="line"/>
+      <point x="82.4" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>M</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ґ</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

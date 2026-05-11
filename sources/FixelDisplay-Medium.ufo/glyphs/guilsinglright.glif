@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="2">
+  <advance width="382"/>
+  <unicode hex="203A"/>
+  <outline>
+    <component base="guilsinglleft" xScale="-1" xOffset="381.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|guilsinglleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|guilsinglleft</string>
+  </dict>
+  </lib>
+</glyph>

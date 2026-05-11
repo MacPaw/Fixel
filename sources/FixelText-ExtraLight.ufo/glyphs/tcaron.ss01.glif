@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron.ss01" format="2">
+  <advance width="369"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="147" y="517" name="right"/>
+  <outline>
+    <component base="t.ss01"/>
+    <component base="caron.salt" xOffset="368.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>t.ss01+caron.salt</string>
+  </dict>
+  </lib>
+</glyph>

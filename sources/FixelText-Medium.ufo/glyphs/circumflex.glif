@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <unicode hex="02C6"/>
+  <anchor x="-208" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-25.4" y="595.6" type="line"/>
+      <point x="-149.4" y="720" type="line"/>
+      <point x="-266.6" y="720" type="line"/>
+      <point x="-390.6" y="595.6" type="line"/>
+      <point x="-285.4" y="595.6" type="line"/>
+      <point x="-217" y="658.2" type="line"/>
+      <point x="-199" y="658.2" type="line"/>
+      <point x="-130.6" y="595.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

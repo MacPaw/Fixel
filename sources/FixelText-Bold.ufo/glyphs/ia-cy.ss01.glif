@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ia-cy.ss01" format="2">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="19.6" y="0" type="line"/>
+      <point x="173.8" y="0" type="line"/>
+      <point x="262.8" y="165" type="line"/>
+      <point x="341.2" y="165" type="line"/>
+      <point x="341.2" y="0" type="line"/>
+      <point x="482.4" y="0" type="line"/>
+      <point x="482.4" y="441.4" type="line"/>
+      <point x="426.2" y="496.4"/>
+      <point x="339.6" y="530.8"/>
+      <point x="256.4" y="530.8" type="curve" smooth="yes"/>
+      <point x="247.4" y="530.8" type="line" smooth="yes"/>
+      <point x="127" y="530.8"/>
+      <point x="36.8" y="457.4"/>
+      <point x="36.8" y="355.8" type="curve" smooth="yes"/>
+      <point x="36.8" y="338.6" type="line" smooth="yes"/>
+      <point x="36.8" y="275.4"/>
+      <point x="74.6" y="221.4"/>
+      <point x="130.4" y="190" type="curve"/>
+    </contour>
+    <contour>
+      <point x="274.4" y="266.8" type="line" smooth="yes"/>
+      <point x="213.2" y="266.8"/>
+      <point x="176.2" y="304"/>
+      <point x="176.2" y="345.6" type="curve" smooth="yes"/>
+      <point x="176.2" y="353.8" type="line" smooth="yes"/>
+      <point x="176.2" y="394.8"/>
+      <point x="207.8" y="420"/>
+      <point x="257.2" y="420" type="curve" smooth="yes"/>
+      <point x="262.4" y="420" type="line" smooth="yes"/>
+      <point x="290.8" y="420"/>
+      <point x="321.4" y="412.2"/>
+      <point x="343" y="397.6" type="curve"/>
+      <point x="343" y="266.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

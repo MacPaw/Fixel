@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pehookcyr" format="2">
+  <advance width="1041"/>
+  <unicode hex="04A6"/>
+  <outline>
+    <contour>
+      <point x="710" y="-130.333" type="curve"/>
+      <point x="710" y="-184.667" type="line"/>
+      <point x="732.333" y="-192"/>
+      <point x="756.333" y="-195.667"/>
+      <point x="778.333" y="-195.667" type="curve" smooth="yes"/>
+      <point x="885.667" y="-195.667"/>
+      <point x="962.667" y="-121"/>
+      <point x="962.667" y="24" type="curve" smooth="yes"/>
+      <point x="962.667" y="195" type="line" smooth="yes"/>
+      <point x="962.667" y="356"/>
+      <point x="869.333" y="427.667"/>
+      <point x="744.667" y="427.667" type="curve" smooth="yes"/>
+      <point x="688.667" y="427.667"/>
+      <point x="630.667" y="414"/>
+      <point x="568.667" y="390.333" type="curve"/>
+      <point x="568.667" y="332" type="line"/>
+      <point x="628.333" y="355.667"/>
+      <point x="687" y="370.333"/>
+      <point x="740.333" y="370.333" type="curve" smooth="yes"/>
+      <point x="835" y="370.333"/>
+      <point x="902.667" y="323.667"/>
+      <point x="902.667" y="196.333" type="curve" smooth="yes"/>
+      <point x="902.667" y="35.3333" type="line" smooth="yes"/>
+      <point x="902.667" y="-85.6667"/>
+      <point x="848.333" y="-138.333"/>
+      <point x="766.667" y="-138.333" type="curve" smooth="yes"/>
+      <point x="747.333" y="-138.333"/>
+      <point x="729" y="-135"/>
+    </contour>
+    <contour>
+      <point x="103.333" y="0" type="line"/>
+      <point x="163.333" y="0" type="line"/>
+      <point x="163.333" y="643" type="line"/>
+      <point x="520.667" y="643" type="line"/>
+      <point x="520.667" y="0" type="line"/>
+      <point x="580.667" y="0" type="line"/>
+      <point x="580.667" y="700" type="line"/>
+      <point x="103.333" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>П</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Shhacyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.ss01" format="2">
+  <advance width="636"/>
+  <outline>
+    <contour>
+      <point x="189.6" y="0" type="line"/>
+      <point x="362.6" y="0" type="line"/>
+      <point x="471.8" y="187.4"/>
+      <point x="584.2" y="453"/>
+      <point x="603.8" y="700" type="curve"/>
+      <point x="467" y="700" type="line"/>
+      <point x="460.6" y="509.2"/>
+      <point x="372.2" y="260"/>
+      <point x="297" y="122" type="curve"/>
+      <point x="285" y="122" type="line"/>
+      <point x="146" y="700" type="line"/>
+      <point x="6" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

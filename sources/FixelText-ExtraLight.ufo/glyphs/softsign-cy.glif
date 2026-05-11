@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softsign-cy" format="2">
+  <advance width="501"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="91.6667" y="0" type="line"/>
+      <point x="283.667" y="0" type="line" smooth="yes"/>
+      <point x="388.667" y="0"/>
+      <point x="459" y="63.3333"/>
+      <point x="459" y="157" type="curve" smooth="yes"/>
+      <point x="459" y="167.667" type="line" smooth="yes"/>
+      <point x="459" y="261.333"/>
+      <point x="388.667" y="324.667"/>
+      <point x="283.667" y="324.667" type="curve" smooth="yes"/>
+      <point x="129.667" y="324.667" type="line"/>
+      <point x="129.667" y="520" type="line"/>
+      <point x="91.6667" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="129.667" y="36" type="line"/>
+      <point x="129.667" y="288.667" type="line"/>
+      <point x="285.333" y="288.667" type="line" smooth="yes"/>
+      <point x="366.333" y="288.667"/>
+      <point x="419.667" y="240.333"/>
+      <point x="419.667" y="167.667" type="curve" smooth="yes"/>
+      <point x="419.667" y="157" type="line" smooth="yes"/>
+      <point x="419.667" y="84.3333"/>
+      <point x="366.333" y="36"/>
+      <point x="285.333" y="36" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  </dict>
+  </lib>
+</glyph>

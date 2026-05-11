@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF4CC" format="2">
+  <advance width="607"/>
+  <unicode hex="F4CC"/>
+  <anchor x="316" y="520" name="top"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="acute.case" xyScale="-1.35891e-20" xOffset="494.8" yOffset="0.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>У+acute.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy.SRB" format="2">
+  <advance width="876"/>
+  <outline>
+    <component base="sha-cy.BGR"/>
+    <component base="macron-fwd" xOffset="826"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ш.BGR+macron-fwd</string>
+  </dict>
+  </lib>
+</glyph>

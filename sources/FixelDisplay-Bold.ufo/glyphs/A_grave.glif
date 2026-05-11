@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="2">
+  <advance width="674"/>
+  <unicode hex="00C0"/>
+  <anchor x="678.8" y="0" name="bottom"/>
+  <anchor x="337.2" y="520" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="grave.case" xOffset="473.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+grave.case</string>
+  </dict>
+  </lib>
+</glyph>

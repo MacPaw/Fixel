@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhe-cy.ss01" format="2">
+  <advance width="982"/>
+  <outline>
+    <contour>
+      <point x="392" y="0" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="590" y="312" type="line"/>
+      <point x="605" y="312" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="978" y="0" type="line"/>
+      <point x="776" y="378" type="line"/>
+      <point x="835" y="442"/>
+      <point x="877" y="520"/>
+      <point x="951" y="700" type="curve"/>
+      <point x="737" y="700" type="line"/>
+      <point x="711" y="588"/>
+      <point x="665" y="490"/>
+      <point x="606" y="421" type="curve"/>
+      <point x="590" y="421" type="line"/>
+      <point x="590" y="700" type="line"/>
+      <point x="392" y="700" type="line"/>
+      <point x="392" y="421" type="line"/>
+      <point x="376" y="421" type="line"/>
+      <point x="317" y="490"/>
+      <point x="271" y="588"/>
+      <point x="245" y="700" type="curve"/>
+      <point x="31" y="700" type="line"/>
+      <point x="105" y="520"/>
+      <point x="147" y="442"/>
+      <point x="206" y="378" type="curve"/>
+      <point x="4" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="377" y="312" type="line"/>
+      <point x="392" y="312" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|K</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>K</string>
+  </dict>
+  </lib>
+</glyph>

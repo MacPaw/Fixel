@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+  <advance width="545"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="301" y="-6" type="curve" smooth="yes"/>
+      <point x="422" y="-6"/>
+      <point x="503" y="78"/>
+      <point x="503" y="202" type="curve" smooth="yes"/>
+      <point x="503" y="306"/>
+      <point x="446" y="380"/>
+      <point x="357" y="405" type="curve"/>
+      <point x="419" y="427"/>
+      <point x="458" y="482"/>
+      <point x="458" y="555" type="curve" smooth="yes"/>
+      <point x="458" y="654"/>
+      <point x="388" y="720"/>
+      <point x="282" y="720" type="curve" smooth="yes"/>
+      <point x="168" y="720"/>
+      <point x="90" y="644"/>
+      <point x="90" y="529" type="curve" smooth="yes"/>
+      <point x="90" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="529" type="line" smooth="yes"/>
+      <point x="110" y="632"/>
+      <point x="180" y="701"/>
+      <point x="282" y="701" type="curve" smooth="yes"/>
+      <point x="376" y="701"/>
+      <point x="438" y="643"/>
+      <point x="438" y="555" type="curve" smooth="yes"/>
+      <point x="438" y="470"/>
+      <point x="379" y="414"/>
+      <point x="291" y="414" type="curve" smooth="yes"/>
+      <point x="230" y="414" type="line"/>
+      <point x="230" y="395" type="line"/>
+      <point x="292" y="395" type="line" smooth="yes"/>
+      <point x="407" y="395"/>
+      <point x="483" y="318"/>
+      <point x="483" y="203" type="curve" smooth="yes"/>
+      <point x="483" y="90"/>
+      <point x="411" y="14"/>
+      <point x="302" y="14" type="curve" smooth="yes"/>
+      <point x="272" y="14"/>
+      <point x="233" y="20"/>
+      <point x="205" y="30" type="curve"/>
+      <point x="205" y="10" type="line"/>
+      <point x="231" y="0"/>
+      <point x="269" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>h-5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>з</string>
+  </dict>
+  </lib>
+</glyph>

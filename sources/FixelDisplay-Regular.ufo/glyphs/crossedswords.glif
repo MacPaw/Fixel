@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="crossedswords" format="2">
+  <advance width="794"/>
+  <unicode hex="2694"/>
+  <outline>
+    <contour>
+      <point x="424" y="704" type="line"/>
+      <point x="424" y="479" type="line"/>
+      <point x="394" y="479" type="line"/>
+      <point x="394" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="607" type="line"/>
+      <point x="522" y="607" type="line"/>
+      <point x="522" y="577" type="line"/>
+      <point x="297" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="610" type="line"/>
+      <point x="709" y="13" type="line"/>
+      <point x="688" y="-8" type="line"/>
+      <point x="97" y="589" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="511" type="line"/>
+      <point x="321" y="385" type="line"/>
+      <point x="195" y="385" type="line"/>
+      <point x="195" y="415" type="line"/>
+      <point x="291" y="415" type="line"/>
+      <point x="291" y="511" type="line"/>
+    </contour>
+    <contour>
+      <point x="683" y="159" type="line"/>
+      <point x="718" y="-18" type="line"/>
+      <point x="543" y="18" type="line"/>
+      <point x="549" y="47" type="line"/>
+      <point x="679" y="21" type="line"/>
+      <point x="653" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="577" type="line"/>
+      <point x="255" y="451" type="line"/>
+      <point x="130" y="451" type="line"/>
+      <point x="130" y="481" type="line"/>
+      <point x="225" y="481" type="line"/>
+      <point x="225" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="645" type="line"/>
+      <point x="189" y="517" type="line"/>
+      <point x="62" y="517" type="line"/>
+      <point x="62" y="547" type="line"/>
+      <point x="159" y="547" type="line"/>
+      <point x="159" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="714" y="586" type="line"/>
+      <point x="679" y="586"/>
+      <point x="640" y="554"/>
+      <point x="576" y="460" type="curve" smooth="yes"/>
+      <point x="480" y="321"/>
+      <point x="245" y="38"/>
+      <point x="57" y="-9" type="curve"/>
+      <point x="50" y="20" type="line"/>
+      <point x="224" y="65"/>
+      <point x="454" y="336"/>
+      <point x="551" y="477" type="curve" smooth="yes"/>
+      <point x="613" y="569"/>
+      <point x="661" y="616"/>
+      <point x="714" y="616" type="curve"/>
+    </contour>
+    <contour>
+      <point x="619" y="413" type="line"/>
+      <point x="497" y="501" type="line"/>
+      <point x="515" y="525" type="line"/>
+      <point x="637" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="586" type="curve" smooth="yes"/>
+      <point x="684" y="604"/>
+      <point x="696" y="616"/>
+      <point x="714" y="616" type="curve" smooth="yes"/>
+      <point x="732" y="616"/>
+      <point x="744" y="604"/>
+      <point x="744" y="586" type="curve" smooth="yes"/>
+      <point x="744" y="568"/>
+      <point x="732" y="556"/>
+      <point x="714" y="556" type="curve" smooth="yes"/>
+      <point x="696" y="556"/>
+      <point x="684" y="568"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=50</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

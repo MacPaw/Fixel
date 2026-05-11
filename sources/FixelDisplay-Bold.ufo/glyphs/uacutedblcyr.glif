@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacutedblcyr" format="2">
+  <advance width="573"/>
+  <unicode hex="04F3"/>
+  <anchor x="292.8" y="518.8" name="top"/>
+  <anchor x="292.8" y="518.8" name="top.1"/>
+  <outline>
+    <component base="u-cy"/>
+    <component base="hungarumlaut" xScale="1" xyScale="8.15348e-20" xOffset="534" yOffset="1.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u-cy+hungarumlaut</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

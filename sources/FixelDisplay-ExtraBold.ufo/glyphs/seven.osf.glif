@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.osf" format="2">
+  <advance width="526"/>
+  <outline>
+    <contour>
+      <point x="78.2" y="-146" type="line"/>
+      <point x="271.4" y="-146" type="line"/>
+      <point x="512.4" y="455.6" type="line"/>
+      <point x="512.4" y="585" type="line"/>
+      <point x="17.8" y="585" type="line"/>
+      <point x="17.8" y="429.8" type="line"/>
+      <point x="327.4" y="429.8" type="line"/>
+      <point x="327.4" y="416.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>seven</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>seven</string>
+  </dict>
+  </lib>
+</glyph>

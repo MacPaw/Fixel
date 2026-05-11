@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tse-cy" format="2">
+  <advance width="648"/>
+  <unicode hex="0446"/>
+  <anchor x="314.6" y="520" name="top"/>
+  <anchor x="314.6" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="508.2" y="-128" type="line"/>
+      <point x="626.2" y="-128" type="line"/>
+      <point x="626.2" y="97.6" type="line"/>
+      <point x="553.4" y="97.6" type="line"/>
+      <point x="553.4" y="520" type="line"/>
+      <point x="429.4" y="520" type="line"/>
+      <point x="429.4" y="97.6" type="line"/>
+      <point x="198.8" y="97.6" type="line"/>
+      <point x="198.8" y="520" type="line"/>
+      <point x="74.8" y="520" type="line"/>
+      <point x="74.8" y="0" type="line"/>
+      <point x="508.2" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>д</string>
+  </dict>
+  </lib>
+</glyph>

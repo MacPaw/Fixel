@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="729"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="182.6" y="0" type="line"/>
+      <point x="288.2" y="0" type="line"/>
+      <point x="288.2" y="604" type="line"/>
+      <point x="525.8" y="604" type="line"/>
+      <point x="525.8" y="700" type="line"/>
+      <point x="12.8" y="700" type="line"/>
+      <point x="12.8" y="604" type="line"/>
+      <point x="182.6" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="284.2" y="334.8" type="line"/>
+      <point x="339.2" y="355.8"/>
+      <point x="380.6" y="365.2"/>
+      <point x="425.6" y="365.2" type="curve" smooth="yes"/>
+      <point x="516" y="365.2"/>
+      <point x="550" y="330.6"/>
+      <point x="550" y="233.2" type="curve" smooth="yes"/>
+      <point x="550" y="0" type="line"/>
+      <point x="655.6" y="0" type="line"/>
+      <point x="655.6" y="245.4" type="line" smooth="yes"/>
+      <point x="655.6" y="392.4"/>
+      <point x="588.2" y="461.2"/>
+      <point x="446.4" y="461.2" type="curve" smooth="yes"/>
+      <point x="395.6" y="461.2"/>
+      <point x="346.2" y="451.4"/>
+      <point x="284.2" y="429.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

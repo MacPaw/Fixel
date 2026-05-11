@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="2">
+  <advance width="290"/>
+  <unicode hex="0128"/>
+  <anchor x="197.6" y="0" name="bottom"/>
+  <anchor x="144.8" y="520" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="tilde.case" xOffset="397.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+tilde.case</string>
+  </dict>
+  </lib>
+</glyph>

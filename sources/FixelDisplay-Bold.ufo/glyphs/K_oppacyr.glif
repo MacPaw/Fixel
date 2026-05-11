@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Koppacyr" format="2">
+  <advance width="683"/>
+  <unicode hex="0480"/>
+  <outline>
+    <contour>
+      <point x="445.8" y="132" type="line"/>
+      <point x="403.2" y="132" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="273" y="132"/>
+      <point x="201" y="220.6"/>
+      <point x="201" y="348.4" type="curve" smooth="yes"/>
+      <point x="201" y="353.6" type="line" smooth="yes"/>
+      <point x="201" y="483.2"/>
+      <point x="277.4" y="571.6"/>
+      <point x="397.2" y="571.6" type="curve"/>
+      <point x="397.8" y="571.6" type="line" name="&#x1f525;.1"/>
+      <point x="467.6" y="571.6"/>
+      <point x="518.4" y="538.4"/>
+      <point x="559.6" y="474" type="curve"/>
+      <point x="674.6" y="560.2" type="line"/>
+      <point x="607.6" y="655.4"/>
+      <point x="510.2" y="712"/>
+      <point x="389.2" y="712" type="curve"/>
+      <point x="388.6" y="712" type="line" name="&#x1f525;.2"/>
+      <point x="185.2" y="712"/>
+      <point x="39" y="560"/>
+      <point x="39" y="353.6" type="curve" smooth="yes"/>
+      <point x="39" y="348.8" type="line" smooth="yes"/>
+      <point x="39" y="142.6"/>
+      <point x="177" y="-9.6"/>
+      <point x="398" y="-9.6" type="curve" smooth="yes"/>
+      <point x="423" y="-9.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="-146" type="line"/>
+      <point x="522.6" y="-146" type="line"/>
+      <point x="522.6" y="132" type="line"/>
+      <point x="445.8" y="132" type="line"/>
+      <point x="376" y="58.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>C-10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

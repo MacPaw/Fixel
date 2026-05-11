@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lhacyr" format="2">
+  <advance width="920"/>
+  <unicode hex="0514"/>
+  <outline>
+    <contour>
+      <point x="248" y="624" type="line"/>
+      <point x="425" y="624" type="line"/>
+      <point x="580" y="365" type="line" name="&#x1f525;.1"/>
+      <point x="580" y="360" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="631" y="296" type="line"/>
+      <point x="636" y="296" type="line"/>
+      <point x="812" y="0" type="line"/>
+      <point x="908" y="0" type="line"/>
+      <point x="687" y="361" type="line" name="&#x1f525;"/>
+      <point x="687" y="366" type="line"/>
+      <point x="888" y="700" type="line"/>
+      <point x="793" y="700" type="line"/>
+      <point x="635" y="430" type="line"/>
+      <point x="632" y="430" type="line"/>
+      <point x="477" y="700" type="line"/>
+      <point x="170" y="700" type="line"/>
+      <point x="166" y="499" type="line" smooth="yes"/>
+      <point x="159" y="151"/>
+      <point x="148" y="66"/>
+      <point x="60" y="66" type="curve" smooth="yes"/>
+      <point x="42" y="66"/>
+      <point x="29" y="69"/>
+      <point x="14" y="74" type="curve"/>
+      <point x="14" y="0" type="line"/>
+      <point x="31" y="-5"/>
+      <point x="48" y="-8"/>
+      <point x="66" y="-8" type="curve" smooth="yes"/>
+      <point x="213" y="-8"/>
+      <point x="237" y="98"/>
+      <point x="245" y="480" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Л</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>X</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

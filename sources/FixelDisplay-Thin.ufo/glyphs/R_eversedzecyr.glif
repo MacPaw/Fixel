@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Reversedzecyr" format="2">
+  <advance width="597"/>
+  <unicode hex="0510"/>
+  <anchor x="319" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="307" y="-8" type="curve" smooth="yes"/>
+      <point x="161" y="-8"/>
+      <point x="65" y="69"/>
+      <point x="65" y="183" type="curve" smooth="yes"/>
+      <point x="65" y="187" type="line" smooth="yes"/>
+      <point x="65" y="273"/>
+      <point x="124" y="339"/>
+      <point x="215" y="359" type="curve"/>
+      <point x="143" y="381"/>
+      <point x="93" y="442"/>
+      <point x="93" y="521" type="curve" smooth="yes"/>
+      <point x="93" y="525" type="line" smooth="yes"/>
+      <point x="93" y="634"/>
+      <point x="178" y="709"/>
+      <point x="297" y="709" type="curve" smooth="yes"/>
+      <point x="398" y="709"/>
+      <point x="490" y="655"/>
+      <point x="535" y="571" type="curve"/>
+      <point x="519" y="561" type="line"/>
+      <point x="472" y="642"/>
+      <point x="391" y="690"/>
+      <point x="298" y="690" type="curve" smooth="yes"/>
+      <point x="189" y="690"/>
+      <point x="113" y="624"/>
+      <point x="113" y="527" type="curve" smooth="yes"/>
+      <point x="113" y="521" type="line" smooth="yes"/>
+      <point x="113" y="433"/>
+      <point x="183" y="369"/>
+      <point x="275" y="369" type="curve" smooth="yes"/>
+      <point x="378" y="369" type="line"/>
+      <point x="378" y="349" type="line"/>
+      <point x="278" y="349" type="line" smooth="yes"/>
+      <point x="164" y="349"/>
+      <point x="85" y="282"/>
+      <point x="85" y="189" type="curve" smooth="yes"/>
+      <point x="85" y="183" type="line" smooth="yes"/>
+      <point x="85" y="82"/>
+      <point x="174" y="11"/>
+      <point x="305" y="11" type="curve" smooth="yes"/>
+      <point x="406" y="11"/>
+      <point x="497" y="56"/>
+      <point x="554" y="140" type="curve"/>
+      <point x="569" y="130" type="line"/>
+      <point x="506" y="40"/>
+      <point x="417" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|З</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|З</string>
+  <key>com.fontlab.recipe</key>
+  <string>З</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

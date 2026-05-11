@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.osf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="436" y="-141" type="line"/>
+      <point x="456" y="-141" type="line"/>
+      <point x="456" y="55" type="line"/>
+      <point x="555" y="55" type="line"/>
+      <point x="555" y="74" type="line"/>
+      <point x="456" y="74" type="line"/>
+      <point x="456" y="589" type="line"/>
+      <point x="412" y="589" type="line"/>
+      <point x="30" y="86" type="line"/>
+      <point x="30" y="55" type="line"/>
+      <point x="436" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="74" type="line"/>
+      <point x="50" y="81" type="line"/>
+      <point x="422" y="570" type="line"/>
+      <point x="436" y="570" type="line"/>
+      <point x="436" y="74" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>four</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>four</string>
+  </dict>
+  </lib>
+</glyph>

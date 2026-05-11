@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="de-cy" format="2">
+  <advance width="615"/>
+  <unicode hex="0434"/>
+  <anchor x="313.8" y="520" name="top"/>
+  <anchor x="313.8" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="12.6" y="-128" type="line"/>
+      <point x="130.6" y="-128" type="line"/>
+      <point x="130.6" y="0" type="line"/>
+      <point x="476.8" y="0" type="line"/>
+      <point x="476.8" y="-128" type="line"/>
+      <point x="594.8" y="-128" type="line"/>
+      <point x="594.8" y="97.6" type="line"/>
+      <point x="522" y="97.6" type="line"/>
+      <point x="522" y="520" type="line"/>
+      <point x="111.8" y="520" type="line"/>
+      <point x="111.8" y="520" type="line"/>
+      <point x="111.8" y="273"/>
+      <point x="97" y="137.6"/>
+      <point x="61.2" y="97.6" type="curve"/>
+      <point x="12.6" y="97.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="97.6" type="line"/>
+      <point x="208.4" y="130"/>
+      <point x="224.8" y="237"/>
+      <point x="228.2" y="422.8" type="curve"/>
+      <point x="228.2" y="422.8" type="line"/>
+      <point x="398.8" y="422.8" type="line"/>
+      <point x="398.8" y="97.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

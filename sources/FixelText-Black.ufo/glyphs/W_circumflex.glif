@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="2">
+  <advance width="943"/>
+  <unicode hex="0174"/>
+  <anchor x="473" y="520" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="circumflex.case" xOffset="689"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

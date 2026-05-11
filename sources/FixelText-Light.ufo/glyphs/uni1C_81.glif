@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1C81" format="2">
+  <advance width="532"/>
+  <unicode hex="1C81"/>
+  <outline>
+    <contour>
+      <point x="10.6667" y="-200" type="line"/>
+      <point x="65" y="-200" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="467.333" y="0" type="line"/>
+      <point x="467.333" y="-200" type="line"/>
+      <point x="521.667" y="-200" type="line"/>
+      <point x="521.667" y="53" type="line"/>
+      <point x="10.6667" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="520" type="line"/>
+      <point x="229.333" y="520" type="line"/>
+      <point x="31.6667" y="0" type="line"/>
+      <point x="92.6667" y="0" type="line"/>
+      <point x="261.333" y="457.667" type="line"/>
+      <point x="271.333" y="457.667" type="line"/>
+      <point x="439.333" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>д-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>com.fontlab.recipe</key>
+  <string>д</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tseReversed-cy" format="2">
+  <advance width="604"/>
+  <unicode hex="A661"/>
+  <outline>
+    <component base="tse-cy" xScale="-1" xOffset="604"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|ц</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  <key>com.fontlab.recipe</key>
+  <string>ц</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

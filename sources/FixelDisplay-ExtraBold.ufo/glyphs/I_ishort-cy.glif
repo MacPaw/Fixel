@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iishort-cy" format="2">
+  <advance width="762"/>
+  <unicode hex="0419"/>
+  <anchor x="380.8" y="520" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="breve.case" xScale="1" xyScale="-9.09273e-21" xOffset="591" yOffset="-0.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0418+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

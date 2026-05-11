@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis.ss01" format="2">
+  <advance width="1021"/>
+  <anchor x="507" y="520" name="top"/>
+  <outline>
+    <component base="W.ss01"/>
+    <component base="dieresis.case" xScale="1" xOffset="749.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W.ss01+dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

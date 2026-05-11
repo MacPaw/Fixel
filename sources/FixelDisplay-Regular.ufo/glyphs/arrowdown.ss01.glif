@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdown.ss01" format="2">
+  <advance width="492"/>
+  <outline>
+    <component base="arrowup.ss01" yScale="-1" yOffset="667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowup</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>arrowup</string>
+  </dict>
+  </lib>
+</glyph>

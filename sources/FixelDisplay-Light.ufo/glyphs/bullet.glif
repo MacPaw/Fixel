@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="217"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="108.333" y="242.333" type="curve" smooth="yes"/>
+      <point x="136" y="242.333"/>
+      <point x="158.667" y="263.333"/>
+      <point x="158.667" y="290.333" type="curve" smooth="yes"/>
+      <point x="158.667" y="292.667" type="line" smooth="yes"/>
+      <point x="158.667" y="318.667"/>
+      <point x="136.667" y="339.667"/>
+      <point x="108.333" y="339.667" type="curve" smooth="yes"/>
+      <point x="80" y="339.667"/>
+      <point x="59" y="319.333"/>
+      <point x="59" y="292.667" type="curve" smooth="yes"/>
+      <point x="59" y="290.333" type="line" smooth="yes"/>
+      <point x="59" y="263.333"/>
+      <point x="80" y="242.333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>period</string>
+  </dict>
+  </lib>
+</glyph>

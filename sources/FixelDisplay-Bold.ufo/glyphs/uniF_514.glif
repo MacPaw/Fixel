@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF514" format="2">
+  <advance width="582"/>
+  <unicode hex="F514"/>
+  <outline>
+    <component base="E"/>
+    <component base="dieresis.case" xyScale="3.49587e-19" xOffset="530.2" yOffset="-16.4"/>
+    <component base="breve.case" xOffset="501.2" yOffset="139"/>
+  </outline>
+  <guideline angle="90" x="300" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  <key>com.fontlab.recipe</key>
+  <string>E+dieresis.case+breve.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

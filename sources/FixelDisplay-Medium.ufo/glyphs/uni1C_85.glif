@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1C85" format="2">
+  <advance width="850"/>
+  <unicode hex="1C85"/>
+  <outline>
+    <component base="sha-cy" xScale="-1" yScale="-1" xOffset="850.2" yOffset="520"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ш</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>com.fontlab.recipe</key>
+  <string>ш</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

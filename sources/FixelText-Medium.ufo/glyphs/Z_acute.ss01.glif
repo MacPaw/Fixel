@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute.ss01" format="2">
+  <advance width="569"/>
+  <anchor x="282.2" y="517.6" name="top"/>
+  <outline>
+    <component base="Z.ss01"/>
+    <component base="acute.case" xScale="1" xOffset="439.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Z.ss01+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

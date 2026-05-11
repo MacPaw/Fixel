@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzeabkhcyr" format="2">
+  <advance width="582"/>
+  <unicode hex="04E0"/>
+  <outline>
+    <contour>
+      <point x="203" y="379.333" type="line"/>
+      <point x="243" y="400" type="line"/>
+      <point x="502.333" y="662.667" type="line"/>
+      <point x="502.333" y="700" type="line"/>
+      <point x="66" y="700" type="line"/>
+      <point x="66" y="662" type="line"/>
+      <point x="444.667" y="662" type="line"/>
+      <point x="444.667" y="655.333" type="line"/>
+      <point x="203" y="410.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="285.333" y="-8" type="curve" smooth="yes"/>
+      <point x="428.667" y="-8"/>
+      <point x="529.333" y="75.6667"/>
+      <point x="529.333" y="208" type="curve" smooth="yes"/>
+      <point x="529.333" y="212.333" type="line" smooth="yes"/>
+      <point x="529.333" y="351"/>
+      <point x="422.333" y="415.667"/>
+      <point x="283" y="415.667" type="curve"/>
+      <point x="209" y="408" type="line"/>
+      <point x="203" y="377.667" type="line"/>
+      <point x="290" y="377.667" type="line" smooth="yes"/>
+      <point x="406" y="377.667"/>
+      <point x="488" y="318"/>
+      <point x="488" y="211.333" type="curve" smooth="yes"/>
+      <point x="488" y="205.333" type="line" smooth="yes"/>
+      <point x="488" y="102"/>
+      <point x="406.667" y="30"/>
+      <point x="287.667" y="30" type="curve" smooth="yes"/>
+      <point x="190.333" y="30"/>
+      <point x="109.333" y="72.6667"/>
+      <point x="50" y="156" type="curve"/>
+      <point x="18" y="135" type="line"/>
+      <point x="82.3333" y="42.3333"/>
+      <point x="172.667" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>З-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>З-10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

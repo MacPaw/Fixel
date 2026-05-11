@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+  <unicode hex="02DA"/>
+  <anchor x="-101.333" y="517" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-102" y="581.333" type="curve" smooth="yes"/>
+      <point x="-53" y="581.333"/>
+      <point x="-16.3333" y="615.667"/>
+      <point x="-16.3333" y="663.333" type="curve" smooth="yes"/>
+      <point x="-16.3333" y="711"/>
+      <point x="-53" y="746.333"/>
+      <point x="-102" y="746.333" type="curve" smooth="yes"/>
+      <point x="-149.667" y="746.333"/>
+      <point x="-185.333" y="711"/>
+      <point x="-185.333" y="663.333" type="curve" smooth="yes"/>
+      <point x="-185.333" y="615.667"/>
+      <point x="-149.667" y="581.333"/>
+    </contour>
+    <contour>
+      <point x="-101.333" y="617.333" type="curve" smooth="yes"/>
+      <point x="-129.333" y="617.333"/>
+      <point x="-147.667" y="636.333"/>
+      <point x="-147.667" y="663.333" type="curve" smooth="yes"/>
+      <point x="-147.667" y="690.333"/>
+      <point x="-129.333" y="710.333"/>
+      <point x="-101.333" y="710.333" type="curve" smooth="yes"/>
+      <point x="-74" y="710.333"/>
+      <point x="-54" y="690.333"/>
+      <point x="-54" y="663.333" type="curve" smooth="yes"/>
+      <point x="-54" y="636.333"/>
+      <point x="-74" y="617.333"/>
+    </contour>
+  </outline>
+</glyph>

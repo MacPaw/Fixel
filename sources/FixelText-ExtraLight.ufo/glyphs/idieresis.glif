@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="221"/>
+  <unicode hex="00EF"/>
+  <anchor x="129.667" y="0" name="bottom"/>
+  <anchor x="110.667" y="520" name="top"/>
+  <anchor x="110.667" y="520" name="top.1"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresis.alt" xOffset="279.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>idotless+dieresis.alt</string>
+  </dict>
+  </lib>
+</glyph>

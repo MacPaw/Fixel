@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eiotifiedcyr" format="2">
+  <advance width="953"/>
+  <unicode hex="0464"/>
+  <outline>
+    <contour>
+      <point x="643.6" y="-13.6" type="curve" smooth="yes"/>
+      <point x="648.8" y="-13.6" type="line" smooth="yes"/>
+      <point x="768.6" y="-13.6"/>
+      <point x="867.8" y="38.6"/>
+      <point x="929" y="134.8" type="curve"/>
+      <point x="800.6" y="235.4" type="line"/>
+      <point x="766" y="178.6"/>
+      <point x="714.6" y="144.4"/>
+      <point x="652.6" y="144.4" type="curve" smooth="yes" name="&#x1f525;"/>
+      <point x="639.8" y="144.4" type="line" smooth="yes"/>
+      <point x="541.2" y="144.4"/>
+      <point x="476.2" y="224.2"/>
+      <point x="476.2" y="340" type="curve" smooth="yes"/>
+      <point x="476.2" y="359.2" type="line" smooth="yes"/>
+      <point x="476.2" y="475.2"/>
+      <point x="541.8" y="555.8"/>
+      <point x="637.6" y="555.8" type="curve" smooth="yes" name="&#x1f525;.1"/>
+      <point x="650.4" y="555.8" type="line" smooth="yes"/>
+      <point x="713.4" y="555.8"/>
+      <point x="762.6" y="520.6"/>
+      <point x="797.2" y="463.2" type="curve"/>
+      <point x="927.2" y="563.8" type="line"/>
+      <point x="865.2" y="659.8"/>
+      <point x="763.6" y="713"/>
+      <point x="646" y="713" type="curve" smooth="yes" name="&#x1f525;.2"/>
+      <point x="640.8" y="713" type="line" smooth="yes"/>
+      <point x="441.6" y="713"/>
+      <point x="294.6" y="564"/>
+      <point x="294.6" y="359.2" type="curve" smooth="yes"/>
+      <point x="294.6" y="340.2" type="line" smooth="yes"/>
+      <point x="294.6" y="132.6"/>
+      <point x="440.4" y="-13.6"/>
+    </contour>
+    <contour>
+      <point x="717" y="423.4" type="line"/>
+      <point x="452.6" y="423.4" type="line"/>
+      <point x="452.6" y="287.4" type="line"/>
+      <point x="717" y="287.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="64.8" y="0" type="line"/>
+      <point x="246.4" y="0" type="line"/>
+      <point x="246.4" y="276.2" type="line"/>
+      <point x="420.4" y="276.2" type="line"/>
+      <point x="420.4" y="432.2" type="line"/>
+      <point x="246.4" y="432.2" type="line"/>
+      <point x="246.4" y="700" type="line"/>
+      <point x="64.8" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>C</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

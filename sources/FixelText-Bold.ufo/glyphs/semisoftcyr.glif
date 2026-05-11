@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semisoftcyr" format="2">
+  <advance width="540"/>
+  <unicode hex="048D"/>
+  <outline>
+    <contour>
+      <point x="225.6" y="493.6" type="line"/>
+      <point x="343.6" y="493.6" type="line"/>
+      <point x="343.6" y="608.6" type="line"/>
+      <point x="225.6" y="608.6" type="line"/>
+      <point x="225.6" y="720" type="line"/>
+      <point x="76.6" y="720" type="line"/>
+      <point x="76.6" y="596.2" type="line"/>
+      <point x="96.2" y="609.2" type="line"/>
+      <point x="70.6" y="607.6"/>
+      <point x="37.8" y="600.6"/>
+      <point x="16.4" y="593.8" type="curve"/>
+      <point x="16.4" y="494.8" type="line"/>
+      <point x="76.6" y="494.8" type="line"/>
+      <point x="76.6" y="0" type="line"/>
+      <point x="325.6" y="0" type="line" smooth="yes"/>
+      <point x="436.8" y="0"/>
+      <point x="515" y="75.6"/>
+      <point x="515" y="177.6" type="curve" smooth="yes"/>
+      <point x="515" y="194.8" type="line" smooth="yes"/>
+      <point x="515" y="296.8"/>
+      <point x="438.8" y="372.4"/>
+      <point x="330.8" y="372.4" type="curve" smooth="yes"/>
+      <point x="225.6" y="372.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.4" y="109" type="line"/>
+      <point x="221.4" y="265.8" type="line"/>
+      <point x="298.6" y="265.8" type="line" smooth="yes"/>
+      <point x="336.8" y="265.8"/>
+      <point x="367.4" y="234.2"/>
+      <point x="367.4" y="193.2" type="curve" smooth="yes"/>
+      <point x="367.4" y="181.6" type="line" smooth="yes"/>
+      <point x="367.4" y="140.6"/>
+      <point x="336.8" y="109"/>
+      <point x="298.6" y="109" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ь</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

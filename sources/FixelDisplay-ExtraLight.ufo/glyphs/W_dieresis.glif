@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="2">
+  <advance width="924"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="215" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="457" y="639" type="line"/>
+      <point x="463.667" y="639" type="line"/>
+      <point x="643.333" y="0" type="line"/>
+      <point x="705.333" y="0" type="line"/>
+      <point x="883.667" y="700" type="line"/>
+      <point x="841.667" y="700" type="line"/>
+      <point x="675.333" y="42.6667" type="line"/>
+      <point x="670.667" y="42.6667" type="line"/>
+      <point x="485.333" y="700" type="line"/>
+      <point x="435" y="700" type="line"/>
+      <point x="250" y="42.6667" type="line"/>
+      <point x="245" y="42.6667" type="line"/>
+      <point x="82" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="360.333" y="797.667" type="curve"/>
+      <point x="369" y="787.667"/>
+      <point x="382.667" y="788.333"/>
+      <point x="392.667" y="797" type="curve" smooth="yes"/>
+      <point x="402.667" y="805.667"/>
+      <point x="402.333" y="818.667"/>
+      <point x="393.667" y="828.667" type="curve"/>
+      <point x="385" y="838"/>
+      <point x="371.667" y="837"/>
+      <point x="361.667" y="828.333" type="curve" smooth="yes"/>
+      <point x="351.667" y="819.667"/>
+      <point x="351.667" y="807"/>
+    </contour>
+    <contour>
+      <point x="526" y="797.667" type="curve"/>
+      <point x="534.667" y="787.667"/>
+      <point x="548.333" y="788.333"/>
+      <point x="558.333" y="797" type="curve" smooth="yes"/>
+      <point x="568.333" y="805.667"/>
+      <point x="568" y="818.667"/>
+      <point x="559.333" y="828.667" type="curve"/>
+      <point x="550.667" y="838"/>
+      <point x="537.333" y="837"/>
+      <point x="527.333" y="828.333" type="curve" smooth="yes"/>
+      <point x="517.333" y="819.667"/>
+      <point x="517.333" y="807"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>W+dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

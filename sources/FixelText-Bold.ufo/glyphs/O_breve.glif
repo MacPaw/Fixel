@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="2">
+  <advance width="761"/>
+  <unicode hex="014E"/>
+  <anchor x="380.4" y="520" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="breve.case" xScale="1" xOffset="576.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhetailcyr" format="2">
+  <advance width="733"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="303" y="0" type="line"/>
+      <point x="421.8" y="0" type="line"/>
+      <point x="421.8" y="246.2" type="line"/>
+      <point x="432.6" y="246.2" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="719.8" y="0" type="line"/>
+      <point x="534.4" y="279.4" type="line"/>
+      <point x="706.8" y="520" type="line"/>
+      <point x="575.8" y="520" type="line"/>
+      <point x="431.4" y="301.4" type="line"/>
+      <point x="421.8" y="301.4" type="line"/>
+      <point x="421.8" y="520" type="line"/>
+      <point x="303" y="520" type="line"/>
+      <point x="303" y="301.4" type="line"/>
+      <point x="293.8" y="301.4" type="line"/>
+      <point x="149" y="520" type="line"/>
+      <point x="18" y="520" type="line"/>
+      <point x="190.8" y="279.4" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="143.8" y="0" type="line"/>
+      <point x="292.2" y="246.2" type="line"/>
+      <point x="303" y="246.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="607.8" y="-128" type="line"/>
+      <point x="725.8" y="-128" type="line"/>
+      <point x="725.8" y="97.6" type="line"/>
+      <point x="589.4" y="97.6" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="607.8" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ж</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>katailcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

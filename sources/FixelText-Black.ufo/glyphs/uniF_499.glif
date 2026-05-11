@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF499" format="2">
+  <advance width="855"/>
+  <unicode hex="F499"/>
+  <anchor x="442" y="520" name="top"/>
+  <outline>
+    <component base="iu-cy"/>
+    <component base="dieresis" xOffset="686" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ю+dieresis</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

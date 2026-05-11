@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ruble" format="2">
+  <advance width="614"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="9.4" y="279.8" type="line"/>
+      <point x="331.4" y="279.8" type="line" smooth="yes"/>
+      <point x="479.4" y="279.8"/>
+      <point x="573.2" y="362"/>
+      <point x="573.2" y="489" type="curve" smooth="yes"/>
+      <point x="573.2" y="493.8" type="line" smooth="yes"/>
+      <point x="573.2" y="619.4"/>
+      <point x="477.4" y="700"/>
+      <point x="330" y="700" type="curve" smooth="yes"/>
+      <point x="85.4" y="700" type="line"/>
+      <point x="85.4" y="0" type="line"/>
+      <point x="190.8" y="0" type="line"/>
+      <point x="190.8" y="604.6" type="line"/>
+      <point x="326.8" y="604.6" type="line" smooth="yes"/>
+      <point x="416.8" y="604.6"/>
+      <point x="465" y="560.2"/>
+      <point x="465" y="488" type="curve" smooth="yes"/>
+      <point x="465" y="483.2" type="line" smooth="yes"/>
+      <point x="465" y="409.8"/>
+      <point x="416.6" y="363.6"/>
+      <point x="325.4" y="363.6" type="curve" smooth="yes"/>
+      <point x="9.4" y="363.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="9.4" y="123.4" type="line"/>
+      <point x="443.6" y="123.4" type="line"/>
+      <point x="443.6" y="207" type="line"/>
+      <point x="9.4" y="207" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>P</string>
+  </dict>
+  </lib>
+</glyph>

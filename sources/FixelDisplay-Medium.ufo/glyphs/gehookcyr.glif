@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gehookcyr" format="2">
+  <advance width="534"/>
+  <unicode hex="0495"/>
+  <outline>
+    <contour>
+      <point x="82.4" y="0" type="line"/>
+      <point x="181.4" y="0" type="line"/>
+      <point x="181.4" y="435" type="line"/>
+      <point x="412.2" y="435" type="line"/>
+      <point x="412.2" y="520" type="line"/>
+      <point x="82.4" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="286.2" y="-109.8" type="curve" smooth="yes"/>
+      <point x="262" y="-109.8"/>
+      <point x="243.8" y="-107"/>
+      <point x="224.2" y="-99.8" type="curve"/>
+      <point x="224.2" y="-184.4" type="line"/>
+      <point x="252.4" y="-194.8"/>
+      <point x="281.4" y="-200.6"/>
+      <point x="307.6" y="-200.6" type="curve" smooth="yes"/>
+      <point x="424.8" y="-200.6"/>
+      <point x="502.2" y="-103.2"/>
+      <point x="502.2" y="43.4" type="curve" smooth="yes"/>
+      <point x="502.2" y="74.6" type="line" smooth="yes"/>
+      <point x="502.2" y="228.8"/>
+      <point x="416.8" y="309.4"/>
+      <point x="288.2" y="309.4" type="curve" smooth="yes"/>
+      <point x="248.8" y="309.4"/>
+      <point x="211.2" y="301.2"/>
+      <point x="177.4" y="286.8" type="curve"/>
+      <point x="177.4" y="198.6" type="line"/>
+      <point x="202" y="215.8"/>
+      <point x="240.6" y="224.6"/>
+      <point x="275.4" y="224.6" type="curve" smooth="yes"/>
+      <point x="353.6" y="224.6"/>
+      <point x="406.2" y="175"/>
+      <point x="406.2" y="70.4" type="curve" smooth="yes"/>
+      <point x="406.2" y="42.8" type="line" smooth="yes"/>
+      <point x="406.2" y="-50"/>
+      <point x="358.6" y="-109.8"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>г</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>enmiddlehookcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

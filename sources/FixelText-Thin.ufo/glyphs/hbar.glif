@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="607"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="235" type="line" smooth="yes"/>
+      <point x="115" y="351"/>
+      <point x="204" y="434"/>
+      <point x="328" y="434" type="curve" name="&#x1f525;"/>
+      <point x="328" y="434" type="line"/>
+      <point x="440" y="434"/>
+      <point x="502" y="374"/>
+      <point x="502" y="264" type="curve" smooth="yes"/>
+      <point x="502" y="0" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="522" y="264" type="line" smooth="yes"/>
+      <point x="522" y="386"/>
+      <point x="454" y="453"/>
+      <point x="331" y="453" type="curve" name="&#x1f525;"/>
+      <point x="331" y="453" type="line"/>
+      <point x="229" y="453"/>
+      <point x="148" y="402"/>
+      <point x="115" y="322" type="curve"/>
+      <point x="115" y="610" type="line"/>
+      <point x="312" y="610" type="line"/>
+      <point x="312" y="628" type="line"/>
+      <point x="115" y="628" type="line"/>
+      <point x="115" y="720" type="line"/>
+      <point x="95" y="720" type="line"/>
+      <point x="95" y="623" type="line"/>
+      <point x="105" y="628" type="line"/>
+      <point x="77" y="626"/>
+      <point x="41" y="623"/>
+      <point x="25" y="619" type="curve"/>
+      <point x="25" y="610" type="line"/>
+      <point x="95" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>h</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

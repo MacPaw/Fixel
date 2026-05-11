@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketangleright.case" format="2">
+  <advance width="321"/>
+  <outline>
+    <component base="bracketangleleft.case" xScale="-1" xOffset="320.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|bracketangleleft.case</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|bracketangleleft.case</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

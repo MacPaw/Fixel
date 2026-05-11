@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.ss01" format="2">
+  <advance width="278"/>
+  <anchor x="177.6" y="0" name="bottom"/>
+  <anchor x="167" y="517" name="right"/>
+  <anchor x="117.2" y="517.6" name="top"/>
+  <outline>
+    <component base="l.ss01"/>
+    <component base="acute.case" xScale="1" xyScale="1.97215e-37" xOffset="274.4" yOffset="4.44089e-16"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l.ss01+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

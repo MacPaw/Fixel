@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iota-cy" format="2">
+  <advance width="387"/>
+  <unicode hex="A646"/>
+  <outline>
+    <contour>
+      <point x="255.4" y="-7" type="curve" smooth="yes"/>
+      <point x="145.2" y="-7"/>
+      <point x="82.2" y="59.4"/>
+      <point x="82.2" y="187" type="curve" smooth="yes"/>
+      <point x="82.2" y="700" type="line"/>
+      <point x="187.6" y="700" type="line"/>
+      <point x="187.6" y="192.2" type="line" smooth="yes"/>
+      <point x="187.6" y="122.8"/>
+      <point x="216.2" y="90.2"/>
+      <point x="276.2" y="90.2" type="curve" smooth="yes"/>
+      <point x="303.2" y="90.2"/>
+      <point x="327.2" y="97"/>
+      <point x="350.4" y="113" type="curve"/>
+      <point x="350.4" y="11.8" type="line"/>
+      <point x="323" y="-0.4"/>
+      <point x="289.8" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|J</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|J</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

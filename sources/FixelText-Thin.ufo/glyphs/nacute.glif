@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="2">
+  <advance width="593"/>
+  <unicode hex="0144"/>
+  <anchor x="309" y="0" name="bottom"/>
+  <anchor x="307" y="520" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="acute" xOffset="396"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+acute</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="2">
+  <advance width="601"/>
+  <unicode hex="00FB"/>
+  <anchor x="530.8" y="0" name="bottom"/>
+  <anchor x="295.4" y="520" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="circumflex" xScale="1" xOffset="506.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

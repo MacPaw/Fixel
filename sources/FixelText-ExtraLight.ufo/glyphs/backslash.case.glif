@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash.case" format="2">
+  <advance width="309"/>
+  <outline>
+    <component base="backslash" xyScale="1.97768e-18" yScale="1" yOffset="55.6667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>backslash</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>backslash</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

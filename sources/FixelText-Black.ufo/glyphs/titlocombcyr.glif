@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="titlocombcyr" format="2">
+  <unicode hex="0483"/>
+  <anchor x="-259" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-468" y="567" type="line"/>
+      <point x="-324" y="567" type="line"/>
+      <point x="-324" y="617" type="line"/>
+      <point x="-50" y="617" type="line"/>
+      <point x="-50" y="773" type="line"/>
+      <point x="-194" y="773" type="line"/>
+      <point x="-194" y="723" type="line"/>
+      <point x="-468" y="723" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

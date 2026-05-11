@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF498" format="2">
+  <advance width="989"/>
+  <unicode hex="F498"/>
+  <anchor x="519.4" y="520" name="top"/>
+  <outline>
+    <component base="Iu-cy"/>
+    <component base="dieresis.case" xScale="1" xOffset="715.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ю+dieresis.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

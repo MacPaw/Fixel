@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="746"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="545" y="-118" type="line"/>
+      <point x="519" y="-127"/>
+      <point x="486" y="-129"/>
+      <point x="469" y="-129" type="curve" smooth="yes"/>
+      <point x="407" y="-129"/>
+      <point x="377" y="-101"/>
+      <point x="377" y="-30" type="curve" smooth="yes"/>
+      <point x="377" y="-5" type="line"/>
+      <point x="565" y="-3"/>
+      <point x="691" y="134"/>
+      <point x="691" y="342" type="curve" smooth="yes"/>
+      <point x="691" y="358" type="line" smooth="yes"/>
+      <point x="691" y="567"/>
+      <point x="563" y="705"/>
+      <point x="373" y="705" type="curve" name="&#x1f525;"/>
+      <point x="373" y="705" type="line"/>
+      <point x="183" y="705"/>
+      <point x="55" y="567"/>
+      <point x="55" y="358" type="curve" smooth="yes"/>
+      <point x="55" y="342" type="line" smooth="yes"/>
+      <point x="55" y="139"/>
+      <point x="176" y="3"/>
+      <point x="357" y="-5" type="curve"/>
+      <point x="357" y="-31" type="line" smooth="yes"/>
+      <point x="357" y="-114"/>
+      <point x="394" y="-149"/>
+      <point x="470" y="-149" type="curve" smooth="yes"/>
+      <point x="488" y="-149"/>
+      <point x="521" y="-147"/>
+      <point x="545" y="-138" type="curve"/>
+    </contour>
+    <contour>
+      <point x="75" y="339" type="curve" smooth="yes"/>
+      <point x="75" y="361" type="line" smooth="yes"/>
+      <point x="75" y="552"/>
+      <point x="193" y="686"/>
+      <point x="373" y="686" type="curve"/>
+      <point x="373" y="686" type="line" name="&#x1f525;"/>
+      <point x="553" y="686"/>
+      <point x="671" y="552"/>
+      <point x="671" y="361" type="curve" smooth="yes"/>
+      <point x="671" y="339" type="line" smooth="yes"/>
+      <point x="671" y="148"/>
+      <point x="553" y="14"/>
+      <point x="373" y="14" type="curve"/>
+      <point x="373" y="14" type="line" name="&#x1f525;"/>
+      <point x="193" y="14"/>
+      <point x="75" y="148"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

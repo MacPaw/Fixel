@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowleft.ss01.case" format="2">
+  <advance width="729"/>
+  <outline>
+    <contour>
+      <point x="52" y="354" type="line"/>
+      <point x="124.4" y="259.2"/>
+      <point x="170.8" y="210.4"/>
+      <point x="266.8" y="133.2" type="curve"/>
+      <point x="317.4" y="195.4" type="line"/>
+      <point x="244.6" y="253.6"/>
+      <point x="203" y="294.2"/>
+      <point x="152.8" y="354.6" type="curve"/>
+      <point x="152.8" y="360.6" type="line"/>
+      <point x="203" y="421"/>
+      <point x="244.6" y="461.6"/>
+      <point x="317.4" y="519.8" type="curve"/>
+      <point x="266.8" y="582" type="line"/>
+      <point x="170.8" y="504.8"/>
+      <point x="124.4" y="456"/>
+      <point x="52" y="361.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="109" y="316.4" type="line"/>
+      <point x="686.6" y="316.4" type="line"/>
+      <point x="686.6" y="398.8" type="line"/>
+      <point x="109" y="398.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>arrowleft</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

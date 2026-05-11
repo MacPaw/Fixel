@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.ss01" format="2">
+  <advance width="920"/>
+  <anchor x="468.333" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="176.333" y="0" type="line"/>
+      <point x="256.667" y="0" type="line"/>
+      <point x="348" y="185"/>
+      <point x="433.333" y="402.667"/>
+      <point x="463.667" y="575" type="curve"/>
+      <point x="472" y="575" type="line"/>
+      <point x="605.667" y="0" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="794" y="216.667"/>
+      <point x="900" y="492.667"/>
+      <point x="904.667" y="700" type="curve"/>
+      <point x="839" y="700" type="line"/>
+      <point x="834.333" y="501.667"/>
+      <point x="748.667" y="253.333"/>
+      <point x="661.333" y="65.6667" type="curve"/>
+      <point x="651.667" y="65.6667" type="line"/>
+      <point x="500.667" y="700" type="line"/>
+      <point x="427" y="700" type="line"/>
+      <point x="417" y="506.667"/>
+      <point x="322.333" y="247"/>
+      <point x="232" y="65.6667" type="curve"/>
+      <point x="222.333" y="65.6667" type="line"/>
+      <point x="90.6667" y="700" type="line"/>
+      <point x="25" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|A</string>
+  </dict>
+  </lib>
+</glyph>

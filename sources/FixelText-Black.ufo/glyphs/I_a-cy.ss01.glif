@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ia-cy.ss01" format="2">
+  <advance width="628"/>
+  <outline>
+    <contour>
+      <point x="258" y="223" type="line"/>
+      <point x="364" y="223" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="572" y="700" type="line"/>
+      <point x="280" y="700" type="line" smooth="yes"/>
+      <point x="113" y="700"/>
+      <point x="6" y="614"/>
+      <point x="6" y="471" type="curve" smooth="yes"/>
+      <point x="6" y="454" type="line" smooth="yes"/>
+      <point x="6" y="355"/>
+      <point x="64" y="285"/>
+      <point x="156" y="247" type="curve"/>
+    </contour>
+    <contour>
+      <point x="373" y="368" type="line"/>
+      <point x="301" y="368" type="line" smooth="yes"/>
+      <point x="238" y="368"/>
+      <point x="207" y="406"/>
+      <point x="207" y="453" type="curve" smooth="yes"/>
+      <point x="207" y="461" type="line" smooth="yes"/>
+      <point x="207" y="506"/>
+      <point x="239" y="534"/>
+      <point x="299" y="534" type="curve" smooth="yes"/>
+      <point x="373" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="271" type="line"/>
+      <point x="78" y="205"/>
+      <point x="25" y="95"/>
+      <point x="18" y="0" type="curve"/>
+      <point x="226" y="0" type="line"/>
+      <point x="238" y="119"/>
+      <point x="264" y="184"/>
+      <point x="325" y="241" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

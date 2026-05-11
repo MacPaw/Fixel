@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gestrokecyr" format="2">
+  <advance width="511"/>
+  <unicode hex="0492"/>
+  <outline>
+    <contour>
+      <point x="107.2" y="0" type="line"/>
+      <point x="212.6" y="0" type="line"/>
+      <point x="212.6" y="604" type="line"/>
+      <point x="498.2" y="604" type="line"/>
+      <point x="498.2" y="700" type="line"/>
+      <point x="107.2" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="300" type="line"/>
+      <point x="369" y="300" type="line"/>
+      <point x="369" y="385.6" type="line"/>
+      <point x="35" y="385.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>Г</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

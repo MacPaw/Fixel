@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="En-cy" format="2">
+  <advance width="708"/>
+  <unicode hex="041D"/>
+  <anchor x="354.8" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="64.8" y="0" type="line"/>
+      <point x="246.4" y="0" type="line"/>
+      <point x="246.4" y="276.2" type="line"/>
+      <point x="461.6" y="276.2" type="line"/>
+      <point x="461.6" y="0" type="line"/>
+      <point x="643.2" y="0" type="line"/>
+      <point x="643.2" y="700" type="line"/>
+      <point x="461.6" y="700" type="line"/>
+      <point x="461.6" y="432.2" type="line"/>
+      <point x="246.4" y="432.2" type="line"/>
+      <point x="246.4" y="700" type="line"/>
+      <point x="64.8" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

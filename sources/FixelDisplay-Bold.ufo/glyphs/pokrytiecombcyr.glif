@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pokrytiecombcyr" format="2">
+  <unicode hex="0487"/>
+  <anchor x="-244.6" y="520" name="_top"/>
+  <outline>
+    <component base="palatcombcyr" xScale="-1" xOffset="-512"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

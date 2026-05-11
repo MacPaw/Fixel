@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardsign-cy" format="2">
+  <advance width="704"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="426" y="0" type="line" smooth="yes"/>
+      <point x="580" y="0"/>
+      <point x="679" y="95"/>
+      <point x="679" y="241" type="curve" smooth="yes"/>
+      <point x="679" y="249" type="line" smooth="yes"/>
+      <point x="679" y="394"/>
+      <point x="582" y="486"/>
+      <point x="425" y="486" type="curve" smooth="yes"/>
+      <point x="354" y="486" type="line"/>
+      <point x="354" y="700" type="line"/>
+      <point x="10" y="700" type="line"/>
+      <point x="10" y="524" type="line"/>
+      <point x="147" y="524" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="169" type="line"/>
+      <point x="347" y="328" type="line"/>
+      <point x="376" y="328" type="line" smooth="yes"/>
+      <point x="445" y="328"/>
+      <point x="475" y="308"/>
+      <point x="475" y="254" type="curve" smooth="yes"/>
+      <point x="475" y="247" type="line" smooth="yes"/>
+      <point x="475" y="195"/>
+      <point x="441" y="169"/>
+      <point x="377" y="169" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ь</string>
+  </dict>
+  </lib>
+</glyph>

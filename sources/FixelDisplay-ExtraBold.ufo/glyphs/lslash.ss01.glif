@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.ss01" format="2">
+  <advance width="401"/>
+  <outline>
+    <component base="l.ss01" xScale="1" xOffset="51.6"/>
+    <contour>
+      <point x="25.8" y="239.6" type="line"/>
+      <point x="359.6" y="393" type="line"/>
+      <point x="359.6" y="514" type="line"/>
+      <point x="25.8" y="360.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Lslash-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|Lslash</string>
+  </dict>
+  </lib>
+</glyph>

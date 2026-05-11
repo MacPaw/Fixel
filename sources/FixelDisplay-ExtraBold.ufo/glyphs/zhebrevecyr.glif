@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhebrevecyr" format="2">
+  <advance width="788"/>
+  <unicode hex="04C2"/>
+  <anchor x="393.8" y="520" name="top"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <component base="breve" xOffset="584"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>zhe-cy+breve</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ushort-cy.ss01" format="2">
+  <advance width="622"/>
+  <anchor x="317.2" y="517" name="top"/>
+  <outline>
+    <component base="U-cy.ss01"/>
+    <component base="breve.case" xyScale="-8.15348e-20" xOffset="511.8" yOffset="-3.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ucyr.ss01+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

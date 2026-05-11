@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_perc-circule" format="2">
+  <advance width="810"/>
+  <outline>
+    <contour>
+      <point x="600" y="-8" type="curve"/>
+      <point x="602" y="-8" type="line"/>
+      <point x="698" y="-8"/>
+      <point x="760" y="63"/>
+      <point x="760" y="169" type="curve" smooth="yes"/>
+      <point x="760" y="187" type="line" smooth="yes"/>
+      <point x="760" y="293"/>
+      <point x="698" y="364"/>
+      <point x="602" y="364" type="curve"/>
+      <point x="600" y="364" type="line"/>
+      <point x="504" y="364"/>
+      <point x="442" y="293"/>
+      <point x="442" y="187" type="curve" smooth="yes"/>
+      <point x="442" y="169" type="line" smooth="yes"/>
+      <point x="442" y="63"/>
+      <point x="504" y="-8"/>
+    </contour>
+    <contour>
+      <point x="600" y="62" type="line"/>
+      <point x="549" y="62"/>
+      <point x="516" y="105"/>
+      <point x="516" y="170" type="curve" smooth="yes"/>
+      <point x="516" y="186" type="line" smooth="yes"/>
+      <point x="516" y="251"/>
+      <point x="549" y="294"/>
+      <point x="600" y="294" type="curve"/>
+      <point x="602" y="294" type="line"/>
+      <point x="653" y="294"/>
+      <point x="686" y="251"/>
+      <point x="686" y="186" type="curve" smooth="yes"/>
+      <point x="686" y="170" type="line" smooth="yes"/>
+      <point x="686" y="105"/>
+      <point x="653" y="62"/>
+      <point x="602" y="62" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.Export</key>
+  <false/>
+  </dict>
+  </lib>
+</glyph>

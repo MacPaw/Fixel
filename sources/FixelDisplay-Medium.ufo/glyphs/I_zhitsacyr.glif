@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Izhitsacyr" format="2">
+  <advance width="638"/>
+  <unicode hex="0474"/>
+  <anchor x="312" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="464.8" y="615.2" type="line"/>
+      <point x="484.4" y="684.6"/>
+      <point x="519.2" y="708.2"/>
+      <point x="572.2" y="708.2" type="curve" smooth="yes"/>
+      <point x="591.2" y="708.2"/>
+      <point x="607.2" y="705"/>
+      <point x="624.8" y="700" type="curve"/>
+      <point x="624.8" y="612.8" type="line"/>
+      <point x="614" y="617.6"/>
+      <point x="604.6" y="620"/>
+      <point x="595.4" y="620" type="curve" smooth="yes"/>
+      <point x="574.4" y="620"/>
+      <point x="560.2" y="611"/>
+      <point x="551.8" y="581.8" type="curve" smooth="yes"/>
+      <point x="378.8" y="0" type="line"/>
+      <point x="241.2" y="0" type="line"/>
+      <point x="8.8" y="700" type="line"/>
+      <point x="120.6" y="700" type="line"/>
+      <point x="307.8" y="116.2" type="line"/>
+      <point x="316.2" y="116.2" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="291" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>V</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|Л</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

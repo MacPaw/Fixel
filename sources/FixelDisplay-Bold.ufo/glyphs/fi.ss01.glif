@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi.ss01" format="2">
+  <advance width="633"/>
+  <outline>
+    <contour>
+      <point x="417" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="520" type="line"/>
+      <point x="211.4" y="520" type="line"/>
+      <point x="210.2" y="527.6"/>
+      <point x="209.4" y="535.4"/>
+      <point x="209.4" y="542.2" type="curve" smooth="yes"/>
+      <point x="209.4" y="577"/>
+      <point x="235" y="598.4"/>
+      <point x="288.6" y="598.4" type="curve" smooth="yes"/>
+      <point x="314.8" y="598.4"/>
+      <point x="343.6" y="593"/>
+      <point x="370.4" y="582" type="curve"/>
+      <point x="370.4" y="697" type="line"/>
+      <point x="338.8" y="710"/>
+      <point x="288.8" y="718"/>
+      <point x="248.6" y="718" type="curve" smooth="yes"/>
+      <point x="136.6" y="718"/>
+      <point x="67" y="650.8"/>
+      <point x="67" y="559.2" type="curve" smooth="yes"/>
+      <point x="67" y="546.8"/>
+      <point x="68.4" y="532.8"/>
+      <point x="71.6" y="516" type="curve"/>
+      <point x="54.4" y="513"/>
+      <point x="35.6" y="508.8"/>
+      <point x="21.4" y="503.8" type="curve"/>
+      <point x="21.4" y="407.4" type="line"/>
+      <point x="88.4" y="407.4" type="line"/>
+      <point x="88.4" y="-190" type="line"/>
+      <point x="237.4" y="-190" type="line"/>
+      <point x="237.4" y="407.4" type="line"/>
+      <point x="417" y="407.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="590.4" type="curve" smooth="yes"/>
+      <point x="542" y="590.4"/>
+      <point x="578" y="620.4"/>
+      <point x="578" y="665.8" type="curve" smooth="yes"/>
+      <point x="578" y="710.6"/>
+      <point x="542" y="742.8"/>
+      <point x="490" y="742.8" type="curve" smooth="yes"/>
+      <point x="439.8" y="742.8"/>
+      <point x="405" y="710.6"/>
+      <point x="405" y="665.8" type="curve" smooth="yes"/>
+      <point x="405" y="620.4"/>
+      <point x="439.8" y="590.4"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>f.ss01</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>i</string>
+  <key>com.fontlab.recipe</key>
+  <string>f.ss01_i</string>
+  </dict>
+  </lib>
+</glyph>

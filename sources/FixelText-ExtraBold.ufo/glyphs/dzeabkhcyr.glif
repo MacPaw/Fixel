@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzeabkhcyr" format="2">
+  <advance width="517"/>
+  <unicode hex="04E1"/>
+  <outline>
+    <contour>
+      <point x="133.6" y="198.4" type="line"/>
+      <point x="281.4" y="236" type="line"/>
+      <point x="450.4" y="396.8" type="line"/>
+      <point x="450.4" y="520" type="line"/>
+      <point x="39.4" y="520" type="line"/>
+      <point x="39.4" y="390" type="line"/>
+      <point x="269.8" y="390" type="line"/>
+      <point x="269.8" y="383.4" type="line"/>
+      <point x="133.6" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="250.6" y="-200" type="curve" smooth="yes"/>
+      <point x="258.6" y="-200" type="line" smooth="yes"/>
+      <point x="380.6" y="-200"/>
+      <point x="499.8" y="-115.8"/>
+      <point x="499.8" y="41.2" type="curve" smooth="yes"/>
+      <point x="499.8" y="51.4" type="line" smooth="yes"/>
+      <point x="499.8" y="197.2"/>
+      <point x="392.6" y="269.6"/>
+      <point x="246" y="269.6" type="curve"/>
+      <point x="133.6" y="239.2" type="line"/>
+      <point x="133.6" y="155.2" type="line"/>
+      <point x="213.2" y="155.2" type="line" smooth="yes"/>
+      <point x="284.2" y="155.2"/>
+      <point x="320.2" y="117.2"/>
+      <point x="320.2" y="49.8" type="curve" smooth="yes"/>
+      <point x="320.2" y="35.8" type="line" smooth="yes"/>
+      <point x="320.2" y="-29.4"/>
+      <point x="278.8" y="-69.6"/>
+      <point x="235.2" y="-69.6" type="curve" smooth="yes"/>
+      <point x="228" y="-69.6" type="line" smooth="yes"/>
+      <point x="187.2" y="-69.6"/>
+      <point x="147.4" y="-44.8"/>
+      <point x="124" y="10.8" type="curve"/>
+      <point x="-1" y="-64.8" type="line"/>
+      <point x="51.2" y="-157.6"/>
+      <point x="137.6" y="-200"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>z-30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>з-10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusClosedlittle-cy" format="2">
+  <advance width="532"/>
+  <unicode hex="A659"/>
+  <outline>
+    <contour>
+      <point x="314" y="520" type="line"/>
+      <point x="219" y="520" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="261" y="436" type="line"/>
+      <point x="271" y="436" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="190" type="line"/>
+      <point x="399" y="260" type="line"/>
+      <point x="125" y="260" type="line"/>
+      <point x="125" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="0" type="line"/>
+      <point x="431" y="70" type="line"/>
+      <point x="94" y="70" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>yuslittlecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>yuslittlecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

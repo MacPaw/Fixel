@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversed-cy.accented" format="2">
+  <advance width="658"/>
+  <unicode hex="F466"/>
+  <anchor x="296.333" y="520" name="top"/>
+  <outline>
+    <component base="Ereversed-cy"/>
+    <component base="acute.case" xOffset="456.333" yOffset="1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Э+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

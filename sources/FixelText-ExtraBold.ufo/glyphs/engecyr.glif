@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="engecyr" format="2">
+  <advance width="728"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="55.4" y="0" type="line"/>
+      <point x="229.4" y="0" type="line"/>
+      <point x="229.4" y="209.4" type="line"/>
+      <point x="377.8" y="209.4" type="line"/>
+      <point x="377.8" y="0" type="line"/>
+      <point x="551.8" y="0" type="line"/>
+      <point x="551.8" y="385.2" type="line"/>
+      <point x="716.4" y="385.2" type="line"/>
+      <point x="716.4" y="520" type="line"/>
+      <point x="377.8" y="520" type="line"/>
+      <point x="377.8" y="339.4" type="line"/>
+      <point x="229.4" y="339.4" type="line"/>
+      <point x="229.4" y="520" type="line"/>
+      <point x="55.4" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ґ</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kastrokecyr" format="2">
+  <advance width="677"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="20" y="514" type="line"/>
+      <point x="353" y="514" type="line"/>
+      <point x="353" y="665" type="line"/>
+      <point x="20" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="288" y="312" type="line"/>
+      <point x="316" y="312" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="678" y="0" type="line"/>
+      <point x="484" y="378" type="line"/>
+      <point x="670" y="700" type="line"/>
+      <point x="457" y="700" type="line"/>
+      <point x="318" y="421" type="line"/>
+      <point x="288" y="421" type="line"/>
+      <point x="288" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Yatcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>K</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

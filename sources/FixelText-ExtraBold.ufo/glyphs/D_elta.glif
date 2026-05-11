@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+  <advance width="661"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="-10.4" y="0" type="line"/>
+      <point x="182.4" y="0" type="line"/>
+      <point x="324.4" y="508.2" type="line"/>
+      <point x="337.2" y="508.2" type="line"/>
+      <point x="478.4" y="0" type="line"/>
+      <point x="671.2" y="0" type="line"/>
+      <point x="445.2" y="700" type="line"/>
+      <point x="217.2" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="141.8" y="0" type="line"/>
+      <point x="521.4" y="0" type="line"/>
+      <point x="466.6" y="140.8" type="line"/>
+      <point x="196.6" y="140.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
+  </dict>
+  </lib>
+</glyph>

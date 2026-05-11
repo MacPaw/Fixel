@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gacute" format="2">
+  <advance width="785"/>
+  <unicode hex="01F4"/>
+  <outline>
+    <contour>
+      <point x="354" y="-13" type="curve" smooth="yes" name="&#x1f525;"/>
+      <point x="372" y="-13" type="line" smooth="yes"/>
+      <point x="447" y="-13"/>
+      <point x="535" y="30"/>
+      <point x="559" y="78" type="curve"/>
+      <point x="560" y="48"/>
+      <point x="569" y="11"/>
+      <point x="578" y="0" type="curve"/>
+      <point x="724" y="0" type="line"/>
+      <point x="724" y="393" type="line"/>
+      <point x="423" y="393" type="line"/>
+      <point x="423" y="231" type="line"/>
+      <point x="540" y="231" type="line"/>
+      <point x="540" y="226" type="line" smooth="yes"/>
+      <point x="540" y="206"/>
+      <point x="491" y="169"/>
+      <point x="415" y="169" type="curve" smooth="yes"/>
+      <point x="410" y="169" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="315" y="169"/>
+      <point x="249" y="237"/>
+      <point x="249" y="345" type="curve" smooth="yes"/>
+      <point x="249" y="352" type="line" smooth="yes"/>
+      <point x="249" y="458"/>
+      <point x="315" y="531"/>
+      <point x="409" y="531" type="curve" smooth="yes"/>
+      <point x="415" y="531" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="473" y="531"/>
+      <point x="516" y="505"/>
+      <point x="557" y="447" type="curve"/>
+      <point x="716" y="549" type="line"/>
+      <point x="630" y="661"/>
+      <point x="524" y="715"/>
+      <point x="394" y="715" type="curve" smooth="yes"/>
+      <point x="388" y="715" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="186" y="715"/>
+      <point x="35" y="559"/>
+      <point x="35" y="350" type="curve" smooth="yes"/>
+      <point x="35" y="344" type="line" smooth="yes"/>
+      <point x="35" y="131"/>
+      <point x="164" y="-13"/>
+    </contour>
+    <contour>
+      <point x="495" y="727" type="line"/>
+      <point x="591" y="906" type="line"/>
+      <point x="409" y="906" type="line"/>
+      <point x="336" y="743" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

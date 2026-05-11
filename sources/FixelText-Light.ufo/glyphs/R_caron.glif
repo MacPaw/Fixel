@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+  <advance width="627"/>
+  <unicode hex="0158"/>
+  <anchor x="330.667" y="0" name="bottom"/>
+  <anchor x="307.667" y="520" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="caron.case" xOffset="496.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>R+caron.case</string>
+  </dict>
+  </lib>
+</glyph>

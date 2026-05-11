@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dchecyr" format="2">
+  <advance width="587"/>
+  <unicode hex="052D"/>
+  <outline>
+    <contour>
+      <point x="43.6667" y="-128" type="line"/>
+      <point x="80.3333" y="-128" type="line"/>
+      <point x="80.3333" y="0" type="line"/>
+      <point x="513.333" y="0" type="line"/>
+      <point x="513.333" y="-128" type="line"/>
+      <point x="550" y="-128" type="line"/>
+      <point x="550" y="36" type="line"/>
+      <point x="488.667" y="36" type="line"/>
+      <point x="488.667" y="520" type="line"/>
+      <point x="206.333" y="520" type="line"/>
+      <point x="206.333" y="406.667" type="line" smooth="yes"/>
+      <point x="206.333" y="231.333"/>
+      <point x="158" y="112"/>
+      <point x="74.6667" y="36" type="curve"/>
+      <point x="43.6667" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="118.667" y="36" type="line"/>
+      <point x="195.333" y="111"/>
+      <point x="243.333" y="226"/>
+      <point x="243.333" y="433.333" type="curve" smooth="yes"/>
+      <point x="243.333" y="484" type="line"/>
+      <point x="450.667" y="484" type="line"/>
+      <point x="450.667" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="450.667" y="0" type="line"/>
+      <point x="488.667" y="0" type="line"/>
+      <point x="488.667" y="520" type="line"/>
+      <point x="450.667" y="520" type="line"/>
+      <point x="450.667" y="262" type="line"/>
+      <point x="237.333" y="262" type="line"/>
+      <point x="225.667" y="262" type="line" smooth="yes"/>
+      <point x="133.667" y="262"/>
+      <point x="96.6667" y="300.667"/>
+      <point x="96.6667" y="384" type="curve" smooth="yes"/>
+      <point x="96.6667" y="520" type="line"/>
+      <point x="60" y="520" type="line"/>
+      <point x="60" y="383" type="line" smooth="yes"/>
+      <point x="60" y="278.333"/>
+      <point x="109.333" y="228"/>
+      <point x="226.333" y="228" type="curve" smooth="yes"/>
+      <point x="236.667" y="228" type="line"/>
+      <point x="450.667" y="228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>д+10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

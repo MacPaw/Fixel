@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o-cy.accented" format="2">
+  <advance width="599"/>
+  <unicode hex="F46D"/>
+  <anchor x="299.4" y="520" name="top"/>
+  <anchor x="299.4" y="520" name="top.1"/>
+  <outline>
+    <component base="o"/>
+    <component base="acute" xOffset="444.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+acute</string>
+  </dict>
+  </lib>
+</glyph>

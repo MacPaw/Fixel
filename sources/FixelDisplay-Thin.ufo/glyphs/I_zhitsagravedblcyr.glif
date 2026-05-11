@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Izhitsagravedblcyr" format="2">
+  <advance width="642"/>
+  <unicode hex="0476"/>
+  <outline>
+    <component base="Izhitsacyr"/>
+    <component base="hungarumlaut.case" xScale="-1" xOffset="136"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Izhitsacyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Izhitsacyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>Izhitsacyr+hungarumlaut.case</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute" format="2">
+  <advance width="635"/>
+  <unicode hex="0154"/>
+  <anchor x="333.4" y="0" name="bottom"/>
+  <anchor x="311.8" y="520" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="acute.case" xyScale="5.54223e-20" xOffset="469" yOffset="2.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>R+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

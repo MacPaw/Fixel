@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzjekomicyr" format="2">
+  <advance width="499"/>
+  <unicode hex="0507"/>
+  <outline>
+    <contour>
+      <point x="415.6" y="144.8" type="line" smooth="yes"/>
+      <point x="415.6" y="212"/>
+      <point x="373.8" y="262.8"/>
+      <point x="308.8" y="273.8" type="curve"/>
+      <point x="314.6" y="261.8" type="line"/>
+      <point x="366" y="289.2"/>
+      <point x="397.2" y="327.6"/>
+      <point x="397.2" y="375.6" type="curve" smooth="yes"/>
+      <point x="397.2" y="387.8" type="line" smooth="yes"/>
+      <point x="397.2" y="468.6"/>
+      <point x="319.4" y="527.6"/>
+      <point x="224" y="527.6" type="curve" smooth="yes"/>
+      <point x="216.6" y="527.6" type="line" smooth="yes"/>
+      <point x="134.4" y="527.6"/>
+      <point x="62" y="488.8"/>
+      <point x="7.2" y="415.8" type="curve"/>
+      <point x="82.6" y="362.4" type="line"/>
+      <point x="112.8" y="413.8"/>
+      <point x="158.6" y="442"/>
+      <point x="209" y="442" type="curve" smooth="yes"/>
+      <point x="213.8" y="442" type="line" smooth="yes"/>
+      <point x="265" y="442"/>
+      <point x="297.4" y="413.2"/>
+      <point x="297.4" y="373.4" type="curve" smooth="yes"/>
+      <point x="297.4" y="368.2" type="line" smooth="yes"/>
+      <point x="297.4" y="327.2"/>
+      <point x="264.6" y="297.4"/>
+      <point x="214.2" y="297.4" type="curve" smooth="yes"/>
+      <point x="150.6" y="297.4" type="line"/>
+      <point x="150.6" y="221.8" type="line"/>
+      <point x="212.6" y="221.8" type="line" smooth="yes"/>
+      <point x="277" y="221.8"/>
+      <point x="315" y="189.4"/>
+      <point x="315" y="134.6" type="curve" smooth="yes"/>
+      <point x="315" y="0" type="line"/>
+      <point x="415.6" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="383.4" y="-128" type="line"/>
+      <point x="478.4" y="-128" type="line"/>
+      <point x="478.4" y="83.8" type="line"/>
+      <point x="360.6" y="83.8" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="383.4" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>zjekomicyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ц-5</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

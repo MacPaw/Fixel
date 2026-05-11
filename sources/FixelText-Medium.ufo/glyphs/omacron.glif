@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron" format="2">
+  <advance width="588"/>
+  <unicode hex="014D"/>
+  <anchor x="293.8" y="520" name="top"/>
+  <anchor x="293.8" y="520" name="top.1"/>
+  <outline>
+    <component base="o"/>
+    <component base="macron" xScale="1" xOffset="460.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+macron</string>
+  </dict>
+  </lib>
+</glyph>

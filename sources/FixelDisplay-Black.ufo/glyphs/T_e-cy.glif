@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Te-cy" format="2">
+  <advance width="605"/>
+  <unicode hex="0422"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="302" y="520" name="top"/>
+  <outline>
+    <component base="T"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>T</string>
+  </dict>
+  </lib>
+</glyph>

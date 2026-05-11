@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twe-cy" format="2">
+  <advance width="449"/>
+  <unicode hex="A68D"/>
+  <anchor x="222.4" y="520" name="top"/>
+  <anchor x="222.4" y="520" name="top.1"/>
+  <outline>
+    <component base="te-cy.ss01"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>т.ss01</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

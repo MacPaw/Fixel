@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zemlya-cy" format="2">
+  <advance width="544"/>
+  <unicode hex="A640"/>
+  <outline>
+    <contour>
+      <point x="37.6667" y="700" type="line"/>
+      <point x="489.333" y="700" type="line"/>
+      <point x="489.333" y="647" type="line"/>
+      <point x="165.333" y="75" type="line"/>
+      <point x="165.333" y="67.3333" type="line"/>
+      <point x="298" y="67.3333" type="line" smooth="yes"/>
+      <point x="406.667" y="67.3333"/>
+      <point x="491.333" y="30.6667"/>
+      <point x="491.333" y="-65.6667" type="curve" smooth="yes"/>
+      <point x="491.333" y="-157"/>
+      <point x="401.667" y="-201.333"/>
+      <point x="299.667" y="-201.333" type="curve" smooth="yes"/>
+      <point x="206" y="-201.333"/>
+      <point x="113.333" y="-182"/>
+      <point x="57.6667" y="-138.667" type="curve"/>
+      <point x="57.6667" y="-74" type="line"/>
+      <point x="117" y="-125.667"/>
+      <point x="199.667" y="-144.333"/>
+      <point x="291" y="-144.333" type="curve" smooth="yes"/>
+      <point x="374" y="-144.333"/>
+      <point x="428.667" y="-119.667"/>
+      <point x="428.667" y="-67" type="curve" smooth="yes"/>
+      <point x="428.667" y="-1.66667"/>
+      <point x="365.667" y="10.3333"/>
+      <point x="275.667" y="10.3333" type="curve" smooth="yes"/>
+      <point x="90" y="10.3333" type="line"/>
+      <point x="90" y="64.3333" type="line"/>
+      <point x="414.667" y="637.333" type="line"/>
+      <point x="414.667" y="643" type="line"/>
+      <point x="37.6667" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Z-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Z</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha-cy.BGR" format="2">
+  <advance width="876"/>
+  <outline>
+    <contour>
+      <point x="791" y="520" type="line"/>
+      <point x="717" y="520" type="line"/>
+      <point x="717" y="212" type="line" smooth="yes"/>
+      <point x="717" y="117"/>
+      <point x="663" y="66"/>
+      <point x="581" y="66" type="curve" smooth="yes"/>
+      <point x="574" y="66" type="line" smooth="yes"/>
+      <point x="503" y="66"/>
+      <point x="470" y="109"/>
+      <point x="470" y="189" type="curve" smooth="yes"/>
+      <point x="470" y="520" type="line"/>
+      <point x="396" y="520" type="line"/>
+      <point x="396" y="212" type="line" smooth="yes"/>
+      <point x="396" y="117"/>
+      <point x="340" y="66"/>
+      <point x="258" y="66" type="curve" smooth="yes"/>
+      <point x="251" y="66" type="line" smooth="yes"/>
+      <point x="182" y="66"/>
+      <point x="149" y="109"/>
+      <point x="149" y="189" type="curve" smooth="yes"/>
+      <point x="149" y="520" type="line"/>
+      <point x="75" y="520" type="line"/>
+      <point x="75" y="177" type="line" smooth="yes"/>
+      <point x="75" y="56"/>
+      <point x="130" y="-8"/>
+      <point x="236" y="-8" type="curve" smooth="yes"/>
+      <point x="243" y="-8" type="line" smooth="yes"/>
+      <point x="314" y="-8"/>
+      <point x="375" y="24"/>
+      <point x="413" y="79" type="curve"/>
+      <point x="437" y="22"/>
+      <point x="485" y="-8"/>
+      <point x="559" y="-8" type="curve" smooth="yes"/>
+      <point x="566" y="-8" type="line" smooth="yes"/>
+      <point x="628" y="-8"/>
+      <point x="681" y="17"/>
+      <point x="719" y="59" type="curve"/>
+      <point x="722" y="38"/>
+      <point x="728" y="15"/>
+      <point x="733" y="0" type="curve"/>
+      <point x="791" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l</string>
+  <key>com.fontlab.recipe</key>
+  <string>m</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

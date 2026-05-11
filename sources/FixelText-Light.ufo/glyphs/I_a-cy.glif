@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ia-cy" format="2">
+  <advance width="619"/>
+  <unicode hex="042F"/>
+  <anchor x="308.333" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="269.667" y="271.333" type="line"/>
+      <point x="287.759" y="271.333"/>
+      <point x="437.907" y="271.333"/>
+      <point x="456" y="271.333" type="curve"/>
+      <point x="456" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="516" y="700" type="line"/>
+      <point x="301" y="700" type="line" smooth="yes"/>
+      <point x="152" y="700"/>
+      <point x="51.3333" y="622.333"/>
+      <point x="51.3333" y="494" type="curve" smooth="yes"/>
+      <point x="51.3333" y="481.667" type="line" smooth="yes"/>
+      <point x="51.3333" y="380"/>
+      <point x="122" y="301.333"/>
+      <point x="226.333" y="279" type="curve"/>
+    </contour>
+    <contour>
+      <point x="456" y="328.333" type="line"/>
+      <point x="303" y="328.333" type="line" smooth="yes"/>
+      <point x="187.333" y="328.333"/>
+      <point x="114" y="388.333"/>
+      <point x="114" y="481" type="curve" smooth="yes"/>
+      <point x="114" y="493" type="line" smooth="yes"/>
+      <point x="114" y="588.333"/>
+      <point x="188.667" y="643"/>
+      <point x="303" y="643" type="curve" smooth="yes"/>
+      <point x="456" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="300.667" type="line"/>
+      <point x="26.6667" y="0" type="line"/>
+      <point x="101.667" y="0" type="line"/>
+      <point x="291.333" y="289.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|R+10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

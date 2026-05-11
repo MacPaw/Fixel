@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="2">
+  <advance width="1205"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="percent" xOffset="0.6" yOffset="-1"/>
+    <component base="_perc-circule" xScale="1" xOffset="373.4"/>
+  </outline>
+</glyph>

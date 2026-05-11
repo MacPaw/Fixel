@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z.ss01" format="2">
+  <advance width="607"/>
+  <anchor x="291" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="434" y="-45" type="curve"/>
+      <point x="555" y="-45"/>
+      <point x="632" y="32"/>
+      <point x="632" y="135" type="curve"/>
+      <point x="460" y="177" type="line"/>
+      <point x="460" y="152"/>
+      <point x="440" y="133"/>
+      <point x="420" y="133" type="curve" smooth="yes"/>
+      <point x="388" y="133"/>
+      <point x="355" y="161"/>
+      <point x="303" y="181" type="curve"/>
+      <point x="303" y="181"/>
+      <point x="303" y="181"/>
+      <point x="303" y="181" type="curve"/>
+      <point x="565" y="542" type="line"/>
+      <point x="565" y="700" type="line"/>
+      <point x="43" y="700" type="line"/>
+      <point x="43" y="524" type="line"/>
+      <point x="313" y="524" type="line"/>
+      <point x="52" y="149" type="line"/>
+      <point x="21" y="118"/>
+      <point x="6" y="76"/>
+      <point x="7" y="23" type="curve"/>
+      <point x="179" y="-17" type="line"/>
+      <point x="179" y="18"/>
+      <point x="189" y="34"/>
+      <point x="210" y="34" type="curve" smooth="yes"/>
+      <point x="263" y="34"/>
+      <point x="313" y="-44"/>
+    </contour>
+  </outline>
+</glyph>

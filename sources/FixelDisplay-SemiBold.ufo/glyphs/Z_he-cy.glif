@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="892"/>
+  <unicode hex="0416"/>
+  <anchor x="446" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="382.4" y="0" type="line"/>
+      <point x="509.6" y="0" type="line"/>
+      <point x="509.6" y="336.6" type="line"/>
+      <point x="518.6" y="336.6" type="line"/>
+      <point x="732.8" y="0" type="line"/>
+      <point x="887.4" y="0" type="line"/>
+      <point x="632.2" y="378" type="line"/>
+      <point x="855.8" y="700" type="line"/>
+      <point x="713.8" y="700" type="line"/>
+      <point x="519.2" y="401.8" type="line"/>
+      <point x="509.6" y="401.8" type="line"/>
+      <point x="509.6" y="700" type="line"/>
+      <point x="382.4" y="700" type="line"/>
+      <point x="382.4" y="401.8" type="line"/>
+      <point x="372.8" y="401.8" type="line"/>
+      <point x="178.2" y="700" type="line"/>
+      <point x="36.2" y="700" type="line"/>
+      <point x="259.8" y="378" type="line"/>
+      <point x="4.6" y="0" type="line"/>
+      <point x="159.2" y="0" type="line"/>
+      <point x="373.4" y="336.6" type="line"/>
+      <point x="382.4" y="336.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|K</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>K</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

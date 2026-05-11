@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="274"/>
+  <unicode hex="00ED"/>
+  <anchor x="198.8" y="0" name="bottom"/>
+  <anchor x="136.6" y="520" name="top"/>
+  <anchor x="136.6" y="520" name="top.1"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acute" xOffset="279.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+acute</string>
+  </dict>
+  </lib>
+</glyph>

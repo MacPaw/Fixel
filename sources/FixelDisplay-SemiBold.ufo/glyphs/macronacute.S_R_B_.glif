@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacute.SRB" format="2">
+  <advance width="376"/>
+  <anchor x="187.6" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="41.2" y="610" type="line"/>
+      <point x="334.4" y="610" type="line"/>
+      <point x="334.4" y="702" type="line"/>
+      <point x="41.2" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.8" y="762.8" type="line"/>
+      <point x="294" y="917.6" type="line"/>
+      <point x="180.6" y="917.6" type="line"/>
+      <point x="124" y="762.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>macron+acute</string>
+  </dict>
+  </lib>
+</glyph>

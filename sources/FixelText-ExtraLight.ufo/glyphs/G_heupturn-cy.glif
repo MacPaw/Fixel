@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gheupturn-cy" format="2">
+  <advance width="471"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="106.667" y="0" type="line"/>
+      <point x="146.667" y="0" type="line"/>
+      <point x="146.667" y="662" type="line"/>
+      <point x="444.667" y="662" type="line"/>
+      <point x="444.667" y="820" type="line"/>
+      <point x="405.667" y="820" type="line"/>
+      <point x="405.667" y="700" type="line"/>
+      <point x="106.667" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Г</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

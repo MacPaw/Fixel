@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yuslittleiotifiedcyr" format="2">
+  <advance width="1053"/>
+  <unicode hex="0468"/>
+  <outline>
+    <component base="Yuslittlecyr" xOffset="310"/>
+    <contour>
+      <point x="519" y="520" type="line"/>
+      <point x="263" y="520" type="line"/>
+      <point x="263" y="700" type="line"/>
+      <point x="56" y="700" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="263" y="344" type="line"/>
+      <point x="449" y="344" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>А-5</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

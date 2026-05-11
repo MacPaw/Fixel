@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jecyr" format="2">
+  <advance width="397"/>
+  <unicode hex="0408"/>
+  <anchor x="246.8" y="519.4" name="top"/>
+  <outline>
+    <component base="J"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>J</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>J</string>
+  <key>com.fontlab.recipe</key>
+  <string>J</string>
+  </dict>
+  </lib>
+</glyph>

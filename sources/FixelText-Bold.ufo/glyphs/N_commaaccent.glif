@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="2">
+  <advance width="725"/>
+  <unicode hex="0145"/>
+  <anchor x="363.2" y="0" name="bottom"/>
+  <anchor x="362.6" y="518.2" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="commaaccentcomb" xScale="1" xOffset="456.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+commaaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

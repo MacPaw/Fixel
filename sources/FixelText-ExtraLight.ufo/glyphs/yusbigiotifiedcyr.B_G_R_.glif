@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusbigiotifiedcyr.BGR" format="2">
+  <advance width="799"/>
+  <outline>
+    <component base="yusbigcyr" xOffset="145"/>
+    <contour>
+      <point x="91.6667" y="0" type="line"/>
+      <point x="128.333" y="0" type="line"/>
+      <point x="128.333" y="259" type="line"/>
+      <point x="365.667" y="259" type="line"/>
+      <point x="432.333" y="293.667" type="line"/>
+      <point x="128.333" y="293.667" type="line"/>
+      <point x="128.333" y="720" type="line"/>
+      <point x="91.6667" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ж</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

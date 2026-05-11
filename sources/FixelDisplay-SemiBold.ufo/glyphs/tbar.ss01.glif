@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.ss01" format="2">
+  <advance width="398"/>
+  <outline>
+    <component base="t.ss01" xOffset="0.6"/>
+    <contour>
+      <point x="28.6" y="242" type="line"/>
+      <point x="345.4" y="242" type="line"/>
+      <point x="345.4" y="328.8" type="line"/>
+      <point x="28.6" y="328.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

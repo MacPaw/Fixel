@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="2">
+  <advance width="565"/>
+  <unicode hex="0119"/>
+  <outline>
+    <contour>
+      <point x="448.4" y="154" type="line"/>
+      <point x="418.6" y="113.2"/>
+      <point x="372.4" y="81.4"/>
+      <point x="305.8" y="81.4" type="curve" smooth="yes"/>
+      <point x="296" y="81.4" type="line" smooth="yes"/>
+      <point x="208.2" y="81.4"/>
+      <point x="148.8" y="137.6"/>
+      <point x="141.8" y="224.4" type="curve"/>
+      <point x="141.8" y="224.4" type="line"/>
+      <point x="526.4" y="224.4" type="line"/>
+      <point x="526.4" y="286.2" type="line" smooth="yes"/>
+      <point x="526.4" y="429.8"/>
+      <point x="434.2" y="527.4"/>
+      <point x="298.2" y="527.4" type="curve" smooth="yes"/>
+      <point x="288.8" y="527.4" type="line" smooth="yes"/>
+      <point x="141.2" y="527.4"/>
+      <point x="40.8" y="420.8"/>
+      <point x="40.8" y="264.8" type="curve" smooth="yes"/>
+      <point x="40.8" y="245.6" type="line" smooth="yes"/>
+      <point x="40.8" y="94.4"/>
+      <point x="141" y="-7.6"/>
+      <point x="290" y="-7.6" type="curve" smooth="yes"/>
+      <point x="300.6" y="-7.6" type="line" smooth="yes"/>
+      <point x="388.6" y="-7.6"/>
+      <point x="463" y="31.2"/>
+      <point x="512.2" y="97" type="curve"/>
+    </contour>
+    <contour>
+      <point x="143.6" y="301.2" type="line"/>
+      <point x="155.4" y="388"/>
+      <point x="207.8" y="441.8"/>
+      <point x="285.8" y="441.8" type="curve" smooth="yes"/>
+      <point x="295.6" y="441.8" type="line" smooth="yes"/>
+      <point x="373.4" y="441.8"/>
+      <point x="426.6" y="387"/>
+      <point x="430.6" y="302.4" type="curve"/>
+      <point x="430.6" y="301.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="284.8" y="5" type="line"/>
+      <point x="251.8" y="-27.4"/>
+      <point x="233" y="-64"/>
+      <point x="233" y="-98" type="curve" smooth="yes"/>
+      <point x="233" y="-144.4"/>
+      <point x="266.4" y="-173.6"/>
+      <point x="317.4" y="-173.6" type="curve" smooth="yes"/>
+      <point x="331" y="-173.6"/>
+      <point x="344.4" y="-171.6"/>
+      <point x="357" y="-168" type="curve"/>
+      <point x="357" y="-109.6" type="line"/>
+      <point x="349.8" y="-112.6"/>
+      <point x="341.6" y="-115.6"/>
+      <point x="333.2" y="-115.6" type="curve" smooth="yes"/>
+      <point x="315.4" y="-115.6"/>
+      <point x="304.8" y="-103.8"/>
+      <point x="304.8" y="-82" type="curve" smooth="yes"/>
+      <point x="304.8" y="-37.8"/>
+      <point x="348.2" y="-4.6"/>
+      <point x="394" y="8.8" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="351" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+ogonek</string>
+  </dict>
+  </lib>
+</glyph>

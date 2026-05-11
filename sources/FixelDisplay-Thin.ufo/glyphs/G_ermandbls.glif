@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="714"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="409" y="-10" type="curve" smooth="yes"/>
+      <point x="559" y="-10"/>
+      <point x="659" y="82"/>
+      <point x="659" y="220" type="curve" smooth="yes"/>
+      <point x="659" y="347"/>
+      <point x="567" y="431"/>
+      <point x="428" y="431" type="curve" smooth="yes"/>
+      <point x="403" y="431"/>
+      <point x="380" y="428"/>
+      <point x="358" y="423" type="curve"/>
+      <point x="619" y="685" type="line"/>
+      <point x="619" y="700" type="line"/>
+      <point x="359" y="700" type="line" smooth="yes"/>
+      <point x="204" y="700"/>
+      <point x="100" y="582"/>
+      <point x="100" y="405" type="curve" smooth="yes"/>
+      <point x="100" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="405" type="line" smooth="yes"/>
+      <point x="120" y="571"/>
+      <point x="216" y="681"/>
+      <point x="359" y="681" type="curve" smooth="yes"/>
+      <point x="587" y="681" type="line"/>
+      <point x="319" y="410" type="line"/>
+      <point x="326" y="393" type="line"/>
+      <point x="354" y="405"/>
+      <point x="397" y="412"/>
+      <point x="434" y="412" type="curve" smooth="yes"/>
+      <point x="558" y="412"/>
+      <point x="639" y="336"/>
+      <point x="639" y="222" type="curve" smooth="yes"/>
+      <point x="639" y="94"/>
+      <point x="547" y="9"/>
+      <point x="409" y="9" type="curve" smooth="yes"/>
+      <point x="362" y="9"/>
+      <point x="318" y="19"/>
+      <point x="280" y="38" type="curve"/>
+      <point x="271" y="21" type="line"/>
+      <point x="311" y="1"/>
+      <point x="359" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>B-5</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enmiddlehookcyr" format="2">
+  <advance width="841"/>
+  <unicode hex="0523"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="155" y="231" type="line"/>
+      <point x="418" y="231" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="492" y="520" type="line"/>
+      <point x="418" y="520" type="line"/>
+      <point x="418" y="301" type="line"/>
+      <point x="155" y="301" type="line"/>
+      <point x="155" y="520" type="line"/>
+      <point x="85" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="605" y="-125" type="curve" smooth="yes"/>
+      <point x="578" y="-125"/>
+      <point x="558" y="-122"/>
+      <point x="536" y="-114" type="curve"/>
+      <point x="536" y="-180" type="line"/>
+      <point x="565" y="-191"/>
+      <point x="592" y="-197"/>
+      <point x="617" y="-197" type="curve" smooth="yes"/>
+      <point x="731" y="-197"/>
+      <point x="806" y="-100"/>
+      <point x="806" y="41" type="curve" smooth="yes"/>
+      <point x="806" y="67" type="line" smooth="yes"/>
+      <point x="806" y="221"/>
+      <point x="700" y="301"/>
+      <point x="556" y="301" type="curve" smooth="yes"/>
+      <point x="487" y="301" type="line"/>
+      <point x="487" y="231" type="line"/>
+      <point x="550" y="231" type="line" smooth="yes"/>
+      <point x="656" y="231"/>
+      <point x="736" y="177"/>
+      <point x="736" y="62" type="curve" smooth="yes"/>
+      <point x="736" y="38" type="line" smooth="yes"/>
+      <point x="736" y="-60"/>
+      <point x="684" y="-125"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>softsign-cy</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron.ss01" format="2">
+  <advance width="590"/>
+  <anchor x="420" y="0" name="bottom"/>
+  <anchor x="310" y="520" name="top"/>
+  <anchor x="310" y="520" name="top.1"/>
+  <outline>
+    <component base="e.ss01"/>
+    <component base="macron" xOffset="507"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss01+macron</string>
+  </dict>
+  </lib>
+</glyph>

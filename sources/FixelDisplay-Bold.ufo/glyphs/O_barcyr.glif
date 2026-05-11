@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obarcyr" format="2">
+  <advance width="785"/>
+  <unicode hex="04E8"/>
+  <anchor x="393.2" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="39" y="346.2" type="line" smooth="yes"/>
+      <point x="39" y="143.2"/>
+      <point x="185.6" y="-13.4"/>
+      <point x="387.6" y="-13.4" type="curve" smooth="yes"/>
+      <point x="397.4" y="-13.4" type="line" smooth="yes"/>
+      <point x="600.6" y="-13.4"/>
+      <point x="746.4" y="140.2"/>
+      <point x="746.4" y="345" type="curve" smooth="yes"/>
+      <point x="746.4" y="355" type="line" smooth="yes"/>
+      <point x="746.4" y="560.2"/>
+      <point x="600.6" y="713.8"/>
+      <point x="397.4" y="713.8" type="curve" smooth="yes"/>
+      <point x="387.6" y="713.8" type="line" smooth="yes"/>
+      <point x="183.8" y="713.8"/>
+      <point x="39" y="559.8"/>
+      <point x="39" y="353.8" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="201" y="346.2" type="curve" smooth="yes"/>
+      <point x="201" y="353.8" type="line" smooth="yes"/>
+      <point x="201" y="487.2"/>
+      <point x="282" y="577"/>
+      <point x="388.2" y="577" type="curve" smooth="yes"/>
+      <point x="396.8" y="577" type="line" smooth="yes"/>
+      <point x="504.4" y="577"/>
+      <point x="584.4" y="487.2"/>
+      <point x="584.4" y="353.8" type="curve" smooth="yes"/>
+      <point x="584.4" y="346.2" type="line" smooth="yes"/>
+      <point x="584.4" y="212.6"/>
+      <point x="504" y="123.4"/>
+      <point x="397.6" y="123.4" type="curve" smooth="yes"/>
+      <point x="389" y="123.4" type="line" smooth="yes"/>
+      <point x="282" y="123.4"/>
+      <point x="201" y="212.6"/>
+    </contour>
+    <contour>
+      <point x="80.2" y="406" type="line"/>
+      <point x="80.2" y="336.2" type="line"/>
+      <point x="126" y="293.4" type="line"/>
+      <point x="633.8" y="293.4" type="line"/>
+      <point x="633.8" y="406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>r()</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

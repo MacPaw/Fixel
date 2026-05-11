@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeruBackyer-cy" format="2">
+  <advance width="756"/>
+  <unicode hex="A651"/>
+  <outline>
+    <contour>
+      <point x="103.2" y="0" type="line"/>
+      <point x="321.8" y="0" type="line" smooth="yes"/>
+      <point x="427.8" y="0"/>
+      <point x="498.2" y="68.2"/>
+      <point x="498.2" y="164.6" type="curve" smooth="yes"/>
+      <point x="498.2" y="181" type="line" smooth="yes"/>
+      <point x="498.2" y="277.6"/>
+      <point x="428.4" y="345.6"/>
+      <point x="323.2" y="345.6" type="curve" smooth="yes"/>
+      <point x="201.4" y="345.6" type="line"/>
+      <point x="201.4" y="520" type="line"/>
+      <point x="13.8" y="520" type="line"/>
+      <point x="13.8" y="433.8" type="line"/>
+      <point x="103.2" y="433.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="82" type="line"/>
+      <point x="200" y="264.6" type="line"/>
+      <point x="316.4" y="264.6" type="line" smooth="yes"/>
+      <point x="366.2" y="264.6"/>
+      <point x="398.4" y="230.4"/>
+      <point x="398.4" y="179.6" type="curve" smooth="yes"/>
+      <point x="398.4" y="167" type="line" smooth="yes"/>
+      <point x="398.4" y="116.2"/>
+      <point x="366.2" y="82"/>
+      <point x="316.4" y="82" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="579.6" y="0" type="line"/>
+      <point x="678.6" y="0" type="line"/>
+      <point x="678.6" y="520" type="line"/>
+      <point x="579.6" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>hardsign-cy</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>dotlessi</string>
+  <key>com.fontlab.recipe</key>
+  <string>hardsign-cy_dotlessi</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

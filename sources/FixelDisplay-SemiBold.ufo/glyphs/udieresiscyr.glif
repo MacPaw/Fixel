@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresiscyr" format="2">
+  <advance width="558"/>
+  <unicode hex="04F1"/>
+  <anchor x="285.2" y="518.2" name="top"/>
+  <anchor x="285.2" y="518.2" name="top.1"/>
+  <outline>
+    <component base="u-cy"/>
+    <component base="dieresis" xyScale="-5.43565e-20" xOffset="493.4" yOffset="1.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u-cy+dieresis</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

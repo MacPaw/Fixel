@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="2">
+  <advance width="401"/>
+  <outline>
+    <contour>
+      <point x="327.4" y="589" type="line"/>
+      <point x="190.4" y="589" type="line"/>
+      <point x="190.4" y="495.4"/>
+      <point x="123.8" y="435.4"/>
+      <point x="24" y="430.8" type="curve"/>
+      <point x="24" y="312.8" type="line"/>
+      <point x="85.4" y="312.8"/>
+      <point x="140" y="329.2"/>
+      <point x="180.2" y="357.2" type="curve"/>
+      <point x="180.2" y="0" type="line"/>
+      <point x="327.4" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>one</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>one</string>
+  </dict>
+  </lib>
+</glyph>

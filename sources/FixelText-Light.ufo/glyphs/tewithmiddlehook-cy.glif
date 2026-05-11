@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tewithmiddlehook-cy" format="2">
+  <advance width="581"/>
+  <unicode hex="A68B"/>
+  <outline>
+    <contour>
+      <point x="179.333" y="0" type="line"/>
+      <point x="235.333" y="0" type="line"/>
+      <point x="235.333" y="467" type="line"/>
+      <point x="420.667" y="467" type="line"/>
+      <point x="420.667" y="520" type="line"/>
+      <point x="23.3333" y="520" type="line"/>
+      <point x="23.3333" y="467" type="line"/>
+      <point x="179.333" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="348.333" y="-141.667" type="curve" smooth="yes"/>
+      <point x="321.667" y="-141.667"/>
+      <point x="302" y="-138.333"/>
+      <point x="281" y="-131.667" type="curve"/>
+      <point x="281" y="-182.667" type="line"/>
+      <point x="307.333" y="-191.333"/>
+      <point x="332" y="-196.333"/>
+      <point x="356" y="-196.333" type="curve" smooth="yes"/>
+      <point x="468.333" y="-196.333"/>
+      <point x="542.667" y="-104"/>
+      <point x="542.667" y="45.6667" type="curve" smooth="yes"/>
+      <point x="542.667" y="67.3333" type="line" smooth="yes"/>
+      <point x="542.667" y="220.333"/>
+      <point x="473" y="306"/>
+      <point x="350.333" y="306" type="curve" smooth="yes"/>
+      <point x="307.667" y="306"/>
+      <point x="267.667" y="297.333"/>
+      <point x="225.333" y="278" type="curve"/>
+      <point x="225.333" y="222" type="line"/>
+      <point x="257.667" y="241.667"/>
+      <point x="300.333" y="253.333"/>
+      <point x="343.667" y="253.333" type="curve" smooth="yes"/>
+      <point x="439" y="253.333"/>
+      <point x="489.333" y="188.667"/>
+      <point x="489.333" y="65" type="curve" smooth="yes"/>
+      <point x="489.333" y="43.3333" type="line" smooth="yes"/>
+      <point x="489.333" y="-73.3333"/>
+      <point x="432.333" y="-141.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>т</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>gehookcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

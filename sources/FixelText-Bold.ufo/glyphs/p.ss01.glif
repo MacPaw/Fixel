@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.ss01" format="2">
+  <advance width="609"/>
+  <anchor x="372.8" y="520" name="top"/>
+  <anchor x="372.8" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="63.4" y="-190" type="line"/>
+      <point x="212.4" y="-190" type="line"/>
+      <point x="212.4" y="5.2" type="line"/>
+      <point x="239.4" y="-4.6"/>
+      <point x="266.6" y="-10.6"/>
+      <point x="295" y="-10.6" type="curve" smooth="yes"/>
+      <point x="304.4" y="-10.6" type="line" smooth="yes"/>
+      <point x="464.6" y="-10.6"/>
+      <point x="576.2" y="102.2"/>
+      <point x="576.2" y="266.4" type="curve" smooth="yes"/>
+      <point x="576.2" y="289.4" type="line" smooth="yes"/>
+      <point x="576.2" y="438.8"/>
+      <point x="502" y="530.4"/>
+      <point x="377.4" y="530.4" type="curve" smooth="yes"/>
+      <point x="367.6" y="530.4" type="line" smooth="yes"/>
+      <point x="295" y="530.4"/>
+      <point x="230.8" y="490.4"/>
+      <point x="197.4" y="431.6" type="curve"/>
+      <point x="197.4" y="436.8" type="line"/>
+      <point x="196.8" y="460.4"/>
+      <point x="189.8" y="498.6"/>
+      <point x="181.4" y="520" type="curve"/>
+      <point x="63.4" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="295.8" y="100.6" type="line" smooth="yes"/>
+      <point x="262.4" y="100.6"/>
+      <point x="228.6" y="109.2"/>
+      <point x="210" y="124.4" type="curve"/>
+      <point x="210" y="275.4" type="line" smooth="yes"/>
+      <point x="210" y="352.4"/>
+      <point x="259.4" y="412"/>
+      <point x="319.8" y="412" type="curve" smooth="yes"/>
+      <point x="326" y="412" type="line" smooth="yes"/>
+      <point x="388.2" y="412"/>
+      <point x="422.6" y="359"/>
+      <point x="422.6" y="274.6" type="curve" smooth="yes"/>
+      <point x="422.6" y="260.6" type="line" smooth="yes"/>
+      <point x="422.6" y="163.4"/>
+      <point x="370.2" y="100.6"/>
+      <point x="299.8" y="100.6" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

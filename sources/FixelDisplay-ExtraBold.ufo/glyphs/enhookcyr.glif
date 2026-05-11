@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enhookcyr" format="2">
+  <advance width="638"/>
+  <unicode hex="04C8"/>
+  <outline>
+    <contour>
+      <point x="404.4" y="0.8" type="line" smooth="yes"/>
+      <point x="404.4" y="-46"/>
+      <point x="391" y="-64.8"/>
+      <point x="352.6" y="-64.8" type="curve" smooth="yes"/>
+      <point x="336" y="-64.8"/>
+      <point x="320.8" y="-60.8"/>
+      <point x="304" y="-52.2" type="curve"/>
+      <point x="304" y="-193.4" type="line"/>
+      <point x="338.6" y="-205.6"/>
+      <point x="376.6" y="-211.4"/>
+      <point x="412.4" y="-211.4" type="curve" smooth="yes"/>
+      <point x="520" y="-211.4"/>
+      <point x="578.4" y="-139.6"/>
+      <point x="578.4" y="-21.2" type="curve" smooth="yes"/>
+      <point x="578.4" y="520" type="line"/>
+      <point x="404.4" y="520" type="line"/>
+      <point x="404.4" y="339.4" type="line"/>
+      <point x="232.8" y="339.4" type="line"/>
+      <point x="232.8" y="520" type="line"/>
+      <point x="59.6" y="520" type="line"/>
+      <point x="59.6" y="0" type="line"/>
+      <point x="232.8" y="0" type="line"/>
+      <point x="232.8" y="209.4" type="line"/>
+      <point x="404.4" y="209.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

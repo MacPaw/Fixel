@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deSoft-cy" format="2">
+  <advance width="696"/>
+  <unicode hex="A663"/>
+  <outline>
+    <contour>
+      <point x="20.6667" y="-128" type="line"/>
+      <point x="75" y="-128" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="463.333" y="0" type="line"/>
+      <point x="463.333" y="-128" type="line"/>
+      <point x="517.667" y="-128" type="line"/>
+      <point x="517.667" y="53" type="line"/>
+      <point x="446.333" y="53" type="line"/>
+      <point x="446.333" y="467" type="line"/>
+      <point x="672.667" y="467" type="line"/>
+      <point x="672.667" y="520" type="line"/>
+      <point x="126.667" y="520" type="line"/>
+      <point x="126.667" y="488.333" type="line"/>
+      <point x="126.333" y="234.333"/>
+      <point x="105" y="95.3333"/>
+      <point x="60.3333" y="53" type="curve"/>
+      <point x="20.6667" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="53" type="line"/>
+      <point x="157.333" y="92.6667"/>
+      <point x="178.667" y="217.333"/>
+      <point x="181" y="441.667" type="curve"/>
+      <point x="181" y="467" type="line"/>
+      <point x="390.333" y="467" type="line"/>
+      <point x="390.333" y="53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>д</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ґ</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

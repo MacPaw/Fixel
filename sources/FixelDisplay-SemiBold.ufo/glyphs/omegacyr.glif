@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegacyr" format="2">
+  <advance width="853"/>
+  <unicode hex="0461"/>
+  <anchor x="427" y="520" name="top"/>
+  <anchor x="427" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="375" y="470" type="line"/>
+      <point x="356" y="337.8"/>
+      <point x="322.6" y="214.2"/>
+      <point x="273.6" y="114.4" type="curve"/>
+      <point x="265.6" y="114.4" type="line"/>
+      <point x="209.4" y="226.8"/>
+      <point x="173.6" y="368.6"/>
+      <point x="156.6" y="520" type="curve"/>
+      <point x="27.6" y="520" type="line"/>
+      <point x="62.8" y="324"/>
+      <point x="114.6" y="161"/>
+      <point x="195.2" y="0" type="curve"/>
+      <point x="325.4" y="0" type="line"/>
+      <point x="384.8" y="119.2"/>
+      <point x="428.8" y="239"/>
+      <point x="461.8" y="373" type="curve"/>
+    </contour>
+    <contour>
+      <point x="825.4" y="520" type="curve"/>
+      <point x="696.4" y="520" type="line"/>
+      <point x="679.4" y="368.6"/>
+      <point x="643.6" y="226.8"/>
+      <point x="588.8" y="114.4" type="curve"/>
+      <point x="580.8" y="114.4" type="line"/>
+      <point x="524.6" y="226.8"/>
+      <point x="489.8" y="368.6"/>
+      <point x="472.8" y="520" type="curve"/>
+      <point x="344.4" y="520" type="line"/>
+      <point x="357" y="450.8"/>
+      <point x="370.4" y="387.4"/>
+      <point x="386.8" y="326.2" type="curve"/>
+      <point x="402.2" y="299.2" type="line"/>
+      <point x="431.8" y="194.4"/>
+      <point x="470.2" y="95.6"/>
+      <point x="519" y="0" type="curve"/>
+      <point x="657.8" y="0" type="line"/>
+      <point x="738.4" y="161"/>
+      <point x="790.2" y="324"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>w</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>w</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

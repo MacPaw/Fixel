@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A-cy.ss01" format="2">
+  <advance width="621"/>
+  <anchor x="609.667" y="0" name="bottom"/>
+  <anchor x="309.667" y="517" name="top"/>
+  <outline>
+    <component base="A.ss01" xOffset="-6.66667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A</string>
+  </dict>
+  </lib>
+</glyph>

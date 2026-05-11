@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraightstrokecyr" format="2">
+  <advance width="646"/>
+  <unicode hex="04B0"/>
+  <anchor x="323.2" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="136.4" y="211.8" type="line"/>
+      <point x="510.4" y="211.8" type="line"/>
+      <point x="510.4" y="332.6" type="line"/>
+      <point x="136.4" y="332.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="245.4" y="0" type="line"/>
+      <point x="402.2" y="0" type="line"/>
+      <point x="402.2" y="281.8" type="line"/>
+      <point x="649.8" y="700" type="line"/>
+      <point x="469.8" y="700" type="line"/>
+      <point x="326.8" y="420.2" type="line"/>
+      <point x="320.8" y="420.2" type="line"/>
+      <point x="177.2" y="700" type="line"/>
+      <point x="-3.4" y="700" type="line"/>
+      <point x="245.4" y="281.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

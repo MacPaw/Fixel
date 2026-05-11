@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex" format="2">
+  <advance width="629"/>
+  <unicode hex="0125"/>
+  <outline>
+    <contour>
+      <point x="82.4" y="0" type="line"/>
+      <point x="181.4" y="0" type="line"/>
+      <point x="181.4" y="290.6" type="line" smooth="yes"/>
+      <point x="181.4" y="380.2"/>
+      <point x="243.4" y="438"/>
+      <point x="338.6" y="438" type="curve" smooth="yes"/>
+      <point x="418.6" y="438"/>
+      <point x="457.4" y="396.4"/>
+      <point x="457.4" y="313" type="curve" smooth="yes"/>
+      <point x="457.4" y="0" type="line"/>
+      <point x="556.4" y="0" type="line"/>
+      <point x="556.4" y="332.4" type="line" smooth="yes"/>
+      <point x="556.4" y="459"/>
+      <point x="490.6" y="529"/>
+      <point x="372.4" y="529" type="curve" smooth="yes"/>
+      <point x="295" y="529"/>
+      <point x="227.6" y="499"/>
+      <point x="181.4" y="449" type="curve"/>
+      <point x="181.4" y="720" type="line"/>
+      <point x="82.4" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="311.6" y="775.6" type="line"/>
+      <point x="187.6" y="900" type="line"/>
+      <point x="76.4" y="900" type="line"/>
+      <point x="-47.6" y="775.6" type="line"/>
+      <point x="54.6" y="775.6" type="line"/>
+      <point x="123" y="838.2" type="line"/>
+      <point x="141" y="838.2" type="line"/>
+      <point x="209.4" y="775.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>h+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

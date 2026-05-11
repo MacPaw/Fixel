@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pe-cy" format="2">
+  <advance width="704"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="624" type="line"/>
+      <point x="524" y="624" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="604" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

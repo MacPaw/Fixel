@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="2">
+  <advance width="715"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="358" y="-5" type="curve" smooth="yes"/>
+      <point x="514" y="-5"/>
+      <point x="615" y="95"/>
+      <point x="615" y="250" type="curve" smooth="yes"/>
+      <point x="615" y="700" type="line"/>
+      <point x="595" y="700" type="line"/>
+      <point x="595" y="248" type="line" smooth="yes"/>
+      <point x="595" y="106"/>
+      <point x="501" y="14"/>
+      <point x="358" y="14" type="curve" smooth="yes"/>
+      <point x="214" y="14"/>
+      <point x="120" y="106"/>
+      <point x="120" y="248" type="curve" smooth="yes"/>
+      <point x="120" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="100" y="250" type="line" smooth="yes"/>
+      <point x="100" y="94"/>
+      <point x="201" y="-5"/>
+    </contour>
+    <contour>
+      <point x="393" y="6" type="line"/>
+      <point x="343" y="-26"/>
+      <point x="314" y="-71"/>
+      <point x="314" y="-110" type="curve" smooth="yes"/>
+      <point x="314" y="-146"/>
+      <point x="336" y="-168"/>
+      <point x="376" y="-168" type="curve" smooth="yes"/>
+      <point x="388" y="-168"/>
+      <point x="399" y="-166"/>
+      <point x="408" y="-163" type="curve"/>
+      <point x="408" y="-143" type="line"/>
+      <point x="391" y="-148"/>
+      <point x="385" y="-149"/>
+      <point x="376" y="-149" type="curve" smooth="yes"/>
+      <point x="349" y="-149"/>
+      <point x="333" y="-135"/>
+      <point x="333" y="-110" type="curve" smooth="yes"/>
+      <point x="333" y="-70"/>
+      <point x="371" y="-24"/>
+      <point x="422" y="2" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="387" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+ogonek</string>
+  </dict>
+  </lib>
+</glyph>

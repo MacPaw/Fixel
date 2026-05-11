@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+  <advance width="750"/>
+  <unicode hex="00D6"/>
+  <anchor x="374.8" y="520" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresis.case" xOffset="571"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

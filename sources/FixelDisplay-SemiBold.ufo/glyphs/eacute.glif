@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute" format="2">
+  <advance width="610"/>
+  <unicode hex="00E9"/>
+  <anchor x="392.8" y="0" name="bottom"/>
+  <anchor x="318.6" y="520" name="top"/>
+  <anchor x="318.6" y="520" name="top.1"/>
+  <outline>
+    <component base="e"/>
+    <component base="acute" xOffset="461.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+acute</string>
+  </dict>
+  </lib>
+</glyph>

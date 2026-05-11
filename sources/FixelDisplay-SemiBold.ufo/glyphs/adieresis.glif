@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis" format="2">
+  <advance width="586"/>
+  <unicode hex="00E4"/>
+  <anchor x="529.6" y="0" name="bottom"/>
+  <anchor x="288.8" y="520" name="top"/>
+  <anchor x="288.8" y="520" name="top.1"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresis" xOffset="497" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

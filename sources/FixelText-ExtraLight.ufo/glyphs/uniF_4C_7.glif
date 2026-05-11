@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF4C7" format="2">
+  <advance width="542"/>
+  <unicode hex="F4C7"/>
+  <outline>
+    <contour>
+      <point x="259" y="-184.333" type="line"/>
+      <point x="280" y="-193.333"/>
+      <point x="307.333" y="-197"/>
+      <point x="328.333" y="-197" type="curve" smooth="yes"/>
+      <point x="405" y="-197"/>
+      <point x="450.333" y="-142"/>
+      <point x="450.333" y="-47.3333" type="curve" smooth="yes"/>
+      <point x="450.333" y="520" type="line"/>
+      <point x="412.333" y="520" type="line"/>
+      <point x="412.333" y="262.667" type="line"/>
+      <point x="359" y="241.667"/>
+      <point x="288" y="227.667"/>
+      <point x="231.333" y="227.667" type="curve" smooth="yes"/>
+      <point x="145.333" y="227.667"/>
+      <point x="108.333" y="265.333"/>
+      <point x="108.333" y="351.667" type="curve" smooth="yes"/>
+      <point x="108.333" y="520" type="line"/>
+      <point x="71.6667" y="520" type="line"/>
+      <point x="71.6667" y="350" type="line" smooth="yes"/>
+      <point x="71.6667" y="241.333"/>
+      <point x="120" y="190.667"/>
+      <point x="230.333" y="190.667" type="curve" smooth="yes"/>
+      <point x="288.333" y="190.667"/>
+      <point x="358.333" y="205"/>
+      <point x="412.333" y="226.667" type="curve"/>
+      <point x="412.333" y="-38" type="line" smooth="yes"/>
+      <point x="412.333" y="-121.333"/>
+      <point x="383.333" y="-160"/>
+      <point x="319.333" y="-160" type="curve" smooth="yes"/>
+      <point x="298.333" y="-160"/>
+      <point x="277.667" y="-155.333"/>
+      <point x="259" y="-147.667" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ч</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ч</string>
+  <key>com.fontlab.recipe</key>
+  <string>ч+enhookcyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

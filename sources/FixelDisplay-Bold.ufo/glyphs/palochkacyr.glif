@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palochkacyr" format="2">
+  <advance width="283"/>
+  <unicode hex="04CF"/>
+  <anchor x="141.4" y="0" name="bottom"/>
+  <anchor x="217.6" y="517" name="right"/>
+  <anchor x="140.8" y="520.6" name="top"/>
+  <outline>
+    <component base="l"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

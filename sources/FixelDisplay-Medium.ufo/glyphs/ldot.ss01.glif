@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot.ss01" format="2">
+  <advance width="372"/>
+  <anchor x="179.4" y="0" name="bottom"/>
+  <anchor x="171.2" y="517" name="right"/>
+  <anchor x="121.4" y="518.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="181.2" y="-3.6" type="curve" smooth="yes"/>
+      <point x="209.6" y="-3.6"/>
+      <point x="243.4" y="2.2"/>
+      <point x="267.6" y="9.8" type="curve"/>
+      <point x="267.6" y="90.8" type="line"/>
+      <point x="250.8" y="86.2"/>
+      <point x="231.2" y="84"/>
+      <point x="215.8" y="84" type="curve" smooth="yes"/>
+      <point x="186.4" y="84"/>
+      <point x="171.4" y="97.2"/>
+      <point x="171.4" y="147.2" type="curve" smooth="yes"/>
+      <point x="171.4" y="720" type="line"/>
+      <point x="72.4" y="720" type="line"/>
+      <point x="72.4" y="127.8" type="line" smooth="yes"/>
+      <point x="72.4" y="40"/>
+      <point x="107.6" y="-3.6"/>
+    </contour>
+    <contour>
+      <point x="317.4" y="308.2" type="curve" smooth="yes"/>
+      <point x="353.4" y="308.2"/>
+      <point x="380.2" y="332.2"/>
+      <point x="380.2" y="366" type="curve" smooth="yes"/>
+      <point x="380.2" y="399.8"/>
+      <point x="353.4" y="425"/>
+      <point x="317.4" y="425" type="curve" smooth="yes"/>
+      <point x="282" y="425"/>
+      <point x="256.4" y="399.8"/>
+      <point x="256.4" y="366" type="curve" smooth="yes"/>
+      <point x="256.4" y="332.2"/>
+      <point x="282" y="308.2"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="310"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l.ss01_periodcentered</string>
+  </dict>
+  </lib>
+</glyph>

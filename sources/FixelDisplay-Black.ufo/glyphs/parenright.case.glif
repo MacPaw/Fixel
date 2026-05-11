@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.case" format="2">
+  <advance width="299"/>
+  <outline>
+    <contour>
+      <point x="133" y="-64" type="line"/>
+      <point x="238" y="77"/>
+      <point x="285" y="212"/>
+      <point x="285" y="350.327" type="curve" smooth="yes"/>
+      <point x="285" y="493"/>
+      <point x="235" y="631"/>
+      <point x="133" y="752" type="curve"/>
+      <point x="0" y="679" type="line"/>
+      <point x="62" y="577"/>
+      <point x="93" y="463"/>
+      <point x="93" y="351.09" type="curve" smooth="yes"/>
+      <point x="93" y="241"/>
+      <point x="63" y="132"/>
+      <point x="0" y="8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>parenright</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>parenright</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

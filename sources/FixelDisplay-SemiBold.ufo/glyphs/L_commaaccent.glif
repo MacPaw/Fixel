@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="539"/>
+  <unicode hex="013B"/>
+  <anchor x="294.8" y="0" name="bottom"/>
+  <anchor x="251.2" y="497" name="right"/>
+  <anchor x="149.6" y="517" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="commaaccentcomb" xScale="1" xOffset="392.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+commaaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

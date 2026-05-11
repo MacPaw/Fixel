@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Io-cy" format="2">
+  <advance width="585"/>
+  <unicode hex="0401"/>
+  <anchor x="533.4" y="0" name="bottom"/>
+  <anchor x="300.2" y="520" name="top"/>
+  <outline>
+    <component base="Edieresis"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Edieresis</string>
+  </dict>
+  </lib>
+</glyph>

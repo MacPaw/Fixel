@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ha-cy.ss01" format="2">
+  <advance width="588"/>
+  <outline>
+    <component base="X.ss01" xOffset="1"/>
+  </outline>
+  <guideline angle="0" x="0" y="365"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>X</string>
+  </dict>
+  </lib>
+</glyph>

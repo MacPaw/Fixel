@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="692"/>
+  <unicode hex="0124"/>
+  <anchor x="346" y="517" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="circumflex.case" xOffset="530" yOffset="-3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>H+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

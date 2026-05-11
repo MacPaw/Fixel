@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estailcyr" format="2">
+  <advance width="528"/>
+  <unicode hex="04AB"/>
+  <outline>
+    <component base="c"/>
+    <contour>
+      <point x="216.6" y="75.4" type="line"/>
+      <point x="216.6" y="-128" type="line"/>
+      <point x="354.6" y="-128" type="line"/>
+      <point x="354.6" y="75.4" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="291" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>с</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>с</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

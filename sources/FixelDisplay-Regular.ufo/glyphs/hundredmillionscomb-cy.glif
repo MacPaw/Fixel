@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hundredmillionscomb-cy" format="2">
+  <unicode hex="A671"/>
+  <anchor x="-626" y="520" name="_top.1"/>
+  <outline>
+    <contour>
+      <point x="-50" y="520" type="line"/>
+      <point x="-50" y="856" type="line"/>
+      <point x="-1202" y="856" type="line"/>
+      <point x="-1202" y="520" type="line"/>
+      <point x="-1144" y="520" type="line"/>
+      <point x="-1144" y="798" type="line"/>
+      <point x="-108" y="798" type="line"/>
+      <point x="-108" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="-50" y="0" type="line"/>
+      <point x="-108" y="0" type="line"/>
+      <point x="-108" y="-270" type="line"/>
+      <point x="-1144" y="-270" type="line"/>
+      <point x="-1144" y="0" type="line"/>
+      <point x="-1202" y="0" type="line"/>
+      <point x="-1202" y="-328" type="line"/>
+      <point x="-50" y="-328" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

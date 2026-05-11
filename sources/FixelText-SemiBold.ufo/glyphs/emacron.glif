@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron" format="2">
+  <advance width="565"/>
+  <unicode hex="0113"/>
+  <anchor x="368.2" y="0" name="bottom"/>
+  <anchor x="293.4" y="520" name="top"/>
+  <anchor x="293.4" y="520" name="top.1"/>
+  <outline>
+    <component base="e"/>
+    <component base="macron" xScale="1" xOffset="467.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+macron</string>
+  </dict>
+  </lib>
+</glyph>

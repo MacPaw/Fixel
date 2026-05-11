@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="257"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="97.6667" y="-190" type="line"/>
+      <point x="160.333" y="-190" type="line"/>
+      <point x="160.333" y="64.6667" type="line"/>
+      <point x="152.667" y="326.667" type="line"/>
+      <point x="105.333" y="326.667" type="line"/>
+      <point x="97.6667" y="64.6667" type="line"/>
+    </contour>
+    <contour>
+      <point x="129.333" y="437.667" type="curve" smooth="yes"/>
+      <point x="154.333" y="437.667"/>
+      <point x="174" y="456.667"/>
+      <point x="174" y="480" type="curve" smooth="yes"/>
+      <point x="174" y="482.333" type="line" smooth="yes"/>
+      <point x="174" y="506.333"/>
+      <point x="154.333" y="525.667"/>
+      <point x="129.333" y="525.667" type="curve" smooth="yes"/>
+      <point x="104.333" y="525.667"/>
+      <point x="83.6667" y="506.333"/>
+      <point x="83.6667" y="482.333" type="curve" smooth="yes"/>
+      <point x="83.6667" y="480" type="line" smooth="yes"/>
+      <point x="83.6667" y="456.667"/>
+      <point x="104.333" y="437.667"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="525"/>
+  <guideline angle="0" x="0" y="328"/>
+</glyph>

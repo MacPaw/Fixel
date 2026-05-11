@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzzhecyr" format="2">
+  <advance width="1350"/>
+  <unicode hex="052A"/>
+  <outline>
+    <contour>
+      <point x="740" y="0" type="line"/>
+      <point x="938" y="0" type="line"/>
+      <point x="938" y="284" type="line"/>
+      <point x="1007" y="284" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="1346" y="0" type="line"/>
+      <point x="1173" y="378" type="line"/>
+      <point x="1318" y="700" type="line"/>
+      <point x="1108" y="700" type="line"/>
+      <point x="1007" y="448" type="line"/>
+      <point x="938" y="448" type="line"/>
+      <point x="938" y="700" type="line"/>
+      <point x="740" y="700" type="line"/>
+      <point x="740" y="448" type="line"/>
+      <point x="592" y="448" type="line"/>
+      <point x="592" y="284" type="line"/>
+      <point x="740" y="284" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="-135" type="line"/>
+      <point x="210" y="-135" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="495" y="-135" type="line"/>
+      <point x="690" y="-135" type="line"/>
+      <point x="690" y="166" type="line"/>
+      <point x="627" y="166" type="line"/>
+      <point x="627" y="700" type="line"/>
+      <point x="122" y="700" type="line"/>
+      <point x="122" y="632" type="line" smooth="yes"/>
+      <point x="122" y="398"/>
+      <point x="113" y="241"/>
+      <point x="84" y="166" type="curve"/>
+      <point x="15" y="166" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="166" type="line"/>
+      <point x="268" y="166" type="line"/>
+      <point x="298" y="244"/>
+      <point x="315" y="370"/>
+      <point x="320" y="537" type="curve"/>
+      <point x="320" y="537" type="line"/>
+      <point x="425" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Д</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ж</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

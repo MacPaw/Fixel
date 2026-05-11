@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tche-cy" format="2">
+  <advance width="717"/>
+  <unicode hex="A692"/>
+  <outline>
+    <contour>
+      <point x="99" y="524" type="line"/>
+      <point x="9" y="524" type="line"/>
+      <point x="9" y="700" type="line"/>
+      <point x="387" y="700" type="line"/>
+      <point x="387" y="524" type="line"/>
+      <point x="307" y="524" type="line"/>
+      <point x="307" y="492" type="line" smooth="yes"/>
+      <point x="307" y="403"/>
+      <point x="331" y="374"/>
+      <point x="405.218" y="374" type="curve" smooth="yes"/>
+      <point x="419" y="374"/>
+      <point x="426" y="375"/>
+      <point x="449" y="382" type="curve"/>
+      <point x="449" y="700" type="line"/>
+      <point x="656" y="700" type="line"/>
+      <point x="656" y="0" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="449" y="216" type="line"/>
+      <point x="402" y="207"/>
+      <point x="359" y="202"/>
+      <point x="323.527" y="202" type="curve" smooth="yes"/>
+      <point x="179" y="202"/>
+      <point x="99" y="285"/>
+      <point x="99" y="435" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Tetsecyr-20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ч</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

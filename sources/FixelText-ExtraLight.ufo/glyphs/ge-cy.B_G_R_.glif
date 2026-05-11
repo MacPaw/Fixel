@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy.BGR" format="2">
+  <advance width="480"/>
+  <anchor x="258.667" y="0" name="bottom"/>
+  <anchor x="244.333" y="520" name="top"/>
+  <anchor x="244.333" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="219.333" y="-6" type="curve" smooth="yes"/>
+      <point x="126" y="-6"/>
+      <point x="50.6667" y="42.6667"/>
+      <point x="50.6667" y="132" type="curve" smooth="yes"/>
+      <point x="50.6667" y="234.333"/>
+      <point x="147.667" y="265.333"/>
+      <point x="234.667" y="286" type="curve" smooth="yes"/>
+      <point x="310.333" y="304"/>
+      <point x="378.667" y="321"/>
+      <point x="378.667" y="390" type="curve" smooth="yes"/>
+      <point x="378.667" y="451"/>
+      <point x="331" y="489"/>
+      <point x="265.667" y="489" type="curve" smooth="yes"/>
+      <point x="196.333" y="489"/>
+      <point x="145" y="469.333"/>
+      <point x="91.6667" y="432.333" type="curve"/>
+      <point x="72.6667" y="463.333" type="line"/>
+      <point x="124.667" y="501.333"/>
+      <point x="188.667" y="526"/>
+      <point x="268" y="526" type="curve" smooth="yes"/>
+      <point x="353" y="526"/>
+      <point x="417.667" y="474.667"/>
+      <point x="417.667" y="390.333" type="curve" smooth="yes"/>
+      <point x="417.667" y="296"/>
+      <point x="329.667" y="271"/>
+      <point x="245.667" y="252.667" type="curve" smooth="yes"/>
+      <point x="166.667" y="235.667"/>
+      <point x="90" y="210"/>
+      <point x="90" y="132.667" type="curve" smooth="yes"/>
+      <point x="90" y="65.6667"/>
+      <point x="148.333" y="30.6667"/>
+      <point x="225" y="30.6667" type="curve" smooth="yes"/>
+      <point x="298.667" y="30.6667"/>
+      <point x="359" y="57"/>
+      <point x="412" y="101.333" type="curve"/>
+      <point x="429.667" y="68.3333" type="line"/>
+      <point x="377.667" y="22.3333"/>
+      <point x="303" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|s+5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|s+5</string>
+  <key>com.fontlab.recipe</key>
+  <string>dzeReversed-cy</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

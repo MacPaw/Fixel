@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF45F" format="2">
+  <advance width="288"/>
+  <unicode hex="F45F"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresiscase.alt" xyScale="5.43565e-20" xOffset="326.8" yOffset="2.4"/>
+    <component base="acute.case" xScale="1" xOffset="302.4" yOffset="118"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+dieresiscase.alt+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

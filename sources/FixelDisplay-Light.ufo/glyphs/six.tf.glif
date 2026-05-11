@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tf" format="2">
+  <advance width="624"/>
+  <outline>
+    <contour>
+      <point x="557.667" y="547.667" type="line"/>
+      <point x="522" y="649.667"/>
+      <point x="439.333" y="707"/>
+      <point x="329.333" y="707" type="curve" smooth="yes"/>
+      <point x="167.333" y="707"/>
+      <point x="50.6667" y="577.667"/>
+      <point x="50.6667" y="338.667" type="curve" smooth="yes"/>
+      <point x="50.6667" y="118"/>
+      <point x="150" y="-7"/>
+      <point x="319.667" y="-7" type="curve" smooth="yes"/>
+      <point x="474.333" y="-7"/>
+      <point x="578.667" y="87.6667"/>
+      <point x="578.667" y="224.667" type="curve" smooth="yes"/>
+      <point x="578.667" y="368.333"/>
+      <point x="464.667" y="450"/>
+      <point x="337.333" y="450" type="curve" smooth="yes"/>
+      <point x="247.667" y="450"/>
+      <point x="167.667" y="404.667"/>
+      <point x="131.333" y="334" type="curve"/>
+      <point x="123" y="336.667"/>
+      <point x="116" y="339.333"/>
+      <point x="111.333" y="342" type="curve"/>
+      <point x="111.333" y="539"/>
+      <point x="207.333" y="648.667"/>
+      <point x="332.333" y="648.667" type="curve" smooth="yes"/>
+      <point x="410.667" y="648.667"/>
+      <point x="470.667" y="608"/>
+      <point x="500.333" y="531" type="curve"/>
+    </contour>
+    <contour>
+      <point x="126.667" y="211.667" type="curve"/>
+      <point x="126.667" y="218.667"/>
+      <point x="126.667" y="230"/>
+      <point x="128" y="236.667" type="curve"/>
+      <point x="138.667" y="330"/>
+      <point x="233.667" y="392.333"/>
+      <point x="335" y="392.333" type="curve" smooth="yes"/>
+      <point x="442" y="392.333"/>
+      <point x="516" y="326.667"/>
+      <point x="516" y="226.667" type="curve" smooth="yes"/>
+      <point x="516" y="123.333"/>
+      <point x="437" y="51.3333"/>
+      <point x="319.333" y="51.3333" type="curve" smooth="yes"/>
+      <point x="221" y="51.3333"/>
+      <point x="155" y="106.667"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <guideline angle="90" x="290" y="0"/>
+</glyph>

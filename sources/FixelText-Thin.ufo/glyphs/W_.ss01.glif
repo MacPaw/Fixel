@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.ss01" format="2">
+  <advance width="863"/>
+  <anchor x="432" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="171" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="348" y="289"/>
+      <point x="401" y="470"/>
+      <point x="428" y="681" type="curve"/>
+      <point x="435" y="681" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="774" y="308"/>
+      <point x="833" y="510"/>
+      <point x="847" y="700" type="curve"/>
+      <point x="826" y="700" type="line"/>
+      <point x="812" y="513"/>
+      <point x="754" y="314"/>
+      <point x="614" y="19" type="curve"/>
+      <point x="607" y="19" type="line"/>
+      <point x="451" y="700" type="line"/>
+      <point x="412" y="700" type="line"/>
+      <point x="382" y="474"/>
+      <point x="329" y="295"/>
+      <point x="194" y="19" type="curve"/>
+      <point x="187" y="19" type="line"/>
+      <point x="37" y="700" type="line"/>
+      <point x="16" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|A</string>
+  </dict>
+  </lib>
+</glyph>

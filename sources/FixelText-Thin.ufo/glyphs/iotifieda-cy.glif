@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotifieda-cy" format="2">
+  <advance width="646"/>
+  <unicode hex="A657"/>
+  <outline>
+    <contour>
+      <point x="533" y="174" type="line"/>
+      <point x="533" y="193" type="line"/>
+      <point x="248" y="193" type="line"/>
+      <point x="248" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="381" type="line"/>
+      <point x="329" y="381" type="line"/>
+      <point x="329" y="400" type="line"/>
+      <point x="115" y="400" type="line"/>
+      <point x="115" y="520" type="line"/>
+      <point x="95" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="520" type="line"/>
+      <point x="368" y="520" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="380" y="501" type="line"/>
+      <point x="402" y="501" type="line"/>
+      <point x="593" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>yusClosedlittle-cy</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DzeReversed-cy" format="2">
+  <advance width="566"/>
+  <unicode hex="A644"/>
+  <anchor x="293.333" y="0" name="bottom"/>
+  <anchor x="281.667" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="273.667" y="-9.33333" type="curve" smooth="yes"/>
+      <point x="134.333" y="-9.33333"/>
+      <point x="45.3333" y="66"/>
+      <point x="45.3333" y="185.667" type="curve" smooth="yes"/>
+      <point x="45.3333" y="318.667"/>
+      <point x="158.333" y="357.333"/>
+      <point x="264" y="388.667" type="curve" smooth="yes"/>
+      <point x="360.667" y="417.667"/>
+      <point x="442.333" y="444.333"/>
+      <point x="442.333" y="532.333" type="curve" smooth="yes"/>
+      <point x="442.333" y="603"/>
+      <point x="384.333" y="650.667"/>
+      <point x="291.333" y="650.667" type="curve" smooth="yes"/>
+      <point x="223" y="650.667"/>
+      <point x="153.667" y="626.333"/>
+      <point x="107.333" y="578" type="curve"/>
+      <point x="70.3333" y="624" type="line"/>
+      <point x="122.333" y="677.333"/>
+      <point x="205" y="709.667"/>
+      <point x="289" y="709.667" type="curve" smooth="yes"/>
+      <point x="418.333" y="709.667"/>
+      <point x="503.667" y="639.667"/>
+      <point x="503.667" y="531.667" type="curve" smooth="yes"/>
+      <point x="503.667" y="420.667"/>
+      <point x="423" y="381.333"/>
+      <point x="330.333" y="352" type="curve" smooth="yes"/>
+      <point x="222.333" y="317.333"/>
+      <point x="108" y="295.333"/>
+      <point x="108" y="184.333" type="curve" smooth="yes"/>
+      <point x="108" y="99"/>
+      <point x="170.333" y="49.3333"/>
+      <point x="272" y="49.3333" type="curve" smooth="yes"/>
+      <point x="349.667" y="49.3333"/>
+      <point x="432.333" y="81.6667"/>
+      <point x="484.333" y="136.667" type="curve"/>
+      <point x="522.333" y="91.3333" type="line"/>
+      <point x="462.333" y="30"/>
+      <point x="366" y="-9.33333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>S</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhe-cy.BGR" format="2">
+  <advance width="704"/>
+  <outline>
+    <contour>
+      <point x="342" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="267" type="line"/>
+      <point x="378" y="267" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="395" y="275" type="line"/>
+      <point x="658" y="520" type="line"/>
+      <point x="629" y="520" type="line"/>
+      <point x="378" y="283" type="line"/>
+      <point x="362" y="283" type="line"/>
+      <point x="362" y="720" type="line"/>
+      <point x="342" y="720" type="line"/>
+      <point x="342" y="283" type="line"/>
+      <point x="326" y="283" type="line"/>
+      <point x="75" y="520" type="line"/>
+      <point x="46" y="520" type="line"/>
+      <point x="309" y="275" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="326" y="267" type="line"/>
+      <point x="342" y="267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>k</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

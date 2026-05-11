@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="2">
+  <advance width="584"/>
+  <unicode hex="015A"/>
+  <anchor x="295.8" y="0" name="bottom"/>
+  <anchor x="288.8" y="520" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="acute.case" xyScale="-5.43565e-20" xOffset="460.4" yOffset="1.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

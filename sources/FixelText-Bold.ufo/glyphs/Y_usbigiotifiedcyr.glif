@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yusbigiotifiedcyr" format="2">
+  <advance width="1162"/>
+  <unicode hex="046C"/>
+  <outline>
+    <component base="Yusbigcyr" xOffset="238"/>
+    <contour>
+      <point x="73.6" y="0" type="line"/>
+      <point x="229.8" y="0" type="line"/>
+      <point x="229.8" y="293" type="line"/>
+      <point x="412" y="293" type="line"/>
+      <point x="661" y="429" type="line"/>
+      <point x="229.8" y="429" type="line"/>
+      <point x="229.8" y="700" type="line"/>
+      <point x="73.6" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ж</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="2">
+  <advance width="711"/>
+  <unicode hex="011E"/>
+  <anchor x="366.667" y="-2" name="bottom"/>
+  <anchor x="366.667" y="520" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="breve.case" xOffset="545"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

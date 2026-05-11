@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde.ss01" format="2">
+  <advance width="679"/>
+  <anchor x="664.8" y="0" name="bottom"/>
+  <anchor x="395.8" y="520" name="top"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="tilde.case" xOffset="657.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A.ss01+tilde.case</string>
+  </dict>
+  </lib>
+</glyph>

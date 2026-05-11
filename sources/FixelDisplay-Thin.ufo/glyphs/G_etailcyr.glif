@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Getailcyr" format="2">
+  <advance width="498"/>
+  <unicode hex="04F6"/>
+  <outline>
+    <contour>
+      <point x="182" y="-135" type="line"/>
+      <point x="201" y="-135" type="line"/>
+      <point x="201" y="19" type="line"/>
+      <point x="122" y="19" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="681" type="line"/>
+      <point x="468" y="681" type="line"/>
+      <point x="468" y="700" type="line"/>
+      <point x="110" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Г</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

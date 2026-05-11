@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugrave" format="2">
+  <advance width="611"/>
+  <unicode hex="00F9"/>
+  <anchor x="517.333" y="0" name="bottom"/>
+  <anchor x="300" y="520" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="grave" xOffset="345.667" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+grave</string>
+  </dict>
+  </lib>
+</glyph>

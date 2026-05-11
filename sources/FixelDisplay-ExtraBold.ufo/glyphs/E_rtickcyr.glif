@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ertickcyr" format="2">
+  <advance width="650"/>
+  <unicode hex="048E"/>
+  <outline>
+    <contour>
+      <point x="68.8" y="0" type="line"/>
+      <point x="250.4" y="0" type="line"/>
+      <point x="250.4" y="210.4" type="line"/>
+      <point x="354.4" y="210.4" type="line" smooth="yes"/>
+      <point x="514.4" y="210.4"/>
+      <point x="623.6" y="307"/>
+      <point x="623.6" y="452.6" type="curve" smooth="yes"/>
+      <point x="623.6" y="460.8" type="line" smooth="yes"/>
+      <point x="623.6" y="603"/>
+      <point x="515.4" y="700"/>
+      <point x="354.8" y="700" type="curve" smooth="yes"/>
+      <point x="68.8" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="349.6" type="line"/>
+      <point x="244" y="546.4" type="line"/>
+      <point x="342" y="546.4" type="line" smooth="yes"/>
+      <point x="408" y="546.4"/>
+      <point x="442.8" y="510"/>
+      <point x="442.8" y="456.6" type="curve" smooth="yes"/>
+      <point x="442.8" y="449.2" type="line" smooth="yes"/>
+      <point x="442.8" y="394"/>
+      <point x="404.2" y="349.6"/>
+      <point x="336.4" y="349.6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="326.8" y="400.2" type="line"/>
+      <point x="424.4" y="308.8" type="line"/>
+      <point x="416.6" y="311.2" type="line"/>
+      <point x="545.4" y="190.6" type="line"/>
+      <point x="610.2" y="257.2" type="line"/>
+      <point x="484.2" y="376.2" type="line"/>
+      <point x="486.6" y="367.4" type="line"/>
+      <point x="386.4" y="461" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>P</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>P</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="che-cy" format="2">
+  <advance width="542"/>
+  <unicode hex="0447"/>
+  <anchor x="261" y="520" name="top"/>
+  <anchor x="261" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="383" y="0" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="457" y="520" type="line"/>
+      <point x="383" y="520" type="line"/>
+      <point x="383" y="278" type="line"/>
+      <point x="339" y="259"/>
+      <point x="286" y="249"/>
+      <point x="234" y="249" type="curve" smooth="yes"/>
+      <point x="166" y="249"/>
+      <point x="135" y="280"/>
+      <point x="135" y="347" type="curve" smooth="yes"/>
+      <point x="135" y="520" type="line"/>
+      <point x="65" y="520" type="line"/>
+      <point x="65" y="342" type="line" smooth="yes"/>
+      <point x="65" y="236"/>
+      <point x="116" y="180"/>
+      <point x="227" y="180" type="curve" smooth="yes"/>
+      <point x="279" y="180"/>
+      <point x="333" y="193"/>
+      <point x="383" y="214" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  </dict>
+  </lib>
+</glyph>

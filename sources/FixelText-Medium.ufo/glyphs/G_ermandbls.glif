@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="699"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="398.6" y="-9.6" type="curve" smooth="yes"/>
+      <point x="553.6" y="-9.6"/>
+      <point x="653.2" y="81"/>
+      <point x="653.2" y="221.8" type="curve" smooth="yes"/>
+      <point x="653.2" y="349.6"/>
+      <point x="570.6" y="435.4"/>
+      <point x="446.6" y="438.2" type="curve"/>
+      <point x="439.4" y="438.2"/>
+      <point x="431.4" y="437.4"/>
+      <point x="423.4" y="436.6" type="curve"/>
+      <point x="582.4" y="618.2" type="line"/>
+      <point x="582.4" y="700" type="line"/>
+      <point x="334.2" y="700" type="line" smooth="yes"/>
+      <point x="183" y="700"/>
+      <point x="82.2" y="594.6"/>
+      <point x="82.2" y="436" type="curve" smooth="yes"/>
+      <point x="82.2" y="0" type="line"/>
+      <point x="187.6" y="0" type="line"/>
+      <point x="187.6" y="435" type="line" smooth="yes"/>
+      <point x="187.6" y="536"/>
+      <point x="250.8" y="604"/>
+      <point x="344.6" y="604" type="curve" smooth="yes"/>
+      <point x="454.8" y="604" type="line"/>
+      <point x="280" y="398" type="line"/>
+      <point x="320.6" y="329" type="line"/>
+      <point x="344.2" y="342.6"/>
+      <point x="380" y="351.2"/>
+      <point x="412.2" y="351.2" type="curve" smooth="yes"/>
+      <point x="491.2" y="351.2"/>
+      <point x="545" y="299.2"/>
+      <point x="545" y="221.6" type="curve" smooth="yes"/>
+      <point x="545" y="142.4"/>
+      <point x="488.2" y="91.2"/>
+      <point x="400.6" y="91.2" type="curve" smooth="yes"/>
+      <point x="365.8" y="91.2"/>
+      <point x="336" y="99.8"/>
+      <point x="307" y="117.2" type="curve"/>
+      <point x="250" y="29.2" type="line"/>
+      <point x="291.2" y="3.8"/>
+      <point x="340.4" y="-9.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>B-5</string>
+  </dict>
+  </lib>
+</glyph>

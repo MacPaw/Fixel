@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+  <advance width="913"/>
+  <unicode hex="006D"/>
+  <anchor x="461.8" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="82.4" y="0" type="line"/>
+      <point x="181.4" y="0" type="line"/>
+      <point x="181.4" y="300.2" type="line" smooth="yes"/>
+      <point x="181.4" y="390.8"/>
+      <point x="232.6" y="437.6"/>
+      <point x="308" y="438" type="curve"/>
+      <point x="310.4" y="438" type="line"/>
+      <point x="380.4" y="437.8"/>
+      <point x="411.4" y="401.2"/>
+      <point x="411.4" y="323.2" type="curve" smooth="yes"/>
+      <point x="411.4" y="0" type="line"/>
+      <point x="510.4" y="0" type="line"/>
+      <point x="510.4" y="300.4" type="line" smooth="yes"/>
+      <point x="510.4" y="391"/>
+      <point x="563" y="437.8"/>
+      <point x="638.6" y="438.2" type="curve"/>
+      <point x="641" y="438.2" type="line"/>
+      <point x="709.4" y="438"/>
+      <point x="740.4" y="401.4"/>
+      <point x="740.4" y="323.4" type="curve" smooth="yes"/>
+      <point x="740.4" y="0" type="line"/>
+      <point x="839.4" y="0" type="line"/>
+      <point x="839.4" y="340.2" type="line" smooth="yes"/>
+      <point x="839.4" y="462.2"/>
+      <point x="781.8" y="529.2"/>
+      <point x="669.8" y="529.2" type="curve" smooth="yes"/>
+      <point x="667.4" y="529.2" type="line" smooth="yes"/>
+      <point x="594.8" y="529.2"/>
+      <point x="532.8" y="495.2"/>
+      <point x="493" y="439.2" type="curve"/>
+      <point x="468.2" y="498"/>
+      <point x="416.2" y="529"/>
+      <point x="339" y="529" type="curve" smooth="yes"/>
+      <point x="336.6" y="529" type="line" smooth="yes"/>
+      <point x="271.8" y="529"/>
+      <point x="214.4" y="500.2"/>
+      <point x="174.8" y="454.4" type="curve"/>
+      <point x="172.2" y="475.6"/>
+      <point x="166.8" y="503.6"/>
+      <point x="160.4" y="520" type="curve"/>
+      <point x="82.4" y="520" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="443" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

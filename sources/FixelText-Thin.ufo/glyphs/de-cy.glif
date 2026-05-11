@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="de-cy" format="2">
+  <advance width="561"/>
+  <unicode hex="0434"/>
+  <anchor x="300" y="520" name="top"/>
+  <anchor x="300" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="32" y="-128" type="line"/>
+      <point x="51" y="-128" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="502" y="-128" type="line"/>
+      <point x="521" y="-128" type="line"/>
+      <point x="521" y="19" type="line"/>
+      <point x="463" y="19" type="line"/>
+      <point x="463" y="520" type="line"/>
+      <point x="138" y="520" type="line"/>
+      <point x="138" y="425" type="line"/>
+      <point x="137" y="229"/>
+      <point x="117" y="98"/>
+      <point x="73" y="19" type="curve"/>
+      <point x="32" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="19" type="line"/>
+      <point x="136" y="94"/>
+      <point x="156" y="226"/>
+      <point x="157" y="425" type="curve"/>
+      <point x="157" y="501" type="line"/>
+      <point x="443" y="501" type="line"/>
+      <point x="443" y="19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>
