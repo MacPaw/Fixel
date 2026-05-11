@@ -100,11 +100,11 @@ script cyrl; # Cyrillic
     lookup locl_SRB_MCD;
 
     language BSH ; # Bashkir
-    sub [uni0492 uni0493 uni0498 uni0499] by [Gestrokecyr.BSH gestrokecyr.BSH Zetailcyr.BSH zetailcyr.BSH];
-    sub [uni04AA uni04AB] by [Estailcyr.BSH estailcyr.BSH];
+    sub [Gestrokecyr gestrokecyr Zetailcyr zetailcyr] by [Gestrokecyr.BSH gestrokecyr.BSH Zetailcyr.BSH zetailcyr.BSH];
+    sub [Estailcyr estailcyr] by [Estailcyr.BSH estailcyr.BSH];
 
     language CHU ; # Chuvash
-    sub [uni04AA uni04AB] by [uni04AA.CHU uni04AB.CHU];
+    sub [Estailcyr estailcyr] by [Estailcyr.CHU estailcyr.CHU];
 
     language BGR ; # Bulgarian
     sub @locl_def by @locl_BGR;
@@ -166,7 +166,7 @@ sub slash bar backslash by arrowup;
     sub Ereversed-cy @accent' lookup liga_accent;
     sub Iu-cy @accent' lookup liga_accent;
     sub Ia-cy @accent' lookup liga_accent;
-    sub uni0401 @accent' lookup liga_accent;
+    sub Io-cy @accent' lookup liga_accent;
     sub Yatcyr @accent' lookup liga_accent;
 
     sub e-cy @accent' lookup liga_accent;
@@ -198,7 +198,7 @@ sub slash bar backslash by arrowup;
     sub Ereversed-cy grave by Ereversed-cy.accented;
     sub Iu-cy grave by Iu-cy.accented;
     sub Ia-cy grave by Ia-cy.accented;
-    sub uni0401 grave by Io-cy.accented;
+    sub Io-cy grave by Io-cy.accented;
     sub Yatcyr grave by uniF478;
 
     sub e-cy grave by uniF475;

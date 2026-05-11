@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+    <axis tag="wdth" name="Width" minimum="87.5" maximum="100" default="100"/>
+  </axes>
+  <sources>
+    <source filename="FixelDisplay-Thin.ufo"       familyname="Fixel" stylename="Thin">
+      <location><dimension name="Weight" xvalue="100"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-ExtraLight.ufo" familyname="Fixel" stylename="ExtraLight">
+      <location><dimension name="Weight" xvalue="200"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-Light.ufo"      familyname="Fixel" stylename="Light">
+      <location><dimension name="Weight" xvalue="300"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-Regular.ufo"    familyname="Fixel" stylename="Regular">
+      <location><dimension name="Weight" xvalue="400"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-Medium.ufo"     familyname="Fixel" stylename="Medium">
+      <location><dimension name="Weight" xvalue="500"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-SemiBold.ufo"   familyname="Fixel" stylename="SemiBold">
+      <location><dimension name="Weight" xvalue="600"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-Bold.ufo"       familyname="Fixel" stylename="Bold">
+      <location><dimension name="Weight" xvalue="700"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-ExtraBold.ufo"  familyname="Fixel" stylename="ExtraBold">
+      <location><dimension name="Weight" xvalue="800"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelDisplay-Black.ufo"      familyname="Fixel" stylename="Black">
+      <location><dimension name="Weight" xvalue="900"/> <dimension name="Width" xvalue="100"/></location>
+    </source>
+    <source filename="FixelText-Thin.ufo"       familyname="Fixel Text" stylename="Thin">
+      <location><dimension name="Weight" xvalue="100"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-ExtraLight.ufo" familyname="Fixel Text" stylename="ExtraLight">
+      <location><dimension name="Weight" xvalue="200"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-Light.ufo"      familyname="Fixel Text" stylename="Light">
+      <location><dimension name="Weight" xvalue="300"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-Regular.ufo"    familyname="Fixel Text" stylename="Regular">
+      <location><dimension name="Weight" xvalue="400"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-Medium.ufo"     familyname="Fixel Text" stylename="Medium">
+      <location><dimension name="Weight" xvalue="500"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-SemiBold.ufo"   familyname="Fixel Text" stylename="SemiBold">
+      <location><dimension name="Weight" xvalue="600"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-Bold.ufo"       familyname="Fixel Text" stylename="Bold">
+      <location><dimension name="Weight" xvalue="700"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-ExtraBold.ufo"  familyname="Fixel Text" stylename="ExtraBold">
+      <location><dimension name="Weight" xvalue="800"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+    <source filename="FixelText-Black.ufo"      familyname="Fixel Text" stylename="Black">
+      <location><dimension name="Weight" xvalue="900"/> <dimension name="Width" xvalue="87.5"/></location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Fixel" stylename="Thin"        filename="instance_ufo/Fixel-Thin.ufo">
+      <location><dimension name="Weight" xvalue="100"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="ExtraLight"  filename="instance_ufo/Fixel-ExtraLight.ufo">
+      <location><dimension name="Weight" xvalue="200"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="Light"       filename="instance_ufo/Fixel-Light.ufo">
+      <location><dimension name="Weight" xvalue="300"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="Regular"     filename="instance_ufo/Fixel-Regular.ufo">
+      <location><dimension name="Weight" xvalue="400"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="Medium"      filename="instance_ufo/Fixel-Medium.ufo">
+      <location><dimension name="Weight" xvalue="500"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="SemiBold"    filename="instance_ufo/Fixel-SemiBold.ufo">
+      <location><dimension name="Weight" xvalue="600"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="Bold"        filename="instance_ufo/Fixel-Bold.ufo">
+      <location><dimension name="Weight" xvalue="700"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="ExtraBold"   filename="instance_ufo/Fixel-ExtraBold.ufo">
+      <location><dimension name="Weight" xvalue="800"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel" stylename="Black"       filename="instance_ufo/Fixel-Black.ufo">
+      <location><dimension name="Weight" xvalue="900"/> <dimension name="Width" xvalue="100"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="Thin"        filename="instance_ufo/FixelText-Thin.ufo">
+      <location><dimension name="Weight" xvalue="100"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="ExtraLight"  filename="instance_ufo/FixelText-ExtraLight.ufo">
+      <location><dimension name="Weight" xvalue="200"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="Light"       filename="instance_ufo/FixelText-Light.ufo">
+      <location><dimension name="Weight" xvalue="300"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="Regular"     filename="instance_ufo/FixelText-Regular.ufo">
+      <location><dimension name="Weight" xvalue="400"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="Medium"      filename="instance_ufo/FixelText-Medium.ufo">
+      <location><dimension name="Weight" xvalue="500"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="SemiBold"    filename="instance_ufo/FixelText-SemiBold.ufo">
+      <location><dimension name="Weight" xvalue="600"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="Bold"        filename="instance_ufo/FixelText-Bold.ufo">
+      <location><dimension name="Weight" xvalue="700"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="ExtraBold"   filename="instance_ufo/FixelText-ExtraBold.ufo">
+      <location><dimension name="Weight" xvalue="800"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+    <instance familyname="Fixel Text" stylename="Black"       filename="instance_ufo/FixelText-Black.ufo">
+      <location><dimension name="Weight" xvalue="900"/> <dimension name="Width" xvalue="87.5"/></location>
+    </instance>
+  </instances>
+</designspace>

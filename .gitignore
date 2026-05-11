@@ -1,2 +1,16 @@
 .DS_Store
 venv
+.venv
+__pycache__/
+*.pyc
+
+# gftools-builder intermediates
+sources/instance_ufos/
+sources/master_ufo/
+sources/build.ninja
+sources/.ninja_log
+.ninja_log
+
+# FontBakery HTML reports (the .md summary is committed)
+FONTBAKERY-REPORT.html
+fontbakery-report-*.html

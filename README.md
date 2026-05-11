@@ -1,4 +1,5 @@
 # Fixel
+
 Fixel font public repository.
 
 <img src="documentation/image_1.png">
@@ -7,11 +8,54 @@ Fixel font public repository.
 <img src="documentation/image_4.png">
 <img src="documentation/image_5.png">
 
-* Fixel Font includes extended Latin and Cyrillic alphabets, covering over 40 languages. 
-* The font comes in both Text and Display width options, with nine weight options from Thin to Black. 
-* The font is a unique combination of geometric and humanist grotesques, with open letterforms, wide width, crisp edges, and low contrast.
-* Fixel Font is suitable for a variety of content types and sizes, from headlines and logos to large volumes of text.
-* Fixel Font includes alternate symbols. They are more plastic and stand out with higher dynamics and asymmetry.
-* Fixel Font preserves the history of the unique Ukrainian graphic culture. Among Fixel’s alternate symbols is the «tryzub,» the seal-trident of Volodymyr the Great and part of the Ukrainian coat of arms. The Fixel’s «tryzub» was developed by the outstanding Ukrainian painter and graphic artist Nil Khasevych in 1949. 
-* The font is free and can be used in commercial and other types of projects.
+## About
 
+Fixel is a contemporary sans-serif by MacPaw — a combination of geometric and humanist grotesques, with open letterforms, wide proportions, crisp edges, and low contrast. It is suitable for content from headlines and logos to long passages of text.
+
+- Extended Latin and Cyrillic; 40+ languages
+- Two widths: **Display** (`wdth=100`) and **Text** (`wdth=87.5`)
+- Nine weights: Thin → Black (`wght=100`–`900`)
+- One variable font with `wdth` + `wght` axes
+- Alternate symbols, including the «tryzub» after Nil Khasevych (1949)
+- Free for commercial and personal use under the SIL Open Font License v1.1
+
+## Repository layout
+
+```
+sources/        UFO masters, .designspace and gftools-builder config
+fonts/          Build output: variable, static TTF, and webfonts (WOFF2)
+documentation/  DESCRIPTION.en_us.html and images
+```
+
+## Building
+
+```sh
+pip install -r requirements.txt
+cd sources
+gftools builder config.yaml
+```
+
+This produces:
+
+- `fonts/variable/Fixel[wdth,wght].ttf` — the variable font
+- `fonts/ttf/*.ttf` — 18 static instances
+- `fonts/webfonts/*.woff2` — webfont versions
+
+## Quality checks
+
+```sh
+fontbakery check-googlefonts --succinct \
+  fonts/variable/*.ttf fonts/ttf/*.ttf
+```
+
+CI runs the build and FontBakery on every pull request — see `.github/workflows/`.
+
+## Designers
+
+See [AUTHORS.txt](AUTHORS.txt) and [CONTRIBUTORS.txt](CONTRIBUTORS.txt).
+
+To contribute, contact [Max Kukurudziak](mailto:max@macpaw.com).
+
+## License
+
+Licensed under the SIL Open Font License v1.1 — see [OFL.txt](OFL.txt).

@@ -1,0 +1,52 @@
+name: FontBakery
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  fontbakery:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build fonts
+        working-directory: sources
+        run: gftools builder config.yaml
+
+      - name: Run FontBakery on variable font
+        run: |
+          fontbakery check-googlefonts \
+            --succinct \
+            --full-lists \
+            --html fontbakery-report-vf.html \
+            fonts/variable/*.ttf
+        continue-on-error: true
+
+      - name: Run FontBakery on static TTFs
+        run: |
+          fontbakery check-googlefonts \
+            --succinct \
+            --full-lists \
+            --html fontbakery-report-static.html \
+            fonts/ttf/*.ttf
+        continue-on-error: true
+
+      - name: Upload FontBakery reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: fontbakery-reports
+          path: fontbakery-report-*.html
