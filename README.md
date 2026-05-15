@@ -1,4 +1,7 @@
 # Fixel
+
+![Fixel](.github/header.png)
+
 Fixel font public repository.
 
 <img src="documentation/image_1.png">
