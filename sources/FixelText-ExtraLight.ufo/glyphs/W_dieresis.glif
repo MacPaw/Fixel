@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="2">
+  <advance width="906"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="212.333" y="0" type="line"/>
+      <point x="274.333" y="0" type="line"/>
+      <point x="448.667" y="639" type="line"/>
+      <point x="454.667" y="639" type="line"/>
+      <point x="628.667" y="0" type="line"/>
+      <point x="690.667" y="0" type="line"/>
+      <point x="863" y="700" type="line"/>
+      <point x="821" y="700" type="line"/>
+      <point x="660.667" y="42.3333" type="line"/>
+      <point x="656" y="42.3333" type="line"/>
+      <point x="477.333" y="700" type="line"/>
+      <point x="425.667" y="700" type="line"/>
+      <point x="247" y="42.3333" type="line"/>
+      <point x="242.333" y="42.3333" type="line"/>
+      <point x="85.3333" y="700" type="line"/>
+      <point x="43.3333" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="364.333" y="797.667" type="curve"/>
+      <point x="373" y="787.667"/>
+      <point x="386.667" y="788.333"/>
+      <point x="396.667" y="797" type="curve" smooth="yes"/>
+      <point x="406.667" y="805.667"/>
+      <point x="406.333" y="818.667"/>
+      <point x="397.667" y="828.667" type="curve"/>
+      <point x="389" y="838"/>
+      <point x="375.667" y="837"/>
+      <point x="365.667" y="828.333" type="curve" smooth="yes"/>
+      <point x="355.667" y="819.667"/>
+      <point x="355.667" y="807"/>
+    </contour>
+    <contour>
+      <point x="504" y="797.667" type="curve"/>
+      <point x="512.667" y="787.667"/>
+      <point x="526.333" y="788.333"/>
+      <point x="536.333" y="797" type="curve" smooth="yes"/>
+      <point x="546.333" y="805.667"/>
+      <point x="546" y="818.667"/>
+      <point x="537.333" y="828.667" type="curve"/>
+      <point x="528.667" y="838"/>
+      <point x="515.333" y="837"/>
+      <point x="505.333" y="828.333" type="curve" smooth="yes"/>
+      <point x="495.333" y="819.667"/>
+      <point x="495.333" y="807"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>W+dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

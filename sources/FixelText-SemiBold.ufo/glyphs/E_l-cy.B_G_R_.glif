@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="El-cy.BGR" format="2">
+  <advance width="601"/>
+  <outline>
+    <contour>
+      <point x="386.8" y="700" type="line"/>
+      <point x="214" y="700" type="line"/>
+      <point x="-3.2" y="0" type="line"/>
+      <point x="137.2" y="0" type="line"/>
+      <point x="296.6" y="565.6" type="line"/>
+      <point x="303" y="565.6" type="line"/>
+      <point x="463.6" y="0" type="line"/>
+      <point x="604" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

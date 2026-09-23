@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Enmiddlehookcyr" format="2">
+  <advance width="1039"/>
+  <unicode hex="0522"/>
+  <outline>
+    <contour>
+      <point x="103.333" y="0" type="line"/>
+      <point x="163.333" y="0" type="line"/>
+      <point x="163.333" y="332.333" type="line"/>
+      <point x="513.667" y="332.333" type="line"/>
+      <point x="513.667" y="0" type="line"/>
+      <point x="573.667" y="0" type="line"/>
+      <point x="573.667" y="700" type="line"/>
+      <point x="513.667" y="700" type="line"/>
+      <point x="513.667" y="389.333" type="line"/>
+      <point x="163.333" y="389.333" type="line"/>
+      <point x="163.333" y="700" type="line"/>
+      <point x="103.333" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="708" y="-130.333" type="curve"/>
+      <point x="708" y="-184.667" type="line"/>
+      <point x="730.333" y="-192"/>
+      <point x="754.333" y="-195.667"/>
+      <point x="776.333" y="-195.667" type="curve" smooth="yes"/>
+      <point x="883.667" y="-195.667"/>
+      <point x="960.667" y="-117.667"/>
+      <point x="960.667" y="27.3333" type="curve" smooth="yes"/>
+      <point x="960.667" y="131.333" type="line" smooth="yes"/>
+      <point x="960.667" y="309.667"/>
+      <point x="857.333" y="389.333"/>
+      <point x="678.667" y="389.333" type="curve" smooth="yes"/>
+      <point x="571.667" y="389.333" type="line"/>
+      <point x="571.667" y="332" type="line"/>
+      <point x="678.333" y="332" type="line" smooth="yes"/>
+      <point x="818.667" y="332"/>
+      <point x="900.667" y="271.667"/>
+      <point x="900.667" y="132.667" type="curve" smooth="yes"/>
+      <point x="900.667" y="38.6667" type="line" smooth="yes"/>
+      <point x="900.667" y="-82.3333"/>
+      <point x="846.333" y="-138.333"/>
+      <point x="764.667" y="-138.333" type="curve" smooth="yes"/>
+      <point x="745.333" y="-138.333"/>
+      <point x="727" y="-135"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Shhacyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

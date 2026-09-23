@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ertickcyr" format="2">
+  <advance width="611"/>
+  <unicode hex="048E"/>
+  <outline>
+    <contour>
+      <point x="103.333" y="0" type="line"/>
+      <point x="163.333" y="0" type="line"/>
+      <point x="163.333" y="258.667" type="line"/>
+      <point x="323" y="258.667" type="line" smooth="yes"/>
+      <point x="467.667" y="258.667"/>
+      <point x="564.333" y="345"/>
+      <point x="564.333" y="476" type="curve" smooth="yes"/>
+      <point x="564.333" y="480.667" type="line" smooth="yes"/>
+      <point x="564.333" y="613.667"/>
+      <point x="465.667" y="700"/>
+      <point x="321" y="700" type="curve" smooth="yes"/>
+      <point x="103.333" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="163.333" y="315.667" type="line"/>
+      <point x="163.333" y="643" type="line"/>
+      <point x="321" y="643" type="line" smooth="yes"/>
+      <point x="431" y="643"/>
+      <point x="501.667" y="579"/>
+      <point x="501.667" y="479.667" type="curve" smooth="yes"/>
+      <point x="501.667" y="475" type="line" smooth="yes"/>
+      <point x="501.667" y="377.333"/>
+      <point x="432" y="315.667"/>
+      <point x="321" y="315.667" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="332.333" y="438" type="line"/>
+      <point x="445.333" y="328" type="line"/>
+      <point x="448" y="323.333" type="line"/>
+      <point x="530" y="241.667" type="line"/>
+      <point x="566.333" y="276.667" type="line"/>
+      <point x="478.333" y="366" type="line"/>
+      <point x="476.333" y="365" type="line"/>
+      <point x="367" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>P</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>P</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

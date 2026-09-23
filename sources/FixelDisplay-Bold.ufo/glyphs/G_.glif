@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="2">
+  <advance width="759"/>
+  <unicode hex="0047"/>
+  <anchor x="371" y="-7.8" name="bottom"/>
+  <anchor x="405.2" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="364.4" y="-11" type="curve" smooth="yes" name="&#x1f525;"/>
+      <point x="375.2" y="-11" type="line" smooth="yes"/>
+      <point x="455" y="-11"/>
+      <point x="538.2" y="26.8"/>
+      <point x="575.4" y="77.6" type="curve"/>
+      <point x="576.8" y="48.8"/>
+      <point x="584.6" y="13.8"/>
+      <point x="592.8" y="0" type="curve"/>
+      <point x="704.8" y="0" type="line"/>
+      <point x="704.8" y="379" type="line"/>
+      <point x="419.4" y="379" type="line"/>
+      <point x="419.4" y="251.4" type="line"/>
+      <point x="562.4" y="251.4" type="line"/>
+      <point x="562.4" y="240.2" type="line" smooth="yes"/>
+      <point x="562.4" y="180.2"/>
+      <point x="501" y="123.4"/>
+      <point x="402.2" y="123.4" type="curve" smooth="yes"/>
+      <point x="399.2" y="123.4" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="281" y="123.4"/>
+      <point x="201" y="211.6"/>
+      <point x="201" y="345.6" type="curve" smooth="yes"/>
+      <point x="201" y="352" type="line" smooth="yes"/>
+      <point x="201" y="484.2"/>
+      <point x="281" y="577"/>
+      <point x="398.6" y="577" type="curve" smooth="yes"/>
+      <point x="402.2" y="577" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="475" y="577"/>
+      <point x="526.6" y="542"/>
+      <point x="566" y="474.6" type="curve"/>
+      <point x="688.8" y="553" type="line"/>
+      <point x="618.8" y="654.2"/>
+      <point x="518" y="712.6"/>
+      <point x="390" y="712.6" type="curve" smooth="yes"/>
+      <point x="386.4" y="712.6" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="186.4" y="712.6"/>
+      <point x="39" y="559.2"/>
+      <point x="39" y="351.4" type="curve" smooth="yes"/>
+      <point x="39" y="346.6" type="line" smooth="yes"/>
+      <point x="39" y="136.4"/>
+      <point x="172" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O+18</string>
+  </dict>
+  </lib>
+</glyph>

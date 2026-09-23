@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kaverticalstrokecyr" format="2">
+  <advance width="626"/>
+  <unicode hex="049C"/>
+  <outline>
+    <contour>
+      <point x="231.667" y="193" type="line"/>
+      <point x="231.667" y="354.667" type="line"/>
+      <point x="262.667" y="354.667" type="line"/>
+      <point x="567.667" y="0" type="line"/>
+      <point x="620.667" y="0" type="line"/>
+      <point x="295.333" y="373.333" type="line"/>
+      <point x="583.333" y="700" type="line"/>
+      <point x="535" y="700" type="line"/>
+      <point x="264.667" y="388" type="line"/>
+      <point x="231.667" y="388" type="line"/>
+      <point x="231.667" y="549" type="line"/>
+      <point x="198.333" y="549" type="line"/>
+      <point x="198.333" y="388" type="line"/>
+      <point x="146.667" y="388" type="line"/>
+      <point x="146.667" y="700" type="line"/>
+      <point x="106.667" y="700" type="line"/>
+      <point x="106.667" y="0" type="line"/>
+      <point x="146.667" y="0" type="line"/>
+      <point x="146.667" y="354.667" type="line"/>
+      <point x="198.333" y="354.667" type="line"/>
+      <point x="198.333" y="193" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>K</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ж</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

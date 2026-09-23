@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.case" format="2">
+  <anchor x="-186.8" y="520.8" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-349.6" y="900" type="line"/>
+      <point x="-349.6" y="815.6"/>
+      <point x="-285" y="759.2"/>
+      <point x="-186" y="759.2" type="curve" smooth="yes"/>
+      <point x="-87" y="759.2"/>
+      <point x="-22.4" y="815.6"/>
+      <point x="-22.4" y="900" type="curve"/>
+      <point x="-110.2" y="900" type="line"/>
+      <point x="-110.2" y="858.4"/>
+      <point x="-140" y="830.6"/>
+      <point x="-185.4" y="830.6" type="curve" smooth="yes"/>
+      <point x="-230.8" y="830.6"/>
+      <point x="-261.8" y="858.2"/>
+      <point x="-261.8" y="900" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

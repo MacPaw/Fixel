@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+  <advance width="278"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="60.6" y="-197" type="curve" smooth="yes"/>
+      <point x="152.2" y="-197"/>
+      <point x="207.4" y="-137"/>
+      <point x="207.4" y="-28.4" type="curve" smooth="yes"/>
+      <point x="207.4" y="520" type="line"/>
+      <point x="83.4" y="520" type="line"/>
+      <point x="83.4" y="-8.4" type="line" smooth="yes"/>
+      <point x="83.4" y="-68.4"/>
+      <point x="62.2" y="-87.2"/>
+      <point x="16" y="-87.2" type="curve" smooth="yes"/>
+      <point x="-4.2" y="-87.2"/>
+      <point x="-21.8" y="-82.8"/>
+      <point x="-38.2" y="-75.4" type="curve"/>
+      <point x="-38.2" y="-179" type="line"/>
+      <point x="-8.4" y="-191.6"/>
+      <point x="30" y="-197"/>
+    </contour>
+    <contour>
+      <point x="312.4" y="592.2" type="line"/>
+      <point x="210.4" y="720" type="line"/>
+      <point x="76" y="720" type="line"/>
+      <point x="-26" y="592.2" type="line"/>
+      <point x="88.4" y="592.2" type="line"/>
+      <point x="134.2" y="651.4" type="line"/>
+      <point x="152.2" y="651.4" type="line"/>
+      <point x="198" y="592.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

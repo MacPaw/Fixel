@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+  <advance width="926"/>
+  <unicode hex="006D"/>
+  <anchor x="467.4" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="67.2" y="0" type="line"/>
+      <point x="216.2" y="0" type="line"/>
+      <point x="216.2" y="284.6" type="line" smooth="yes"/>
+      <point x="216.2" y="366.4"/>
+      <point x="255.8" y="404.8"/>
+      <point x="312" y="406" type="curve"/>
+      <point x="313.2" y="406" type="line"/>
+      <point x="367.2" y="405.4"/>
+      <point x="392.2" y="381.6"/>
+      <point x="392.2" y="307.6" type="curve" smooth="yes"/>
+      <point x="392.2" y="0" type="line"/>
+      <point x="541.2" y="0" type="line"/>
+      <point x="541.2" y="285.2" type="line" smooth="yes"/>
+      <point x="541.2" y="367"/>
+      <point x="581" y="405.4"/>
+      <point x="637.8" y="406.6" type="curve"/>
+      <point x="639" y="406.6" type="line"/>
+      <point x="692.2" y="406"/>
+      <point x="717.2" y="382.2"/>
+      <point x="717.2" y="308.2" type="curve" smooth="yes"/>
+      <point x="717.2" y="0" type="line"/>
+      <point x="866.2" y="0" type="line"/>
+      <point x="866.2" y="334.6" type="line" smooth="yes"/>
+      <point x="866.2" y="458.6"/>
+      <point x="805.4" y="531.6"/>
+      <point x="695.4" y="531.6" type="curve"/>
+      <point x="694.2" y="531.6" type="line"/>
+      <point x="624.4" y="531.6"/>
+      <point x="562.4" y="495.6"/>
+      <point x="521" y="439.6" type="curve"/>
+      <point x="494.6" y="498"/>
+      <point x="442.6" y="531"/>
+      <point x="369" y="531" type="curve"/>
+      <point x="367.8" y="531" type="line"/>
+      <point x="301.4" y="531"/>
+      <point x="241.2" y="496.6"/>
+      <point x="200.4" y="445.2" type="curve"/>
+      <point x="198.6" y="466.8"/>
+      <point x="192.4" y="500.8"/>
+      <point x="185.2" y="520" type="curve"/>
+      <point x="67.2" y="520" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="443" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

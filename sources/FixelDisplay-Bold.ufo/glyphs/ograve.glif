@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="2">
+  <advance width="651"/>
+  <unicode hex="00F2"/>
+  <anchor x="325.6" y="520" name="top"/>
+  <anchor x="325.6" y="520" name="top.1"/>
+  <outline>
+    <component base="o"/>
+    <component base="grave" xScale="1" xOffset="429.4" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+grave</string>
+  </dict>
+  </lib>
+</glyph>

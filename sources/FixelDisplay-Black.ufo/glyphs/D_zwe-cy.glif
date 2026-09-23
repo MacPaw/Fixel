@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzwe-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="A682"/>
+  <outline>
+    <contour>
+      <point x="291.936" y="-160" type="curve" smooth="yes"/>
+      <point x="465" y="-160"/>
+      <point x="578" y="-58"/>
+      <point x="578" y="100" type="curve" smooth="yes"/>
+      <point x="578" y="261"/>
+      <point x="460" y="312"/>
+      <point x="363" y="353" type="curve" smooth="yes"/>
+      <point x="295" y="382"/>
+      <point x="237" y="407"/>
+      <point x="237" y="463.235" type="curve" smooth="yes"/>
+      <point x="237" y="503"/>
+      <point x="266" y="531"/>
+      <point x="309.357" y="531" type="curve" smooth="yes"/>
+      <point x="346" y="531"/>
+      <point x="393" y="511"/>
+      <point x="433" y="477" type="curve"/>
+      <point x="545" y="632" type="line"/>
+      <point x="464" y="688"/>
+      <point x="377" y="715"/>
+      <point x="295.653" y="715" type="curve" smooth="yes"/>
+      <point x="136" y="715"/>
+      <point x="29" y="611"/>
+      <point x="29" y="454.72" type="curve" smooth="yes"/>
+      <point x="29" y="292"/>
+      <point x="145" y="241"/>
+      <point x="241" y="200" type="curve" smooth="yes"/>
+      <point x="307" y="171"/>
+      <point x="363" y="146"/>
+      <point x="363" y="92" type="curve" smooth="yes"/>
+      <point x="363" y="51"/>
+      <point x="331" y="24"/>
+      <point x="280.038" y="24" type="curve" smooth="yes"/>
+      <point x="231" y="24"/>
+      <point x="171" y="49"/>
+      <point x="120" y="90" type="curve"/>
+      <point x="17" y="-68" type="line"/>
+      <point x="100" y="-128"/>
+      <point x="195" y="-160"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>S</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A.ss01" format="2">
+  <advance width="701"/>
+  <anchor x="685.4" y="0" name="bottom"/>
+  <anchor x="405.4" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="18.8" y="0" type="curve"/>
+      <point x="204.8" y="0" type="line"/>
+      <point x="204.8" y="45"/>
+      <point x="208.8" y="87.6"/>
+      <point x="215.8" y="128.2" type="curve"/>
+      <point x="463.8" y="128.2" type="line"/>
+      <point x="495.8" y="0" type="line"/>
+      <point x="685.4" y="0" type="line"/>
+      <point x="495.8" y="700" type="line"/>
+      <point x="318.4" y="700" type="line"/>
+      <point x="118" y="455.4"/>
+      <point x="18.8" y="240.4"/>
+    </contour>
+    <contour>
+      <point x="253.4" y="273.8" type="line"/>
+      <point x="280.6" y="340.8"/>
+      <point x="318.8" y="427.6"/>
+      <point x="361.8" y="500.2" type="curve"/>
+      <point x="375" y="500.2" type="line"/>
+      <point x="427.8" y="273.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

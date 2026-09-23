@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhungarumlaut" format="2">
+  <advance width="695"/>
+  <unicode hex="0170"/>
+  <anchor x="409" y="0" name="bottom"/>
+  <anchor x="348" y="520" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="hungarumlaut.case" xOffset="540"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+hungarumlaut.case</string>
+  </dict>
+  </lib>
+</glyph>

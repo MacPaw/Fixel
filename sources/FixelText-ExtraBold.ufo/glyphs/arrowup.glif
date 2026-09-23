@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowup" format="2">
+  <advance width="607"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="238.8" y="565.6" type="line"/>
+      <point x="238.8" y="26.2" type="line"/>
+      <point x="368.4" y="26.2" type="line"/>
+      <point x="368.4" y="565.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="405.4" type="line"/>
+      <point x="127.8" y="306.6" type="line"/>
+      <point x="315.2" y="483.2" type="line"/>
+      <point x="292" y="483.2" type="line"/>
+      <point x="479.4" y="306.6" type="line"/>
+      <point x="568.2" y="405.4" type="line"/>
+      <point x="309" y="637.6" type="line"/>
+      <point x="298.2" y="637.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  </dict>
+  </lib>
+</glyph>

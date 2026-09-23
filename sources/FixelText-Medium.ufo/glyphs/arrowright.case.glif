@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowright.case" format="2">
+  <advance width="659"/>
+  <outline>
+    <component base="arrowleft" xScale="-1" xyScale="-1.11768e-18" xOffset="658.6" yOffset="24.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|arrowleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|arrowleft</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

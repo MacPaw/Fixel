@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pehookcyr" format="2">
+  <advance width="867"/>
+  <unicode hex="04A7"/>
+  <outline>
+    <contour>
+      <point x="91.6667" y="0" type="line"/>
+      <point x="129.667" y="0" type="line"/>
+      <point x="129.667" y="484" type="line"/>
+      <point x="458" y="484" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="520" type="line"/>
+      <point x="91.6667" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="637.333" y="-158.333" type="curve" smooth="yes"/>
+      <point x="611" y="-158.333"/>
+      <point x="591.667" y="-154.667"/>
+      <point x="571.667" y="-149.333" type="curve"/>
+      <point x="571.667" y="-185.333" type="line"/>
+      <point x="595.333" y="-191.667"/>
+      <point x="617.667" y="-195.667"/>
+      <point x="640.667" y="-195.667" type="curve" smooth="yes"/>
+      <point x="751.333" y="-195.667"/>
+      <point x="825" y="-109.667"/>
+      <point x="825" y="44.6667" type="curve" smooth="yes"/>
+      <point x="825" y="61.3333" type="line" smooth="yes"/>
+      <point x="825" y="221.333"/>
+      <point x="756" y="303"/>
+      <point x="629.667" y="303" type="curve" smooth="yes"/>
+      <point x="573.667" y="303"/>
+      <point x="528.667" y="291"/>
+      <point x="487.667" y="272" type="curve"/>
+      <point x="487.667" y="234" type="line"/>
+      <point x="523.333" y="253.333"/>
+      <point x="569.667" y="266.667"/>
+      <point x="626" y="266.667" type="curve" smooth="yes"/>
+      <point x="734.333" y="266.667"/>
+      <point x="788.333" y="198"/>
+      <point x="788.333" y="60.6667" type="curve" smooth="yes"/>
+      <point x="788.333" y="43" type="line" smooth="yes"/>
+      <point x="788.333" y="-89.3333"/>
+      <point x="726.333" y="-158.333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>п</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>enmiddlehookcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

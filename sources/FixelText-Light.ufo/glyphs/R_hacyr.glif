@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rhacyr" format="2">
+  <advance width="757"/>
+  <unicode hex="0516"/>
+  <outline>
+    <contour>
+      <point x="475" y="351" type="line"/>
+      <point x="487.667" y="351" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="740.333" y="0" type="line"/>
+      <point x="529.667" y="396" type="line" name="&#x1f525;"/>
+      <point x="529.667" y="399.333" type="line" name="&#x1f525;"/>
+      <point x="720.333" y="700" type="line"/>
+      <point x="649" y="700" type="line"/>
+      <point x="507.667" y="472.667" type="line"/>
+      <point x="495.667" y="472.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="103.333" y="0" type="line"/>
+      <point x="163.333" y="0" type="line"/>
+      <point x="163.333" y="238.667" type="line"/>
+      <point x="276.667" y="238.667" type="line" smooth="yes"/>
+      <point x="420" y="238.667"/>
+      <point x="512.333" y="328"/>
+      <point x="512.333" y="466" type="curve" smooth="yes"/>
+      <point x="512.333" y="470.667" type="line" smooth="yes"/>
+      <point x="512.333" y="610.333"/>
+      <point x="420" y="700"/>
+      <point x="276" y="700" type="curve" smooth="yes"/>
+      <point x="103.333" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="163.333" y="295.667" type="line"/>
+      <point x="163.333" y="643" type="line"/>
+      <point x="276" y="643" type="line" smooth="yes"/>
+      <point x="387.333" y="643"/>
+      <point x="456.667" y="576.333"/>
+      <point x="456.667" y="469.667" type="curve" smooth="yes"/>
+      <point x="456.667" y="465" type="line" smooth="yes"/>
+      <point x="456.667" y="360.333"/>
+      <point x="388" y="295.667"/>
+      <point x="276" y="295.667" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>P</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>X</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

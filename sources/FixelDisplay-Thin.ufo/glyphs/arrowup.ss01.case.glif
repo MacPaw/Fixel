@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowup.ss01.case" format="2">
+  <advance width="444"/>
+  <outline>
+    <component base="arrowleft.ss01" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="-113" yOffset="709"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowup</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

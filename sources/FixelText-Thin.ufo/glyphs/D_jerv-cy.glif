@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Djerv-cy" format="2">
+  <advance width="604"/>
+  <unicode hex="A648"/>
+  <outline>
+    <contour>
+      <point x="312" y="412" type="line"/>
+      <point x="312" y="547" type="line"/>
+      <point x="467" y="547" type="line"/>
+      <point x="467" y="566" type="line"/>
+      <point x="312" y="566" type="line"/>
+      <point x="312" y="705" type="line"/>
+      <point x="292" y="705" type="line"/>
+      <point x="292" y="566" type="line"/>
+      <point x="137" y="566" type="line"/>
+      <point x="137" y="547" type="line"/>
+      <point x="292" y="547" type="line"/>
+      <point x="292" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="417" type="curve" smooth="yes"/>
+      <point x="150" y="417"/>
+      <point x="55" y="320"/>
+      <point x="55" y="167" type="curve" smooth="yes"/>
+      <point x="55" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="75" y="169" type="line" smooth="yes"/>
+      <point x="75" y="309"/>
+      <point x="163" y="398"/>
+      <point x="302" y="398" type="curve" smooth="yes"/>
+      <point x="441" y="398"/>
+      <point x="529" y="309"/>
+      <point x="529" y="169" type="curve" smooth="yes"/>
+      <point x="529" y="0" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="549" y="167" type="line" smooth="yes"/>
+      <point x="549" y="321"/>
+      <point x="454" y="417"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>r()</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

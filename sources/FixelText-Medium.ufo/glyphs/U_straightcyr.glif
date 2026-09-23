@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraightcyr" format="2">
+  <advance width="579"/>
+  <unicode hex="04AE"/>
+  <anchor x="289.8" y="520" name="top"/>
+  <outline>
+    <component base="Y"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>Y</string>
+  <key>com.fontlab.recipe</key>
+  <string>Y</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

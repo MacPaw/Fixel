@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="2">
+  <advance width="569"/>
+  <unicode hex="017D"/>
+  <anchor x="285.6" y="517" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="caron.case" xScale="1" xOffset="503.6" yOffset="-3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Z+caron.case</string>
+  </dict>
+  </lib>
+</glyph>

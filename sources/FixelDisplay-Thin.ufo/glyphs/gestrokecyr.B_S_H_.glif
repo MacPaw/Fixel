@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gestrokecyr.BSH" format="2">
+  <advance width="419"/>
+  <unicode hex="F53D"/>
+  <outline>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="501" type="line"/>
+      <point x="389" y="501" type="line"/>
+      <point x="389" y="520" type="line"/>
+      <point x="95" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="261" type="line"/>
+      <point x="303" y="261" type="line"/>
+      <point x="303" y="280" type="line"/>
+      <point x="107" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>г</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>gestrokecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>gestrokecyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

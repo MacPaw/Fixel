@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF45D" format="2">
+  <advance width="693"/>
+  <unicode hex="F45D"/>
+  <anchor x="383.2" y="520" name="top"/>
+  <outline>
+    <component base="E-cy"/>
+    <component base="acute.case" xyScale="-1.35891e-20" xOffset="562" yOffset="0.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Є+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

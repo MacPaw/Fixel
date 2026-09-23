@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibreve" format="2">
+  <advance width="288"/>
+  <unicode hex="012C"/>
+  <anchor x="196.6" y="0" name="bottom"/>
+  <anchor x="144" y="520" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="breve.case" xScale="1" xOffset="329.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

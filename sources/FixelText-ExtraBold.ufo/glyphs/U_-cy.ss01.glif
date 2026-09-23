@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U-cy.ss01" format="2">
+  <advance width="617"/>
+  <anchor x="312.4" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="222.2" y="-15.2" type="curve" smooth="yes"/>
+      <point x="336" y="-15.2"/>
+      <point x="404.2" y="52.2"/>
+      <point x="470.8" y="229.4" type="curve" smooth="yes"/>
+      <point x="533" y="394.8"/>
+      <point x="587.2" y="604"/>
+      <point x="596.8" y="700" type="curve"/>
+      <point x="413.4" y="700" type="line"/>
+      <point x="405.4" y="592.4"/>
+      <point x="387" y="433.2"/>
+      <point x="347.2" y="342.2" type="curve"/>
+      <point x="337.4" y="342.2" type="line"/>
+      <point x="191.8" y="700" type="line"/>
+      <point x="-5" y="700" type="line"/>
+      <point x="242.2" y="155" type="line"/>
+      <point x="229.6" y="141"/>
+      <point x="207.2" y="136.2"/>
+      <point x="184.2" y="136.2" type="curve" smooth="yes"/>
+      <point x="150" y="136.2"/>
+      <point x="112" y="147.4"/>
+      <point x="91.2" y="158" type="curve"/>
+      <point x="91.2" y="7" type="line"/>
+      <point x="134.6" y="-7.8"/>
+      <point x="185.2" y="-15.2"/>
+    </contour>
+  </outline>
+</glyph>

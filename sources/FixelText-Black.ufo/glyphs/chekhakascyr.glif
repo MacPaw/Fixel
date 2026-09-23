@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chekhakascyr" format="2">
+  <advance width="557"/>
+  <unicode hex="04CC"/>
+  <outline>
+    <contour>
+      <point x="417" y="-128" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="457" y="114" type="line"/>
+      <point x="230" y="114" type="line"/>
+      <point x="230" y="-128" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="509" y="520" type="line"/>
+      <point x="310" y="520" type="line"/>
+      <point x="310" y="331" type="line"/>
+      <point x="297" y="326"/>
+      <point x="285" y="324"/>
+      <point x="272" y="324" type="curve" smooth="yes"/>
+      <point x="241" y="324"/>
+      <point x="230" y="343"/>
+      <point x="230" y="381" type="curve" smooth="yes"/>
+      <point x="230" y="520" type="line"/>
+      <point x="30" y="520" type="line"/>
+      <point x="30" y="350" type="line" smooth="yes"/>
+      <point x="30" y="243"/>
+      <point x="101" y="175"/>
+      <point x="221" y="175" type="curve" smooth="yes"/>
+      <point x="246" y="175"/>
+      <point x="278" y="178"/>
+      <point x="310" y="184" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ч</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

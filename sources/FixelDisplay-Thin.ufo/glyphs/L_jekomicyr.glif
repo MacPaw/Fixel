@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ljekomicyr" format="2">
+  <advance width="963"/>
+  <unicode hex="0508"/>
+  <outline>
+    <contour>
+      <point x="562" y="184" type="line" smooth="yes"/>
+      <point x="562" y="60"/>
+      <point x="626" y="-5"/>
+      <point x="721" y="-5" type="curve" smooth="yes"/>
+      <point x="815" y="-5"/>
+      <point x="878" y="58"/>
+      <point x="878" y="182" type="curve" smooth="yes"/>
+      <point x="878" y="369" type="line"/>
+      <point x="858" y="369" type="line"/>
+      <point x="858" y="184" type="line" smooth="yes"/>
+      <point x="858" y="70"/>
+      <point x="802" y="14"/>
+      <point x="720" y="14" type="curve" smooth="yes"/>
+      <point x="638" y="14"/>
+      <point x="582" y="72"/>
+      <point x="582" y="186" type="curve" smooth="yes"/>
+      <point x="582" y="700" type="line"/>
+      <point x="181" y="700" type="line"/>
+      <point x="164" y="191" type="line" smooth="yes"/>
+      <point x="160" y="65"/>
+      <point x="127" y="14"/>
+      <point x="58" y="14" type="curve" smooth="yes"/>
+      <point x="47" y="14"/>
+      <point x="34" y="17"/>
+      <point x="25" y="22" type="curve"/>
+      <point x="25" y="1" type="line"/>
+      <point x="32" y="-4"/>
+      <point x="45" y="-6"/>
+      <point x="58" y="-6" type="curve" smooth="yes"/>
+      <point x="139" y="-6"/>
+      <point x="179" y="47"/>
+      <point x="184" y="183" type="curve" smooth="yes"/>
+      <point x="201" y="681" type="line"/>
+      <point x="562" y="681" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Л</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Njekomicyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

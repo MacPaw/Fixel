@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex.ss01" format="2">
+  <advance width="676"/>
+  <anchor x="666" y="0" name="bottom"/>
+  <anchor x="386" y="519.4" name="top"/>
+  <outline>
+    <contour>
+      <point x="-0.6" y="0" type="curve"/>
+      <point x="185.4" y="0" type="line"/>
+      <point x="185.4" y="45"/>
+      <point x="189.4" y="87.6"/>
+      <point x="196.4" y="128.2" type="curve"/>
+      <point x="444.4" y="128.2" type="line"/>
+      <point x="476.4" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="476.4" y="700" type="line"/>
+      <point x="299" y="700" type="line"/>
+      <point x="98.6" y="455.4"/>
+      <point x="-0.6" y="240.4"/>
+    </contour>
+    <contour>
+      <point x="234" y="273.8" type="line"/>
+      <point x="261.2" y="340.8"/>
+      <point x="299.4" y="427.6"/>
+      <point x="342.4" y="500.2" type="curve"/>
+      <point x="355.6" y="500.2" type="line"/>
+      <point x="408.4" y="273.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="769.4" type="line"/>
+      <point x="323.2" y="769.4" type="line"/>
+      <point x="377" y="817.8" type="line"/>
+      <point x="395" y="817.8" type="line"/>
+      <point x="448.8" y="769.4" type="line"/>
+      <point x="593" y="769.4" type="line"/>
+      <point x="479.4" y="900" type="line"/>
+      <point x="292.6" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A.ss01+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

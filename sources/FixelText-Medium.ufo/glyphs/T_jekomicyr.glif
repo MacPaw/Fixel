@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tjekomicyr" format="2">
+  <advance width="677"/>
+  <unicode hex="050E"/>
+  <outline>
+    <contour>
+      <point x="216.4" y="196.6" type="line" smooth="yes"/>
+      <point x="216.4" y="66.6"/>
+      <point x="294.8" y="-9.8"/>
+      <point x="412.6" y="-9.8" type="curve" smooth="yes"/>
+      <point x="530.2" y="-9.8"/>
+      <point x="608.6" y="66.6"/>
+      <point x="608.6" y="196.6" type="curve" smooth="yes"/>
+      <point x="608.6" y="391.8" type="line"/>
+      <point x="504.6" y="391.8" type="line"/>
+      <point x="504.6" y="197.8" type="line" smooth="yes"/>
+      <point x="504.6" y="123.4"/>
+      <point x="468" y="85"/>
+      <point x="413.2" y="85" type="curve" smooth="yes"/>
+      <point x="358.4" y="85"/>
+      <point x="321.8" y="123.4"/>
+      <point x="321.8" y="197.8" type="curve" smooth="yes"/>
+      <point x="321.8" y="604" type="line"/>
+      <point x="528.2" y="604" type="line"/>
+      <point x="528.2" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="20" y="604" type="line"/>
+      <point x="216.4" y="604" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Njekomicyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

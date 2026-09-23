@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hwe-cy" format="2">
+  <advance width="637"/>
+  <unicode hex="A694"/>
+  <outline>
+    <contour>
+      <point x="267" y="704" type="curve" smooth="yes"/>
+      <point x="153" y="704"/>
+      <point x="90" y="637"/>
+      <point x="90" y="514" type="curve" smooth="yes"/>
+      <point x="90" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="321" type="line"/>
+      <point x="238" y="346"/>
+      <point x="287" y="357"/>
+      <point x="342" y="357" type="curve" smooth="yes"/>
+      <point x="443" y="357"/>
+      <point x="482" y="321"/>
+      <point x="482" y="221" type="curve" smooth="yes"/>
+      <point x="482" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="221" type="line" smooth="yes"/>
+      <point x="562" y="367"/>
+      <point x="496" y="433"/>
+      <point x="351" y="433" type="curve" smooth="yes"/>
+      <point x="294" y="433"/>
+      <point x="241" y="422"/>
+      <point x="170" y="397" type="curve"/>
+      <point x="170" y="517" type="line" smooth="yes"/>
+      <point x="170" y="594"/>
+      <point x="205" y="629"/>
+      <point x="280" y="629" type="curve" smooth="yes"/>
+      <point x="313" y="629"/>
+      <point x="341" y="622"/>
+      <point x="366" y="605" type="curve"/>
+      <point x="366" y="684" type="line"/>
+      <point x="340" y="697"/>
+      <point x="304" y="704"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Iota-cy</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Tshecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

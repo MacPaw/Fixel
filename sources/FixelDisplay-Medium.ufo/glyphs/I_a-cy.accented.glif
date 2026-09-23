@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ia-cy.accented" format="2">
+  <advance width="646"/>
+  <unicode hex="F468"/>
+  <anchor x="328.4" y="520" name="top"/>
+  <outline>
+    <component base="Ia-cy"/>
+    <component base="acute.case" xScale="1" xyScale="1.97215e-37" xOffset="506.4" yOffset="4.44089e-16"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Я+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

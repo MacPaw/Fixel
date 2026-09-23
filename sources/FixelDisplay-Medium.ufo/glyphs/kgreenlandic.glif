@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="551"/>
+  <unicode hex="0138"/>
+  <anchor x="295.8" y="520" name="top"/>
+  <anchor x="295.8" y="520" name="top.1"/>
+  <outline>
+    <component base="ka-cy"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>kacyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="em-cy" format="2">
+  <advance width="690"/>
+  <unicode hex="043C"/>
+  <anchor x="345" y="520" name="top"/>
+  <anchor x="345" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="362" type="line"/>
+      <point x="169" y="362" type="line"/>
+      <point x="309" y="90" type="line"/>
+      <point x="381" y="90" type="line"/>
+      <point x="521" y="363" type="line"/>
+      <point x="531" y="363" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="520" type="line"/>
+      <point x="530" y="520" type="line"/>
+      <point x="350" y="174" type="line"/>
+      <point x="340" y="174" type="line"/>
+      <point x="160" y="520" type="line"/>
+      <point x="85" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  </dict>
+  </lib>
+</glyph>

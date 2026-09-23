@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+  <advance width="523"/>
+  <unicode hex="00E7"/>
+  <anchor x="285.4" y="0" name="bottom"/>
+  <anchor x="284.8" y="520" name="top"/>
+  <anchor x="284.8" y="520" name="top.1"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xScale="1" xOffset="385.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+cedilla</string>
+  </dict>
+  </lib>
+</glyph>

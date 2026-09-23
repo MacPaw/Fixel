@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="2">
+  <advance width="646"/>
+  <unicode hex="00DD"/>
+  <anchor x="323.2" y="520" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acute.case" xOffset="513.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

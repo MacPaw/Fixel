@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF533" format="2">
+  <advance width="614"/>
+  <unicode hex="F533"/>
+  <outline>
+    <contour>
+      <point x="133.6" y="720" type="line"/>
+      <point x="133.6" y="632.2"/>
+      <point x="200.8" y="573.6"/>
+      <point x="306" y="573.6" type="curve" smooth="yes"/>
+      <point x="411.2" y="573.6"/>
+      <point x="478" y="632.2"/>
+      <point x="478" y="720" type="curve"/>
+      <point x="358.6" y="720" type="line"/>
+      <point x="358.6" y="688.6"/>
+      <point x="339.6" y="667.8"/>
+      <point x="306" y="667.8" type="curve" smooth="yes"/>
+      <point x="272.4" y="667.8"/>
+      <point x="253" y="688.6"/>
+      <point x="253" y="720" type="curve"/>
+    </contour>
+    <contour>
+      <point x="62.8" y="0" type="line"/>
+      <point x="206.2" y="0" type="line"/>
+      <point x="398.6" y="341.8" type="line"/>
+      <point x="406.2" y="341.8" type="line"/>
+      <point x="406.2" y="-7.4" type="line" smooth="yes"/>
+      <point x="406.2" y="-59.6"/>
+      <point x="390.4" y="-79.6"/>
+      <point x="349" y="-79.6" type="curve" smooth="yes"/>
+      <point x="331.4" y="-79.6"/>
+      <point x="315.6" y="-75.6"/>
+      <point x="297.2" y="-67.4" type="curve"/>
+      <point x="297.2" y="-189.8" type="line"/>
+      <point x="329.4" y="-202.2"/>
+      <point x="366.2" y="-207.8"/>
+      <point x="395.2" y="-207.8" type="curve" smooth="yes"/>
+      <point x="493.6" y="-207.8"/>
+      <point x="551" y="-141.6"/>
+      <point x="551" y="-28.4" type="curve" smooth="yes"/>
+      <point x="551" y="520" type="line"/>
+      <point x="385" y="520" type="line"/>
+      <point x="215.8" y="217.4" type="line"/>
+      <point x="208.2" y="217.4" type="line"/>
+      <point x="208.2" y="520" type="line"/>
+      <point x="62.8" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>com.fontlab.recipe</key>
+  <string>й+enhookcyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

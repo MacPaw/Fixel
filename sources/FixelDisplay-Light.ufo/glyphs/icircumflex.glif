@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="2">
+  <advance width="239"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="91.6667" y="0" type="line"/>
+      <point x="147.667" y="0" type="line"/>
+      <point x="147.667" y="520" type="line"/>
+      <point x="91.6667" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="599" type="line"/>
+      <point x="154.667" y="720" type="line"/>
+      <point x="84.6667" y="720" type="line"/>
+      <point x="-48.6667" y="599" type="line"/>
+      <point x="19.6667" y="599" type="line"/>
+      <point x="110.667" y="677.333" type="line"/>
+      <point x="128.667" y="677.333" type="line"/>
+      <point x="219.667" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zetailcyr.BSH" format="2">
+  <advance width="513"/>
+  <unicode hex="F50B"/>
+  <outline>
+    <component base="ze-cy"/>
+    <contour>
+      <point x="253.8" y="26.2" type="curve"/>
+      <point x="210.6" y="-2.4" type="line"/>
+      <point x="233.8" y="-13.8"/>
+      <point x="249.6" y="-34.8"/>
+      <point x="250.4" y="-55" type="curve"/>
+      <point x="224.4" y="-57.4"/>
+      <point x="207.4" y="-77.8"/>
+      <point x="207.4" y="-105.232" type="curve" smooth="yes"/>
+      <point x="207.4" y="-137"/>
+      <point x="230.2" y="-158.2"/>
+      <point x="263.679" y="-158.2" type="curve" smooth="yes"/>
+      <point x="301.6" y="-158.2"/>
+      <point x="326.8" y="-131"/>
+      <point x="326.8" y="-89.9447" type="curve" smooth="yes"/>
+      <point x="326.8" y="-45.6"/>
+      <point x="297.4" y="1"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>з</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>з</string>
+  <key>com.fontlab.recipe</key>
+  <string>з</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

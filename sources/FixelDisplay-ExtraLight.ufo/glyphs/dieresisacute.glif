@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisacute" format="2">
+  <unicode hex="1FEE"/>
+  <anchor x="-192" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-82.3333" y="638" type="curve" smooth="yes"/>
+      <point x="-63.6667" y="638"/>
+      <point x="-50" y="651.333"/>
+      <point x="-50" y="670" type="curve" smooth="yes"/>
+      <point x="-50" y="689.333"/>
+      <point x="-63.6667" y="703"/>
+      <point x="-82.3333" y="703" type="curve" smooth="yes"/>
+      <point x="-101.667" y="703"/>
+      <point x="-115" y="689.333"/>
+      <point x="-115" y="670" type="curve" smooth="yes"/>
+      <point x="-115" y="651.333"/>
+      <point x="-101.667" y="638"/>
+    </contour>
+    <contour>
+      <point x="-300.333" y="638" type="curve" smooth="yes"/>
+      <point x="-281.667" y="638"/>
+      <point x="-268" y="651.333"/>
+      <point x="-268" y="670" type="curve" smooth="yes"/>
+      <point x="-268" y="689.333"/>
+      <point x="-281.667" y="703"/>
+      <point x="-300.333" y="703" type="curve" smooth="yes"/>
+      <point x="-319.667" y="703"/>
+      <point x="-333" y="689.333"/>
+      <point x="-333" y="670" type="curve" smooth="yes"/>
+      <point x="-333" y="651.333"/>
+      <point x="-319.667" y="638"/>
+    </contour>
+    <contour>
+      <point x="-207.333" y="607.333" type="line"/>
+      <point x="-141.333" y="736.667" type="line"/>
+      <point x="-183" y="736.667" type="line"/>
+      <point x="-240" y="607.333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

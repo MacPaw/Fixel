@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="je-cy" format="2">
+  <advance width="273"/>
+  <unicode hex="0458"/>
+  <outline>
+    <component base="j"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>j</string>
+  </dict>
+  </lib>
+</glyph>

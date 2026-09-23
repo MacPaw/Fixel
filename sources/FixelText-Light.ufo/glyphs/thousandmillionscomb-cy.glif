@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thousandmillionscomb-cy" format="2">
+  <unicode hex="A672"/>
+  <anchor x="-321" y="520" name="_top.1"/>
+  <outline>
+    <contour>
+      <point x="-340.667" y="761" type="line"/>
+      <point x="-301.333" y="761" type="line"/>
+      <point x="-301.333" y="939" type="line"/>
+      <point x="-340.667" y="939" type="line"/>
+    </contour>
+    <contour>
+      <point x="-232" y="830.333" type="line"/>
+      <point x="-232" y="869.667" type="line"/>
+      <point x="-410" y="869.667" type="line"/>
+      <point x="-410" y="830.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="-340.667" y="-410" type="line"/>
+      <point x="-301.333" y="-410" type="line"/>
+      <point x="-301.333" y="-232" type="line"/>
+      <point x="-340.667" y="-232" type="line"/>
+    </contour>
+    <contour>
+      <point x="-818" y="245.333" type="line"/>
+      <point x="-818" y="284.667" type="line"/>
+      <point x="-996" y="284.667" type="line"/>
+      <point x="-996" y="245.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="245.333" type="line"/>
+      <point x="354" y="284.667" type="line"/>
+      <point x="176" y="284.667" type="line"/>
+      <point x="176" y="245.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="-818" y="354" type="line"/>
+      <point x="-818" y="393.333" type="line"/>
+      <point x="-996" y="393.333" type="line"/>
+      <point x="-996" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="-818" y="136.667" type="line"/>
+      <point x="-818" y="176" type="line"/>
+      <point x="-996" y="176" type="line"/>
+      <point x="-996" y="136.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="136.667" type="line"/>
+      <point x="354" y="176" type="line"/>
+      <point x="176" y="176" type="line"/>
+      <point x="176" y="136.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="354" type="line"/>
+      <point x="354" y="393.333" type="line"/>
+      <point x="176" y="393.333" type="line"/>
+      <point x="176" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="-449.333" y="-410" type="line"/>
+      <point x="-410" y="-410" type="line"/>
+      <point x="-410" y="-232" type="line"/>
+      <point x="-449.333" y="-232" type="line"/>
+    </contour>
+    <contour>
+      <point x="-232" y="-410" type="line"/>
+      <point x="-192.667" y="-410" type="line"/>
+      <point x="-192.667" y="-232" type="line"/>
+      <point x="-232" y="-232" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

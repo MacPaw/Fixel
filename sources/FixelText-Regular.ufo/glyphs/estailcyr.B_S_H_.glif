@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estailcyr.BSH" format="2">
+  <advance width="541"/>
+  <unicode hex="F53F"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="296" y="520" name="top"/>
+  <outline>
+    <component base="c"/>
+    <contour>
+      <point x="285" y="21" type="curve"/>
+      <point x="251" y="0" type="line"/>
+      <point x="277" y="-13"/>
+      <point x="294" y="-36"/>
+      <point x="294" y="-57" type="curve"/>
+      <point x="268" y="-57"/>
+      <point x="251" y="-75"/>
+      <point x="251" y="-100.628" type="curve" smooth="yes"/>
+      <point x="251" y="-127"/>
+      <point x="269" y="-145"/>
+      <point x="295.454" y="-145" type="curve" smooth="yes"/>
+      <point x="326" y="-145"/>
+      <point x="346" y="-121"/>
+      <point x="346" y="-85.5898" type="curve" smooth="yes"/>
+      <point x="346" y="-46"/>
+      <point x="321" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>c</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

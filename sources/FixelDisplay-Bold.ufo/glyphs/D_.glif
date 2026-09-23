@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="2">
+  <advance width="723"/>
+  <unicode hex="0044"/>
+  <anchor x="351.2" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="76.6" y="0" type="line"/>
+      <point x="317.2" y="0" type="line" smooth="yes"/>
+      <point x="536.6" y="0"/>
+      <point x="684.2" y="142.6"/>
+      <point x="684.2" y="343.6" type="curve" smooth="yes"/>
+      <point x="684.2" y="361.8" type="line" smooth="yes"/>
+      <point x="684.2" y="561.4"/>
+      <point x="536" y="700"/>
+      <point x="317.2" y="700" type="curve" smooth="yes"/>
+      <point x="76.6" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="232.8" y="136" type="line"/>
+      <point x="232.8" y="564" type="line"/>
+      <point x="319.6" y="564" type="line" smooth="yes"/>
+      <point x="445.6" y="564"/>
+      <point x="522" y="482.6"/>
+      <point x="522" y="361" type="curve" smooth="yes"/>
+      <point x="522" y="345" type="line" smooth="yes"/>
+      <point x="522" y="222.4"/>
+      <point x="446" y="136"/>
+      <point x="319.6" y="136" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

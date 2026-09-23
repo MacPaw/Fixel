@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tse-cy" format="2">
+  <advance width="719"/>
+  <unicode hex="0426"/>
+  <anchor x="356" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="653" y="-135" type="line"/>
+      <point x="673" y="-135" type="line"/>
+      <point x="673" y="19" type="line"/>
+      <point x="602" y="19" type="line"/>
+      <point x="602" y="700" type="line"/>
+      <point x="582" y="700" type="line"/>
+      <point x="582" y="19" type="line"/>
+      <point x="130" y="19" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="110" y="700" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="653" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Д</string>
+  </dict>
+  </lib>
+</glyph>

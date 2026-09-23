@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emsharptailcyr" format="2">
+  <advance width="875"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <contour>
+      <point x="82.4" y="0" type="line"/>
+      <point x="210.4" y="0" type="line"/>
+      <point x="210.4" y="542.4" type="line"/>
+      <point x="217.4" y="542.4" type="line"/>
+      <point x="375.2" y="95.2" type="line"/>
+      <point x="477.6" y="95.2" type="line"/>
+      <point x="635.8" y="542.4" type="line"/>
+      <point x="642.8" y="542.4" type="line"/>
+      <point x="642.8" y="0" type="line"/>
+      <point x="770.8" y="0" type="line"/>
+      <point x="770.8" y="700" type="line"/>
+      <point x="583" y="700" type="line"/>
+      <point x="429.6" y="263.2" type="line"/>
+      <point x="423.2" y="263.2" type="line"/>
+      <point x="269.6" y="700" type="line"/>
+      <point x="82.4" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="674.6" y="-135" type="line"/>
+      <point x="795.8" y="-135" type="line"/>
+      <point x="853.4" y="116" type="line"/>
+      <point x="725.8" y="116" type="line"/>
+      <point x="770.8" y="0" type="line"/>
+      <point x="702" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ensharptailcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

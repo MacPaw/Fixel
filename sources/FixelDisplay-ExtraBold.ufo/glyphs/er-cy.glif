@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="er-cy" format="2">
+  <advance width="676"/>
+  <unicode hex="0440"/>
+  <anchor x="335.6" y="520" name="top"/>
+  <anchor x="343.6" y="520" name="top.1"/>
+  <outline>
+    <component base="p"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>p</string>
+  </dict>
+  </lib>
+</glyph>

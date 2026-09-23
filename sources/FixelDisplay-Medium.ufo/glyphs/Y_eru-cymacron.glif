@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yeru-cymacron" format="2">
+  <advance width="863"/>
+  <unicode hex="F520"/>
+  <anchor x="431.6" y="520" name="top"/>
+  <outline>
+    <component base="Yeru-cy"/>
+    <component base="macron.case" xScale="1" xOffset="598.4" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ы+macron.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

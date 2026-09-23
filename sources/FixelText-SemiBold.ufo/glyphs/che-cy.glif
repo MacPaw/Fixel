@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="che-cy" format="2">
+  <advance width="548"/>
+  <unicode hex="0447"/>
+  <anchor x="264.6" y="520" name="top"/>
+  <anchor x="264.6" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="353.8" y="0" type="line"/>
+      <point x="477.8" y="0" type="line"/>
+      <point x="477.8" y="520" type="line"/>
+      <point x="353.8" y="520" type="line"/>
+      <point x="353.8" y="291.2" type="line"/>
+      <point x="322.2" y="277.8"/>
+      <point x="285.6" y="271"/>
+      <point x="249.2" y="271" type="curve" smooth="yes"/>
+      <point x="196" y="271"/>
+      <point x="173" y="297.2"/>
+      <point x="173" y="352.6" type="curve" smooth="yes"/>
+      <point x="173" y="520" type="line"/>
+      <point x="51" y="520" type="line"/>
+      <point x="51" y="337.2" type="line" smooth="yes"/>
+      <point x="51" y="230.8"/>
+      <point x="110" y="170"/>
+      <point x="224.6" y="170" type="curve" smooth="yes"/>
+      <point x="265.8" y="170"/>
+      <point x="311" y="179"/>
+      <point x="353.8" y="194" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  </dict>
+  </lib>
+</glyph>

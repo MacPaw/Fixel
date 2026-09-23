@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent.ss01" format="2">
+  <advance width="715"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <outline>
+    <component base="K.ss01"/>
+    <component base="commaaccentcomb" xOffset="465"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>K.ss01+commaaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

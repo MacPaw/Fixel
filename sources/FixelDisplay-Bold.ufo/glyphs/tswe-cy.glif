@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tswe-cy" format="2">
+  <advance width="681"/>
+  <unicode hex="A68F"/>
+  <outline>
+    <contour>
+      <point x="564.6" y="59.6" type="line"/>
+      <point x="564.6" y="520" type="line"/>
+      <point x="415.6" y="520" type="line"/>
+      <point x="415.6" y="111.4" type="line"/>
+      <point x="216.2" y="111.4" type="line"/>
+      <point x="216.2" y="520" type="line"/>
+      <point x="67.2" y="520" type="line"/>
+      <point x="67.2" y="0" type="line"/>
+      <point x="392.8" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="392.8" y="0" type="line"/>
+      <point x="506.4" y="0"/>
+      <point x="555.6" y="-22"/>
+      <point x="555.6" y="-71.0515" type="curve" smooth="yes"/>
+      <point x="555.6" y="-119.4"/>
+      <point x="507.8" y="-139.2"/>
+      <point x="395.2" y="-139.2" type="curve" smooth="yes"/>
+      <point x="295.2" y="-139.2" type="line" smooth="yes"/>
+      <point x="257.8" y="-139.2"/>
+      <point x="242.4" y="-134.6"/>
+      <point x="242.4" y="-123.6" type="curve" smooth="yes"/>
+      <point x="242.4" y="-112.6"/>
+      <point x="257.8" y="-108"/>
+      <point x="295.2" y="-108" type="curve" smooth="yes"/>
+      <point x="436.6" y="-108" type="line"/>
+      <point x="436.6" y="-33.6" type="line"/>
+      <point x="312.4" y="-33.6" type="line" smooth="yes"/>
+      <point x="220.4" y="-33.6"/>
+      <point x="163.6" y="-68.2"/>
+      <point x="163.6" y="-123.907" type="curve" smooth="yes"/>
+      <point x="163.6" y="-180.2"/>
+      <point x="221.6" y="-215.6"/>
+      <point x="312.6" y="-215.6" type="curve" smooth="yes"/>
+      <point x="394.8" y="-215.6" type="line" smooth="yes"/>
+      <point x="569.6" y="-215.6"/>
+      <point x="665.2" y="-156.8"/>
+      <point x="665.2" y="-51.524" type="curve" smooth="yes"/>
+      <point x="665.2" y="53.2"/>
+      <point x="570.6" y="107.4"/>
+      <point x="386.8" y="107.4" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ш</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>shwe-cy</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

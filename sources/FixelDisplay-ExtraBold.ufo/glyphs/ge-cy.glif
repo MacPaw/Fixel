@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy" format="2">
+  <advance width="443"/>
+  <unicode hex="0433"/>
+  <anchor x="244.6" y="520" name="top"/>
+  <anchor x="244.6" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="59.6" y="0" type="line"/>
+      <point x="233.6" y="0" type="line"/>
+      <point x="233.6" y="385.2" type="line"/>
+      <point x="428.8" y="385.2" type="line"/>
+      <point x="428.8" y="520" type="line"/>
+      <point x="59.6" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>т</string>
+  </dict>
+  </lib>
+</glyph>

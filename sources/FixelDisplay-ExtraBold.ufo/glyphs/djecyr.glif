@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="djecyr" format="2">
+  <advance width="658"/>
+  <unicode hex="0452"/>
+  <outline>
+    <contour>
+      <point x="79.6" y="0" type="line"/>
+      <point x="253.6" y="0" type="line"/>
+      <point x="253.6" y="216.6" type="line" smooth="yes"/>
+      <point x="253.6" y="287.8"/>
+      <point x="287.6" y="317.6"/>
+      <point x="346.4" y="317.6" type="curve" name="&#x1f525;"/>
+      <point x="348.2" y="317.6" type="line"/>
+      <point x="404" y="317.6"/>
+      <point x="431.4" y="291"/>
+      <point x="431.4" y="219.6" type="curve" smooth="yes"/>
+      <point x="431.4" y="1.6" type="line" smooth="yes"/>
+      <point x="431.4" y="-46.4"/>
+      <point x="417" y="-64"/>
+      <point x="378" y="-64" type="curve" smooth="yes"/>
+      <point x="362.2" y="-64"/>
+      <point x="347.8" y="-60.8"/>
+      <point x="330.2" y="-53" type="curve"/>
+      <point x="330.2" y="-193.4" type="line"/>
+      <point x="365.6" y="-205.6"/>
+      <point x="403.6" y="-211.4"/>
+      <point x="435.8" y="-211.4" type="curve" smooth="yes"/>
+      <point x="547" y="-211.4"/>
+      <point x="605.4" y="-141.4"/>
+      <point x="605.4" y="-21.2" type="curve" smooth="yes"/>
+      <point x="605.4" y="258.2" type="line" smooth="yes"/>
+      <point x="605.4" y="384.2"/>
+      <point x="537.6" y="459.6"/>
+      <point x="421.6" y="459.6" type="curve" name="&#x1f525;.1"/>
+      <point x="420.2" y="459.6" type="line"/>
+      <point x="355.4" y="459.6"/>
+      <point x="297.6" y="436.6"/>
+      <point x="253.6" y="399.4" type="curve"/>
+      <point x="253.6" y="530" type="line"/>
+      <point x="405.8" y="530" type="line"/>
+      <point x="405.8" y="660" type="line"/>
+      <point x="253.6" y="660" type="line"/>
+      <point x="253.6" y="720" type="line"/>
+      <point x="79.6" y="720" type="line"/>
+      <point x="79.6" y="648" type="line"/>
+      <point x="91.4" y="661" type="line"/>
+      <point x="65.6" y="659.2"/>
+      <point x="32.2" y="652.2"/>
+      <point x="12" y="645.8" type="curve"/>
+      <point x="12" y="530" type="line"/>
+      <point x="79.6" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>hbar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>h</string>
+  </dict>
+  </lib>
+</glyph>

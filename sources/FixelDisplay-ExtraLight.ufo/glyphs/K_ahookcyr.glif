@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kahookcyr" format="2">
+  <advance width="634"/>
+  <unicode hex="04C3"/>
+  <outline>
+    <contour>
+      <point x="106.667" y="0" type="line"/>
+      <point x="146.667" y="0" type="line"/>
+      <point x="146.667" y="339" type="line"/>
+      <point x="224.667" y="345" type="line"/>
+      <point x="559.333" y="700" type="line"/>
+      <point x="507" y="700" type="line"/>
+      <point x="194" y="363.667" type="line"/>
+      <point x="146.667" y="363.667" type="line"/>
+      <point x="146.667" y="700" type="line"/>
+      <point x="106.667" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="315.667" y="-148.667" type="curve"/>
+      <point x="315.667" y="-186.333" type="line"/>
+      <point x="336.667" y="-191.667"/>
+      <point x="359.333" y="-195.333"/>
+      <point x="384" y="-195.333" type="curve" smooth="yes"/>
+      <point x="496.667" y="-195.333"/>
+      <point x="571.667" y="-118.333"/>
+      <point x="571.667" y="19.3333" type="curve" smooth="yes"/>
+      <point x="571.667" y="92.6667" type="line" smooth="yes"/>
+      <point x="571.667" y="273.667"/>
+      <point x="467" y="367"/>
+      <point x="280.667" y="367" type="curve" smooth="yes"/>
+      <point x="216.667" y="367" type="line"/>
+      <point x="212.333" y="363.667" type="line"/>
+      <point x="146.667" y="363.667" type="line"/>
+      <point x="146.667" y="328.333" type="line"/>
+      <point x="278" y="328.333" type="line" smooth="yes"/>
+      <point x="442" y="328.333"/>
+      <point x="531.667" y="251"/>
+      <point x="531.667" y="94" type="curve" smooth="yes"/>
+      <point x="531.667" y="25.3333" type="line" smooth="yes"/>
+      <point x="531.667" y="-95.6667"/>
+      <point x="470.667" y="-156.667"/>
+      <point x="379" y="-156.667" type="curve" smooth="yes"/>
+      <point x="354.667" y="-156.667"/>
+      <point x="335.333" y="-153"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>K</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Djecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

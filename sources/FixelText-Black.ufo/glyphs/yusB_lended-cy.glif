@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusBlended-cy" format="2">
+  <advance width="777"/>
+  <unicode hex="A65B"/>
+  <outline>
+    <contour>
+      <point x="603" y="60" type="line"/>
+      <point x="603" y="144" type="line"/>
+      <point x="204" y="144" type="line"/>
+      <point x="204" y="60" type="line"/>
+      <point x="301" y="60" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="487" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="264" y="151" type="line" smooth="yes"/>
+      <point x="271" y="178"/>
+      <point x="284" y="189"/>
+      <point x="302" y="189" type="curve" smooth="yes"/>
+      <point x="486" y="189" type="line" smooth="yes"/>
+      <point x="504" y="189"/>
+      <point x="517" y="178"/>
+      <point x="524" y="151" type="curve" smooth="yes"/>
+      <point x="566" y="0" type="line"/>
+      <point x="772" y="0" type="line"/>
+      <point x="697" y="174" type="line" smooth="yes"/>
+      <point x="657" y="267"/>
+      <point x="603" y="304"/>
+      <point x="515" y="304" type="curve" smooth="yes"/>
+      <point x="273" y="304" type="line" smooth="yes"/>
+      <point x="185" y="304"/>
+      <point x="131" y="267"/>
+      <point x="91" y="174" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="263" y="385" type="line"/>
+      <point x="525" y="385" type="line"/>
+      <point x="520" y="520" type="line"/>
+      <point x="268" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="520" type="line"/>
+      <point x="234" y="273" type="line"/>
+      <point x="392" y="297" type="line"/>
+      <point x="268" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="712" y="520" type="line"/>
+      <point x="520" y="520" type="line"/>
+      <point x="396" y="297" type="line"/>
+      <point x="554" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>yusbigcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>yusbigcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

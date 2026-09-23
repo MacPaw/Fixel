@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute.ss01" format="2">
+  <advance width="863"/>
+  <anchor x="432" y="517" name="top"/>
+  <outline>
+    <component base="W.ss01"/>
+    <component base="acute.case" xOffset="597" yOffset="-3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W.ss01+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

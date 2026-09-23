@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute.ss01" format="2">
+  <advance width="668"/>
+  <anchor x="652" y="0" name="bottom"/>
+  <anchor x="379" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.8" y="0" type="curve"/>
+      <point x="161.8" y="0" type="line"/>
+      <point x="161.8" y="49"/>
+      <point x="168.8" y="98.2"/>
+      <point x="179.8" y="146.4" type="curve"/>
+      <point x="450.8" y="146.4" type="line"/>
+      <point x="487.8" y="0" type="line"/>
+      <point x="652" y="0" type="line"/>
+      <point x="462.8" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="122.2" y="473.8"/>
+      <point x="0.8" y="233.8"/>
+    </contour>
+    <contour>
+      <point x="215" y="274.6" type="line"/>
+      <point x="249.4" y="359.6"/>
+      <point x="297.8" y="458.2"/>
+      <point x="342.8" y="532.4" type="curve"/>
+      <point x="356.2" y="532.4" type="line"/>
+      <point x="418.8" y="274.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="441.8" y="756.8" type="line"/>
+      <point x="516.6" y="909" type="line"/>
+      <point x="378" y="909" type="line"/>
+      <point x="322.2" y="756.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A.ss01+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

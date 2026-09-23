@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF533" format="2">
+  <advance width="606"/>
+  <unicode hex="F533"/>
+  <outline>
+    <contour>
+      <point x="151" y="720" type="line"/>
+      <point x="151" y="637"/>
+      <point x="211" y="582"/>
+      <point x="303" y="582" type="curve" smooth="yes"/>
+      <point x="395" y="582"/>
+      <point x="454" y="637"/>
+      <point x="454" y="720" type="curve"/>
+      <point x="382" y="720" type="line"/>
+      <point x="382" y="673"/>
+      <point x="351" y="642"/>
+      <point x="303" y="642" type="curve" smooth="yes"/>
+      <point x="255" y="642"/>
+      <point x="223" y="673"/>
+      <point x="223" y="720" type="curve"/>
+    </contour>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="437" y="394" type="line"/>
+      <point x="447" y="394" type="line"/>
+      <point x="447" y="-32" type="line" smooth="yes"/>
+      <point x="447" y="-98"/>
+      <point x="424" y="-124"/>
+      <point x="364" y="-124" type="curve" smooth="yes"/>
+      <point x="341" y="-124"/>
+      <point x="321" y="-120"/>
+      <point x="305" y="-113" type="curve"/>
+      <point x="305" y="-179" type="line"/>
+      <point x="330" y="-192"/>
+      <point x="368" y="-197"/>
+      <point x="391" y="-197" type="curve" smooth="yes"/>
+      <point x="469" y="-197"/>
+      <point x="521" y="-138"/>
+      <point x="521" y="-50" type="curve" smooth="yes"/>
+      <point x="521" y="520" type="line"/>
+      <point x="445" y="520" type="line"/>
+      <point x="169" y="131" type="line"/>
+      <point x="159" y="131" type="line"/>
+      <point x="159" y="520" type="line"/>
+      <point x="85" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>com.fontlab.recipe</key>
+  <string>й+enhookcyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

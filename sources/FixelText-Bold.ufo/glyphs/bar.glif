@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="265"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="63.6" y="-190" type="line"/>
+      <point x="201.2" y="-190" type="line"/>
+      <point x="201.2" y="720" type="line"/>
+      <point x="63.6" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H-10</string>
+  </dict>
+  </lib>
+</glyph>

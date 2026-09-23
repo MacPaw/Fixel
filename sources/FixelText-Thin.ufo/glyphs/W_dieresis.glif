@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="2">
+  <advance width="913"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="453" y="681" type="line"/>
+      <point x="460" y="681" type="line"/>
+      <point x="647" y="0" type="line"/>
+      <point x="685" y="0" type="line"/>
+      <point x="863" y="700" type="line"/>
+      <point x="842" y="700" type="line"/>
+      <point x="669" y="19" type="line"/>
+      <point x="663" y="19" type="line"/>
+      <point x="476" y="700" type="line"/>
+      <point x="437" y="700" type="line"/>
+      <point x="250" y="19" type="line"/>
+      <point x="244" y="19" type="line"/>
+      <point x="71" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="810" type="curve" smooth="yes"/>
+      <point x="369" y="795"/>
+      <point x="379" y="786"/>
+      <point x="394" y="786" type="curve" smooth="yes"/>
+      <point x="409" y="786"/>
+      <point x="419" y="795"/>
+      <point x="419" y="810" type="curve" smooth="yes"/>
+      <point x="419" y="824"/>
+      <point x="409" y="833"/>
+      <point x="394" y="833" type="curve" smooth="yes"/>
+      <point x="379" y="833"/>
+      <point x="369" y="824"/>
+    </contour>
+    <contour>
+      <point x="492" y="810" type="curve" smooth="yes"/>
+      <point x="492" y="795"/>
+      <point x="502" y="786"/>
+      <point x="517" y="786" type="curve" smooth="yes"/>
+      <point x="532" y="786"/>
+      <point x="542" y="795"/>
+      <point x="542" y="810" type="curve" smooth="yes"/>
+      <point x="542" y="824"/>
+      <point x="532" y="833"/>
+      <point x="517" y="833" type="curve" smooth="yes"/>
+      <point x="502" y="833"/>
+      <point x="492" y="824"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>W+dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

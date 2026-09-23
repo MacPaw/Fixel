@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DzeReversed-cy" format="2">
+  <advance width="605"/>
+  <unicode hex="A644"/>
+  <anchor x="301.8" y="0" name="bottom"/>
+  <anchor x="296.8" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="295.8" y="-11.8" type="curve" smooth="yes"/>
+      <point x="145.6" y="-11.8"/>
+      <point x="30.4" y="60.6"/>
+      <point x="30.4" y="195.8" type="curve" smooth="yes"/>
+      <point x="30.4" y="334"/>
+      <point x="153.2" y="381"/>
+      <point x="276.2" y="414" type="curve" smooth="yes"/>
+      <point x="351.8" y="435"/>
+      <point x="413.2" y="451.8"/>
+      <point x="413.2" y="504" type="curve" smooth="yes"/>
+      <point x="413.2" y="545.8"/>
+      <point x="378.8" y="571"/>
+      <point x="322.4" y="571" type="curve" smooth="yes"/>
+      <point x="263.6" y="571"/>
+      <point x="188.2" y="546.2"/>
+      <point x="137" y="501.4" type="curve"/>
+      <point x="59.2" y="626" type="line"/>
+      <point x="131.4" y="682"/>
+      <point x="220.4" y="713"/>
+      <point x="325.2" y="713" type="curve" smooth="yes"/>
+      <point x="448.6" y="713"/>
+      <point x="564.8" y="647.6"/>
+      <point x="564.8" y="512.2" type="curve" smooth="yes"/>
+      <point x="564.8" y="369"/>
+      <point x="435.8" y="325.4"/>
+      <point x="321.8" y="292.8" type="curve" smooth="yes"/>
+      <point x="249.2" y="271.8"/>
+      <point x="187" y="253.6"/>
+      <point x="187" y="199.2" type="curve" smooth="yes"/>
+      <point x="187" y="156.4"/>
+      <point x="223.8" y="130.6"/>
+      <point x="288.4" y="130.6" type="curve" smooth="yes"/>
+      <point x="359.6" y="130.6"/>
+      <point x="443.2" y="157.8"/>
+      <point x="503.6" y="211.4" type="curve"/>
+      <point x="578.4" y="86.2" type="line"/>
+      <point x="502" y="22"/>
+      <point x="403.2" y="-11.8"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>S</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

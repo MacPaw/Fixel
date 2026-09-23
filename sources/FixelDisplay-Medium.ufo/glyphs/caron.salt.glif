@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.salt" format="2">
+  <anchor x="-204.6" y="517" name="_right"/>
+  <outline>
+    <contour>
+      <point x="-135.8" y="559" type="line"/>
+      <point x="-67.8" y="559" type="line"/>
+      <point x="-32.2" y="720" type="line"/>
+      <point x="-123.8" y="720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

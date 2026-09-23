@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U-cy.ss01" format="2">
+  <advance width="549"/>
+  <anchor x="286.667" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="173" y="-8" type="curve" smooth="yes"/>
+      <point x="256" y="-8"/>
+      <point x="301" y="57"/>
+      <point x="336" y="122.333" type="curve" smooth="yes"/>
+      <point x="428.333" y="292.667"/>
+      <point x="497.333" y="598.667"/>
+      <point x="497.333" y="700" type="curve"/>
+      <point x="457.667" y="700" type="line"/>
+      <point x="457.667" y="612.667"/>
+      <point x="406.333" y="352.667"/>
+      <point x="324" y="183" type="curve"/>
+      <point x="315.667" y="183" type="line"/>
+      <point x="65.6667" y="700" type="line"/>
+      <point x="21.6667" y="700" type="line"/>
+      <point x="297.667" y="131" type="line"/>
+      <point x="270" y="81"/>
+      <point x="232" y="29.6667"/>
+      <point x="168.333" y="29.6667" type="curve" smooth="yes"/>
+      <point x="148.667" y="29.6667"/>
+      <point x="123.333" y="34.3333"/>
+      <point x="103.333" y="40.6667" type="curve"/>
+      <point x="103.333" y="3" type="line"/>
+      <point x="123" y="-3.66667"/>
+      <point x="150.667" y="-8"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="719"/>
+  <unicode hex="0149"/>
+  <outline>
+    <component base="n" xOffset="112"/>
+    <component base="quoteright" xOffset="-32.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+  <array>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>n</string>
+    </dict>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>1</integer>
+      <key>name</key>
+      <string>quoteright</string>
+    </dict>
+  </array>
+  <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccircumflex" format="2">
+  <advance width="548"/>
+  <unicode hex="0109"/>
+  <anchor x="293.667" y="0" name="bottom"/>
+  <anchor x="297" y="520" name="top"/>
+  <anchor x="297" y="520" name="top.1"/>
+  <outline>
+    <component base="c"/>
+    <component base="circumflex" xOffset="490.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

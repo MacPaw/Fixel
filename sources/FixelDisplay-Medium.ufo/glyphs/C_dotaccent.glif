@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="680"/>
+  <unicode hex="010A"/>
+  <anchor x="379" y="0" name="bottom"/>
+  <anchor x="384.6" y="520" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="dotaccent.case" xOffset="537.8" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C+dotaccent.case</string>
+  </dict>
+  </lib>
+</glyph>

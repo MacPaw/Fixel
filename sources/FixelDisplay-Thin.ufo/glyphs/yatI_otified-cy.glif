@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yatIotified-cy" format="2">
+  <advance width="684"/>
+  <unicode hex="A653"/>
+  <outline>
+    <contour>
+      <point x="275" y="639" type="line"/>
+      <point x="275" y="520" type="line"/>
+      <point x="95" y="520" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="501" type="line"/>
+      <point x="275" y="501" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="462" y="0" type="line" smooth="yes"/>
+      <point x="566" y="0"/>
+      <point x="639" y="63"/>
+      <point x="639" y="155" type="curve" smooth="yes"/>
+      <point x="639" y="163" type="line" smooth="yes"/>
+      <point x="639" y="255"/>
+      <point x="566" y="318"/>
+      <point x="462" y="318" type="curve" smooth="yes"/>
+      <point x="295" y="318" type="line"/>
+      <point x="295" y="501" type="line"/>
+      <point x="492" y="501" type="line"/>
+      <point x="492" y="520" type="line"/>
+      <point x="295" y="520" type="line"/>
+      <point x="295" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="19" type="line"/>
+      <point x="295" y="299" type="line"/>
+      <point x="462" y="299" type="line" smooth="yes"/>
+      <point x="556" y="299"/>
+      <point x="619" y="244"/>
+      <point x="619" y="164" type="curve" smooth="yes"/>
+      <point x="619" y="154" type="line" smooth="yes"/>
+      <point x="619" y="74"/>
+      <point x="556" y="19"/>
+      <point x="462" y="19" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>yatcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

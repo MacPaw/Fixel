@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent.case" format="2">
+  <anchor x="-163.8" y="517" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-165" y="764" type="curve" smooth="yes"/>
+      <point x="-113.6" y="764"/>
+      <point x="-78.4" y="794.6"/>
+      <point x="-78.4" y="838.8" type="curve" smooth="yes"/>
+      <point x="-78.4" y="883.6"/>
+      <point x="-113.6" y="914"/>
+      <point x="-165" y="914" type="curve" smooth="yes"/>
+      <point x="-214.6" y="914"/>
+      <point x="-248.8" y="883.6"/>
+      <point x="-248.8" y="838.8" type="curve" smooth="yes"/>
+      <point x="-248.8" y="794.6"/>
+      <point x="-214.6" y="764"/>
+    </contour>
+  </outline>
+</glyph>

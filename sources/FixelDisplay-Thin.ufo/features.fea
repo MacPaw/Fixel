@@ -1,0 +1,573 @@
+#> classes
+#/> otclasses
+@ss01_def = [A-cy A AE Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Em-cy Eng G Gacute Gbreve Gcircumflex Gcommaaccent Gdotaccent Ha-cy Ia-cy J Jcircumflex K Ka-cy Kcommaaccent M N Nacute Ncaron Ncommaaccent Ntilde Q U-cy Ushort-cy V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent Zhe-cy a-cy a aacute abreve acircumflex adieresis ae agrave amacron aogonek aring arrowdown arrowdown.case arrowleft arrowleft.case arrowright arrowright.case arrowup arrowup.case atilde b d dcaron dcroat de-cy e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave el-cy emacron eogonek er-cy f f_f f_f_i f_f_l fi fl g gacute gbreve gcircumflex gcommaaccent gdotaccent germandbls hardsign-cy ia-cy ie-cy io-cy l lacute lcaron lcommaaccent ldot ljecyr lslash njecyr numero oe p q softsign-cy t tbar tcaron tcedilla tcommaaccent te-cy ve-cy yen yeru-cy];
+@ss01 = [A-cy.ss01 A.ss01 AE.ss01 Aacute.ss01 Abreve.ss01 Acircumflex.ss01 Adieresis.ss01 Agrave.ss01 Amacron.ss01 Aogonek.ss01 Aring.ss01 Atilde.ss01 Em-cy.ss01 Eng.ss01 G.ss01 Gacute.ss01 Gbreve.ss01 Gcircumflex.ss01 Gcommaaccent.ss01 Gdotaccent.ss01 Ha-cy.ss01 Ia-cy.ss01 J.ss01 Jcircumflex.ss01 K.ss01 Ka-cy.ss01 Kcommaaccent.ss01 M.ss01 N.ss01 Nacute.ss01 Ncaron.ss01 Ncommaaccent.ss01 Ntilde.ss01 Q.ss01 U-cy.ss01 Ushort-cy.ss01 V.ss01 W.ss01 Wacute.ss01 Wcircumflex.ss01 Wdieresis.ss01 Wgrave.ss01 X.ss01 Y.ss01 Yacute.ss01 Ycircumflex.ss01 Ydieresis.ss01 Z.ss01 Zacute.ss01 Zcaron.ss01 Zdotaccent.ss01 Zhe-cy.ss01 a-cy.ss01 a.ss01 aacute.ss01 abreve.ss01 acircumflex.ss01 adieresis.ss01 ae.ss01 agrave.ss01 amacron.ss01 aogonek.ss01 aring.ss01 arrowdown.ss01 arrowdown.ss01.case arrowleft.ss01 arrowleft.ss01.case arrowright.ss01 arrowright.ss01.case arrowup.ss01 arrowup.ss01.case atilde.ss01 b.ss01 d.ss01 dcaron.ss01 dcroat.ss01 de-cy.ss01 e.ss01 eacute.ss01 ebreve.ss01 ecaron.ss01 ecircumflex.ss01 edieresis.ss01 edotaccent.ss01 egrave.ss01 el-cy.ss01 emacron.ss01 eogonek.ss01 er-cy.ss01 f.ss01 f_f.ss01 f_f_i.ss01 f_f_l.ss01 fi.ss01 fl.ss01 g.ss01 gacute.ss01 gbreve.ss01 gcircumflex.ss01 gcommaaccent.ss01 gdotaccent.ss01 germandbls.ss01 hardsign-cy.ss01 ia-cy.ss01 ie-cy.ss01 io-cy.ss01 l.ss01 lacute.ss01 lcaron.ss01 lcommaaccent.ss01 ldot.ss01 ljecyr.ss01 lslash.ss01 njecyr.ss01 numero.ss01 oe.ss01 p.ss01 q.ss01 softsign-cy.ss01 t.ss01 tbar.ss01 tcaron.ss01 tcedilla.ss01 tcommaaccent.ss01 te-cy.ss01 ve-cy.ss01 yen.ss01 yeru-cy.ss01];
+@case = [arrowdown.case arrowdown.ss01.case arrowleft.case arrowleft.ss01.case arrowright.case arrowright.ss01.case arrowup.case arrowup.ss01.case backslash.case bar.case braceleft.case braceright.case bracketleft.case bracketright.case brokenbar.case bullet.case colon.case emdash.case endash.case exclamdown.case guillemetleft.case guillemetright.case guilsinglleft.case guilsinglright.case hyphen.case parenleft.case parenright.case questiondown.case semicolon.case at.case bracketangleleft.case bracketangleright.case slash.case];
+@case_def = [arrowdown arrowdown.ss01 arrowleft arrowleft.ss01 arrowright arrowright.ss01 arrowup arrowup.ss01 backslash bar braceleft braceright bracketleft bracketright brokenbar bullet colon emdash endash exclamdown guillemetleft guillemetright guilsinglleft guilsinglright hyphen parenleft parenright questiondown semicolon at bracketangleleft bracketangleright slash];
+@cpsp = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcedilla Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Schwa Acaron Gacute AEacute Oslashacute Scommaaccent Tcommaaccent Delta Omega Iegravecyr uniF43A A-cy.accented E-cy.accented Ii-cy.accented O-cy.accented U-cy.accented Yeru-cy.accented Ereversed-cy.accented Iu-cy.accented Ia-cy.accented Io-cy.accented uniF498 uniF49A uniF49C uniF49E uniF4C6 uniF4CC uniF4D2 uniF4D4 uniF4D6 uniF4D8 uniF50E uniF510 uniF512 uniF514 uniF516 uniF518 uniF51A uniF51C uniF51E Yeru-cymacron uniF522 uniF524 uniF526 uniF528 uniF52A uniF52C uniF52E uniF532 uniF536 uniF538 uniF830 uniF833 uniF839 uniF86F uniF872 uniF875 uniF878 uniF87B uniF87E Io-cy Djecyr Gjecyr E-cy Dze-cy I-cy Yi-cy Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushort-cy Dzhecyr A-cy Be-cy Ve-cy Ge-cy De-cy Ie-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Hardsign-cy Yeru-cy Softsign-cy Ereversed-cy Iu-cy Ia-cy Omegacyr Yatcyr Eiotifiedcyr Yuslittlecyr Yuslittleiotifiedcyr Yusbigcyr Yusbigiotifiedcyr Ksicyr Psicyr Fitacyr Izhitsacyr Izhitsagravedblcyr Ukcyr Omegaroundcyr Omegatitlocyr Otcyr Koppacyr Ishortsharptailcyr Semisoftcyr Ertickcyr Gheupturn-cy Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Pehookcyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Elsharptailcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Dekomicyr Djekomicyr Zjekomicyr Dzjekomicyr Ljekomicyr Njekomicyr Sjekomicyr Tjekomicyr Reversedzecyr Elhookcyr Lhacyr Rhacyr Yaecyr Qacyr Wecyr Kaaleutcyr Elmiddlehookcyr Enmiddlehookcyr Petailcyr Shhatailcyr Enhookleftcyr Dzzhecyr Dchecyr Eltailcyr Wgrave Wacute Wdieresis Germandbls uni1EBC Zemlya-cy Dzelo-cy DzeReversed-cy Iota-cy Djerv-cy UkMonograph-cy OmegaBroad-cy YerNeutral-cy YeruBackYer-cy YatIotified-cy YuReversed-cy IotifiedA-cy YusClosedlittle-cy YusBlended-cy YusiotifiedClosedLittle-cy Yn-cy TseReversed-cy DeSoft-cy ElSoft-cy EmSoft-cy OMonocular-cy OBinocular-cy ODoubleMonocular-cy Dwe-cy Dzwe-cy Zhwe-cy Cche-cy Dzze-cy TeWithMiddleHook-cy Twe-cy Tswe-cy Tsse-cy Tche-cy Hwe-cy Shwe-cy DoubleO-cy CrossedO-cy A-cy.ss01 A.ss01 AE.ss01 Aacute.ss01 Abreve.ss01 Acircumflex.ss01 Adieresis.ss01 Agrave.ss01 Amacron.ss01 Aogonek.ss01 Aring.ss01 Atilde.ss01 Em-cy.ss01 Eng.ss01 G.ss01 Gacute.ss01 Gbreve.ss01 Gcircumflex.ss01 Gcommaaccent.ss01 Gdotaccent.ss01 Ha-cy.ss01 Ia-cy.ss01 J.ss01 Jcircumflex.ss01 K.ss01 Ka-cy.ss01 Kcommaaccent.ss01 M.ss01 N.ss01 Nacute.ss01 Ncaron.ss01 Ncommaaccent.ss01 Ntilde.ss01 Q.ss01 U-cy.ss01 Ushort-cy.ss01 V.ss01 W.ss01 Wacute.ss01 Wcircumflex.ss01 Wdieresis.ss01 Wgrave.ss01 X.ss01 Y.ss01 Yacute.ss01 Ycircumflex.ss01 Ydieresis.ss01 Z.ss01 Zacute.ss01 Zcaron.ss01 Zdotaccent.ss01 Zetailcyr.BSH Gestrokecyr.BSH Estailcyr.BSH Estailcyr.CHU Zhe-cy.ss01];
+@locl_BGR = [De-cy.BGR Ef-cy.BGR El-cy.BGR de-cy.BGR eiotifiedcyr.BGR el-cy.BGR ge-cy.BGR hardsign-cy.BGR ii-cy.BGR iishort-cy.BGR iotifieda-cy.BGR iu-cy.BGR ka-cy.BGR pe-cy.BGR sha-cy.BGR shcha-cy.BGR softsign-cy.BGR te-cy.BGR tse-cy.BGR ve-cy.BGR yatcyr.BGR yusbigiotifiedcyr.BGR ze-cy.BGR zhe-cy.BGR];
+@locl_def = [De-cy Ef-cy El-cy de-cy eiotifiedcyr el-cy ge-cy hardsign-cy ii-cy iishort-cy iotifieda-cy iu-cy ka-cy pe-cy sha-cy shcha-cy softsign-cy te-cy tse-cy ve-cy yatcyr yusbigiotifiedcyr ze-cy zhe-cy];
+@locl.SRB = [be-cy.SRB iegravecyr.SRB igravecyr.SRB];
+@loclSRB_def = [be-cy iegravecyr igravecyr];
+@accent = [grave acute.case grave.case acute];
+@pics = [neptune leo virgo bishopwhite knightwhite rookblack bishopblack knightblack heartwhite diamondwhite-misc spadewhite heart clubwhite crossedswords flower floretteblack florettewhite floretteoutlinedpetalledblackeight];
+@pics_def = [A B C D E F G H I J K L M N O P Q R];
+#/< otclasses
+
+#/> tags
+@tag.omultiocular-cy.alt = [omultiocular-cy];
+@tag.yi-cy_yi-cy.alt = [uniE000];
+#/< tags
+#< classes
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gacute Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent A.ss01 Aacute.ss01 Abreve.ss01 Acircumflex.ss01 Adieresis.ss01 Agrave.ss01 Amacron.ss01 Aogonek.ss01 Aring.ss01 Atilde.ss01 AE.ss01 G.ss01 Gacute.ss01 Gbreve.ss01 Gcircumflex.ss01 Gcommaaccent.ss01 Gdotaccent.ss01 J.ss01 Jcircumflex.ss01 K.ss01 Kcommaaccent.ss01 M.ss01 N.ss01 Nacute.ss01 Ncaron.ss01 Ncommaaccent.ss01 Eng.ss01 Ntilde.ss01 Q.ss01 V.ss01 W.ss01 Wacute.ss01 Wcircumflex.ss01 Wdieresis.ss01 Wgrave.ss01 X.ss01 Y.ss01 Yacute.ss01 Ycircumflex.ss01 Ydieresis.ss01 Z.ss01 Zacute.ss01 Zcaron.ss01 Zdotaccent.ss01 A-cy Be-cy Ve-cy Ge-cy Gheupturn-cy De-cy Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Softsign-cy Hardsign-cy Yeru-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Iu-cy Ia-cy A-cy.ss01 Zhe-cy.ss01 Ka-cy.ss01 Em-cy.ss01 U-cy.ss01 Ushort-cy.ss01 Ha-cy.ss01 Ia-cy.ss01 ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+languagesystem cyrl dflt;
+languagesystem cyrl BGR;
+languagesystem cyrl BSH;
+languagesystem cyrl CHU;
+languagesystem cyrl SRB;
+languagesystem cyrl MKD;
+
+lookup liga_accent {
+  sub @accent by [grave grave grave grave];
+} liga_accent;
+feature aalt {
+# Access All Alternates
+
+#> feature
+  feature locl;
+  feature sups;
+  feature case;
+  feature lnum;
+  feature pnum;
+  feature tnum;
+  feature onum;
+  feature salt;
+  feature ss01;
+  feature hist;
+#< feature
+} aalt;
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@Markscomb = [dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron];
+	@MarkscombCase = [dieresis.case dotaccent.case grave.case acute.case hungarumlaut.case circumflex.case caron.case breve.case ring.case tilde.case macron.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @cpsp @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+} ccmp;
+
+feature locl {
+# automatic
+
+script latn;
+	language ROM;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+
+script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+
+script cyrl; # Cyrillic
+    language SRB ; # Serbian
+
+    lookup locl_SRB_MCD {
+    # GSUB lookup 20, type 11 (Single)
+	    sub @loclSRB_def by @locl.SRB;
+    } locl_SRB_MCD;
+
+    language MKD ; # Serbian
+    lookup locl_SRB_MCD;
+
+    language BSH ; # Bashkir
+    sub [Gestrokecyr gestrokecyr Zetailcyr zetailcyr] by [Gestrokecyr.BSH gestrokecyr.BSH Zetailcyr.BSH zetailcyr.BSH];
+    sub [Estailcyr estailcyr] by [Estailcyr.BSH estailcyr.BSH];
+
+    language CHU ; # Chuvash
+    sub [Estailcyr estailcyr] by [Estailcyr.CHU estailcyr.CHU];
+
+    language BGR ; # Bulgarian
+    sub @locl_def by @locl_BGR;
+
+} locl;
+
+feature sups {
+# Superscript
+
+#> feature
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+#< feature
+} sups;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by numero;
+#< feature
+} ordn;
+feature case {
+# Case Sensitive Forms
+
+#> feature
+
+  sub @case_def by @case;
+
+#< feature
+} case;
+feature liga {
+# Standard Ligatures
+
+#> feature
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+sub yi-cy yi-cy by uniE000;
+sub hyphen greater by arrowright;
+sub less hyphen by arrowleft;
+sub backslash bar slash by arrowdown;
+sub slash bar backslash by arrowup;
+
+  lookup accent_2 {
+    sub E-cy @accent' lookup liga_accent;
+    sub I-cy @accent' lookup liga_accent;
+    sub Yi-cy @accent' lookup liga_accent;
+    sub A-cy @accent' lookup liga_accent;
+    sub Ie-cy @accent' lookup liga_accent;
+    sub Ii-cy @accent' lookup liga_accent;
+    sub O-cy @accent' lookup liga_accent;
+    sub U-cy @accent' lookup liga_accent;
+    sub Yeru-cy @accent' lookup liga_accent;
+    sub Ereversed-cy @accent' lookup liga_accent;
+    sub Iu-cy @accent' lookup liga_accent;
+    sub Ia-cy @accent' lookup liga_accent;
+    sub Io-cy @accent' lookup liga_accent;
+    sub Yatcyr @accent' lookup liga_accent;
+
+    sub e-cy @accent' lookup liga_accent;
+    sub i-cy @accent' lookup liga_accent;
+    sub yi-cy @accent' lookup liga_accent;
+    sub a-cy @accent' lookup liga_accent;
+    sub ie-cy @accent' lookup liga_accent;
+    sub ii-cy @accent' lookup liga_accent;
+    sub o-cy @accent' lookup liga_accent;
+    sub u-cy @accent' lookup liga_accent;
+    sub yeru-cy @accent' lookup liga_accent;
+    sub ereversed-cy @accent' lookup liga_accent;
+    sub iu-cy @accent' lookup liga_accent;
+    sub ia-cy @accent' lookup liga_accent;
+    sub io-cy @accent' lookup liga_accent;
+    sub yatcyr @accent' lookup liga_accent;
+  } accent_2;
+
+  lookup accent_3 {
+    sub E-cy grave by uniF45D;
+    sub I-cy grave by uniF45E;
+    sub Yi-cy grave by uniF45F;
+    sub A-cy grave by A-cy.accented;
+    sub Ie-cy grave by E-cy.accented;
+    sub Ii-cy grave by Ii-cy.accented;
+    sub O-cy grave by O-cy.accented;
+    sub U-cy grave by U-cy.accented;
+    sub Yeru-cy grave by Yeru-cy.accented;
+    sub Ereversed-cy grave by Ereversed-cy.accented;
+    sub Iu-cy grave by Iu-cy.accented;
+    sub Ia-cy grave by Ia-cy.accented;
+    sub Io-cy grave by Io-cy.accented;
+    sub Yatcyr grave by uniF478;
+
+    sub e-cy grave by uniF475;
+    sub i-cy grave by uniF476;
+    sub yi-cy grave by uniF477;
+    sub a-cy grave by a-cy.accented;
+    sub ie-cy grave by e-cy.accented;
+    sub ii-cy grave by ii-cy.accented;
+    sub o-cy grave by o-cy.accented;
+    sub u-cy grave by u-cy.accented;
+    sub yeru-cy grave by yeru-cy.accented;
+    sub ereversed-cy grave by ereversed-cy.accented;
+    sub iu-cy grave by iu-cy.accented;
+    sub ia-cy grave by ia-cy.accented;
+    sub io-cy grave by io-cy.accented;
+    sub yatcyr grave by uniF479;
+  } accent_3;
+
+#< feature
+} liga;
+feature dlig {
+# Discretionary Ligatures
+
+#> feature
+
+sub M a c P a w l o g o by uniE01A;
+sub M P a w l o g o by uniE01A;
+sub M P l o g o by uniE01A;
+sub M A C P A W L O G O by uniE01A;
+sub m a c p a w l o g o by uniE01A;
+sub t r i d e n t by neptune;
+sub t r y z u b by neptune;
+sub u k r a i n e s i g n by neptune;
+sub T R I D E N T by neptune;
+sub T R Y Z U B by neptune;
+sub U k r a i n e S i g n by neptune;
+sub T r y z u b by neptune;
+sub T r i d e n t by neptune;
+sub Te-cy Er-cy Ii-cy Ze-cy U-cy Be-cy by neptune;
+
+#< feature
+} dlig;
+feature lnum {
+# Lining Figures
+
+#> feature
+  sub eight.osf by eight.tf;
+  sub eight by eight.tf;
+  sub five.osf by five.tf;
+  sub five by five.tf;
+  sub four.osf by four.tf;
+  sub four by four.tf;
+  sub nine.osf by nine.tf;
+  sub nine by nine.tf;
+  sub one.osf by one.tf;
+  sub one by one.tf;
+  sub seven.osf by seven.tf;
+  sub seven by seven.tf;
+  sub six.osf by six.tf;
+  sub six by six.tf;
+  sub three.osf by three.tf;
+  sub three by three.tf;
+  sub two.osf by two.tf;
+  sub two by two.tf;
+  sub zero.osf by zero.tf;
+  sub zero by zero.tf;
+#< feature
+} lnum;
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight.tf by eight.osf;
+  sub eight by eight.osf;
+  sub five.tf by five.osf;
+  sub five by five.osf;
+  sub four.tf by four.osf;
+  sub four by four.osf;
+  sub nine.tf by nine.osf;
+  sub nine by nine.osf;
+  sub one.tf by one.osf;
+  sub one by one.osf;
+  sub seven.tf by seven.osf;
+  sub seven by seven.osf;
+  sub six.tf by six.osf;
+  sub six by six.osf;
+  sub three.tf by three.osf;
+  sub three by three.osf;
+  sub two.tf by two.osf;
+  sub two by two.osf;
+  sub zero.tf by zero.osf;
+  sub zero by zero.osf;
+#< feature
+} pnum;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight by eight.tf;
+  sub eight.osf by eight.tf;
+  sub five by five.tf;
+  sub five.osf by five.tf;
+  sub four by four.tf;
+  sub four.osf by four.tf;
+  sub nine by nine.tf;
+  sub nine.osf by nine.tf;
+  sub one by one.tf;
+  sub one.osf by one.tf;
+  sub seven by seven.tf;
+  sub seven.osf by seven.tf;
+  sub six by six.tf;
+  sub six.osf by six.tf;
+  sub three by three.tf;
+  sub three.osf by three.tf;
+  sub two by two.tf;
+  sub two.osf by two.tf;
+  sub zero by zero.tf;
+  sub zero.osf by zero.tf;
+#< feature
+} tnum;
+feature onum {
+# Oldstyle Figures
+
+#> feature
+  sub eight by eight.osf;
+  sub eight.tf by eight.osf;
+  sub five by five.osf;
+  sub five.tf by five.osf;
+  sub four by four.osf;
+  sub four.tf by four.osf;
+  sub nine by nine.osf;
+  sub nine.tf by nine.osf;
+  sub one by one.osf;
+  sub one.tf by one.osf;
+  sub seven by seven.osf;
+  sub seven.tf by seven.osf;
+  sub six by six.osf;
+  sub six.tf by six.osf;
+  sub three by three.osf;
+  sub three.tf by three.osf;
+  sub two by two.osf;
+  sub two.tf by two.osf;
+  sub zero by zero.osf;
+  sub zero.tf by zero.osf;
+#< feature
+} onum;
+feature salt {
+# Stylistic Alternates
+
+#> feature
+  sub A from [A.ss01];
+  sub A-cy from [A-cy.ss01];
+  sub AE from [AE.ss01];
+  sub Aacute from [Aacute.ss01];
+  sub Abreve from [Abreve.ss01];
+  sub Acircumflex from [Acircumflex.ss01];
+  sub Adieresis from [Adieresis.ss01];
+  sub Agrave from [Agrave.ss01];
+  sub Amacron from [Amacron.ss01];
+  sub Aogonek from [Aogonek.ss01];
+  sub Aring from [Aring.ss01];
+  sub Atilde from [Atilde.ss01];
+  sub Em-cy from [Em-cy.ss01];
+  sub Eng from [Eng.ss01];
+  sub G from [G.ss01];
+  sub Gacute from [Gacute.ss01];
+  sub Gbreve from [Gbreve.ss01];
+  sub Gcircumflex from [Gcircumflex.ss01];
+  sub Gcommaaccent from [Gcommaaccent.ss01];
+  sub Gdotaccent from [Gdotaccent.ss01];
+  sub Ha-cy from [Ha-cy.ss01];
+  sub Ia-cy from [Ia-cy.ss01];
+  sub J from [J.ss01];
+  sub Jcircumflex from [Jcircumflex.ss01];
+  sub K from [K.ss01];
+  sub Ka-cy from [Ka-cy.ss01];
+  sub Kcommaaccent from [Kcommaaccent.ss01];
+  sub M from [M.ss01];
+  sub N from [N.ss01];
+  sub Nacute from [Nacute.ss01];
+  sub Ncaron from [Ncaron.ss01];
+  sub Ncommaaccent from [Ncommaaccent.ss01];
+  sub Ntilde from [Ntilde.ss01];
+  sub Q from [Q.ss01];
+  sub U-cy from [U-cy.ss01];
+  sub Ushort-cy from [Ushort-cy.ss01];
+  sub V from [V.ss01];
+  sub W from [W.ss01];
+  sub Wacute from [Wacute.ss01];
+  sub Wcircumflex from [Wcircumflex.ss01];
+  sub Wdieresis from [Wdieresis.ss01];
+  sub Wgrave from [Wgrave.ss01];
+  sub X from [X.ss01];
+  sub Y from [Y.ss01];
+  sub Yacute from [Yacute.ss01];
+  sub Ycircumflex from [Ycircumflex.ss01];
+  sub Ydieresis from [Ydieresis.ss01];
+  sub Z from [Z.ss01];
+  sub Zacute from [Zacute.ss01];
+  sub Zcaron from [Zcaron.ss01];
+  sub Zdotaccent from [Zdotaccent.ss01];
+  sub Zhe-cy from [Zhe-cy.ss01];
+  sub a from [a.ss01];
+  sub a-cy from [a-cy.ss01];
+  sub aacute from [aacute.ss01];
+  sub abreve from [abreve.ss01];
+  sub acircumflex from [acircumflex.ss01];
+  sub adieresis from [adieresis.ss01];
+  sub ae from [ae.ss01];
+  sub agrave from [agrave.ss01];
+  sub amacron from [amacron.ss01];
+  sub aogonek from [aogonek.ss01];
+  sub aring from [aring.ss01];
+  sub arrowdown from [arrowdown.ss01];
+  sub arrowleft from [arrowleft.ss01];
+  sub arrowright from [arrowright.ss01];
+  sub arrowup from [arrowup.ss01];
+  sub atilde from [atilde.ss01];
+  sub b from [b.ss01];
+  sub caron from [caron.salt];
+  sub commaaccentcomb from [commaaccentcomb.salt];
+  sub d from [d.ss01];
+  sub dcaron from [dcaron.ss01];
+  sub dcroat from [dcroat.ss01];
+  sub de-cy from [de-cy.ss01];
+  sub e from [e.ss01];
+  sub eacute from [eacute.ss01];
+  sub ebreve from [ebreve.ss01];
+  sub ecaron from [ecaron.ss01];
+  sub ecircumflex from [ecircumflex.ss01];
+  sub edieresis from [edieresis.ss01];
+  sub edotaccent from [edotaccent.ss01];
+  sub egrave from [egrave.ss01];
+  sub el-cy from [el-cy.ss01];
+  sub emacron from [emacron.ss01];
+  sub eogonek from [eogonek.ss01];
+  sub er-cy from [er-cy.ss01];
+  sub f from [f.ss01];
+  sub f_f from [f_f.ss01];
+  sub f_f_i from [f_f_i.ss01];
+  sub f_f_l from [f_f_l.ss01];
+  sub fi from [fi.ss01];
+  sub fl from [fl.ss01];
+  sub g from [g.ss01];
+  sub gacute from [gacute.ss01];
+  sub gbreve from [gbreve.ss01];
+  sub gcircumflex from [gcircumflex.ss01];
+  sub gcommaaccent from [gcommaaccent.ss01];
+  sub gdotaccent from [gdotaccent.ss01];
+  sub germandbls from [germandbls.ss01];
+  sub hardsign-cy from [hardsign-cy.ss01];
+  sub ia-cy from [ia-cy.ss01];
+  sub ie-cy from [ie-cy.ss01];
+  sub io-cy from [io-cy.ss01];
+  sub l from [l.ss01];
+  sub lacute from [lacute.ss01];
+  sub lcaron from [lcaron.ss01];
+  sub lcommaaccent from [lcommaaccent.ss01];
+  sub ldot from [ldot.ss01];
+  sub ljecyr from [ljecyr.ss01];
+  sub lslash from [lslash.ss01];
+  sub njecyr from [njecyr.ss01];
+  sub numero from [numero.ss01];
+  sub oe from [oe.ss01];
+  sub p from [p.ss01];
+  sub q from [q.ss01];
+  sub softsign-cy from [softsign-cy.ss01];
+  sub t from [t.ss01];
+  sub tbar from [tbar.ss01];
+  sub tcaron from [tcaron.ss01];
+  sub tcedilla from [tcedilla.ss01];
+  sub tcommaaccent from [tcommaaccent.ss01];
+  sub te-cy from [te-cy.ss01];
+  sub uniE000 from [uniE000.alt];
+  sub ve-cy from [ve-cy.ss01];
+  sub yen from [yen.ss01];
+  sub yeru-cy from [yeru-cy.ss01];
+#< feature
+} salt;
+feature ss03 {
+# Stylistic Set 01–20
+
+#> feature
+  featureNames {
+    name "Bulgarian forms";
+    name 1 "Bulgarian forms";
+  };
+
+  sub @locl_def by @locl_BGR;
+
+#< feature
+} ss03;
+feature ss04 {
+# Stylistic Set 01–20
+
+#> feature
+  featureNames {
+    name "Serbian/Macedonian forms";
+    name 1 "Serbian/Macedonian forms";
+  };
+
+  sub @loclSRB_def by @locl.SRB;
+
+#< feature
+} ss04;
+feature ss01 {
+# Stylistic Set 01–20
+
+#> feature
+
+  featureNames {
+    name "Humanistic forms";
+    name 1 "Humanistic forms";
+  };
+
+  sub @ss01_def by @ss01;
+
+#< feature
+} ss01;
+feature ss05 {
+# Stylistic Set 01–20
+
+#> feature
+
+  featureNames {
+    name "Ukrainian pictograms";
+    name 1 "Ukrainian pictograms";
+  };
+
+  sub @pics_def by @pics;
+
+#< feature
+} ss05;
+feature hist {
+# Historical Forms
+
+#> feature
+  sub e-cy by e-cy.hist;
+  sub s by longs;
+#< feature
+} hist;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+  sub one fraction four by onequarter;
+  sub one fraction two by onehalf;
+  sub three fraction four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature cpsp {
+# Capital Spacing
+
+#> feature
+
+  pos @cpsp <5 0 10 0>;
+
+#< feature
+} cpsp;
+feature dnom {
+# Denominator
+
+#> feature
+  sub thousandscyr by thousandscyr.dnom;
+#< feature
+} dnom;

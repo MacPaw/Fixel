@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecaron" format="2">
+  <advance width="609"/>
+  <unicode hex="011B"/>
+  <anchor x="382.4" y="0" name="bottom"/>
+  <anchor x="315.8" y="520" name="top"/>
+  <anchor x="315.8" y="520" name="top.1"/>
+  <outline>
+    <component base="e"/>
+    <component base="caron" xOffset="526.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+caron</string>
+  </dict>
+  </lib>
+</glyph>

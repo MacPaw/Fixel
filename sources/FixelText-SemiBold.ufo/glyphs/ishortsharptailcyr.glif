@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ishortsharptailcyr" format="2">
+  <advance width="626"/>
+  <unicode hex="048B"/>
+  <outline>
+    <contour>
+      <point x="134.4" y="720" type="line"/>
+      <point x="134.4" y="633.8"/>
+      <point x="199.2" y="576.4"/>
+      <point x="300" y="576.4" type="curve" smooth="yes"/>
+      <point x="400.8" y="576.4"/>
+      <point x="465" y="633.8"/>
+      <point x="465" y="720" type="curve"/>
+      <point x="361.4" y="720" type="line"/>
+      <point x="361.4" y="683.4"/>
+      <point x="338.4" y="659.2"/>
+      <point x="300" y="659.2" type="curve" smooth="yes"/>
+      <point x="261.6" y="659.2"/>
+      <point x="238" y="683.4"/>
+      <point x="238" y="720" type="curve"/>
+    </contour>
+    <contour>
+      <point x="70.2" y="0" type="line"/>
+      <point x="189.8" y="0" type="line"/>
+      <point x="401.4" y="359.2" type="line"/>
+      <point x="409.8" y="359.2" type="line"/>
+      <point x="409.8" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="520" type="line"/>
+      <point x="395" y="520" type="line"/>
+      <point x="200.2" y="188.6" type="line"/>
+      <point x="191.8" y="188.6" type="line"/>
+      <point x="191.8" y="520" type="line"/>
+      <point x="70.2" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="437.8" y="-128" type="line"/>
+      <point x="553.6" y="-128" type="line"/>
+      <point x="603.8" y="97.6" type="line"/>
+      <point x="476.8" y="97.6" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="463.8" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>й</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ensharptailcyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>й</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

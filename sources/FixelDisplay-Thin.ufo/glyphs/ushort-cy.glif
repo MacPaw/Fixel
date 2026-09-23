@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ushort-cy" format="2">
+  <advance width="548"/>
+  <unicode hex="045E"/>
+  <anchor x="282" y="520" name="top"/>
+  <anchor x="282" y="520" name="top.1"/>
+  <outline>
+    <component base="u-cy"/>
+    <component base="breve" xOffset="447"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0443+breve</string>
+  </dict>
+  </lib>
+</glyph>

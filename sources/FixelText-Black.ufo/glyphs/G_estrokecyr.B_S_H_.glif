@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gestrokecyr.BSH" format="2">
+  <advance width="514"/>
+  <unicode hex="F53C"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="263" y="524" type="line"/>
+      <point x="494" y="524" type="line"/>
+      <point x="494" y="700" type="line"/>
+      <point x="56" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="240" type="line"/>
+      <point x="415" y="240" type="line"/>
+      <point x="415" y="396" type="line"/>
+      <point x="85" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>F</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Gestrokecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>Gestrokecyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

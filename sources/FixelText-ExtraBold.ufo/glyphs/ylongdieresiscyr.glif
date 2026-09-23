@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongdieresiscyr" format="2">
+  <advance width="770"/>
+  <unicode hex="04F9"/>
+  <anchor x="385.2" y="520" name="top"/>
+  <outline>
+    <component base="yeru-cy"/>
+    <component base="dieresis" xScale="1" xOffset="614.6" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>yeru-cy+dieresis</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

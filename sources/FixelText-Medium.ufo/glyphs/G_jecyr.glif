@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gjecyr" format="2">
+  <advance width="492"/>
+  <unicode hex="0403"/>
+  <anchor x="281.8" y="500" name="top"/>
+  <outline>
+    <component base="Ge-cy"/>
+    <component base="acute.case" xyScale="-3.75167e-19" xOffset="439" yOffset="-17.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ge-cy+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

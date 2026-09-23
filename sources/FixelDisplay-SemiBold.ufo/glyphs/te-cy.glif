@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy" format="2">
+  <advance width="473"/>
+  <unicode hex="0442"/>
+  <anchor x="236.8" y="520" name="top"/>
+  <anchor x="236.8" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="174.6" y="0" type="line"/>
+      <point x="298.6" y="0" type="line"/>
+      <point x="298.6" y="417.6" type="line"/>
+      <point x="455.6" y="417.6" type="line"/>
+      <point x="455.6" y="520" type="line"/>
+      <point x="17.6" y="520" type="line"/>
+      <point x="17.6" y="417.6" type="line"/>
+      <point x="174.6" y="417.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

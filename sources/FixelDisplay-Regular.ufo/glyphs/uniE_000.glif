@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE000" format="2">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="520" type="line"/>
+      <point x="90" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="418" y="520" type="line"/>
+      <point x="344" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="624" type="curve" smooth="yes"/>
+      <point x="85" y="624"/>
+      <point x="105" y="644"/>
+      <point x="105" y="670" type="curve" smooth="yes"/>
+      <point x="105" y="696"/>
+      <point x="85" y="717"/>
+      <point x="60" y="717" type="curve" smooth="yes"/>
+      <point x="35" y="717"/>
+      <point x="15" y="696"/>
+      <point x="15" y="670" type="curve" smooth="yes"/>
+      <point x="15" y="644"/>
+      <point x="35" y="624"/>
+    </contour>
+    <contour>
+      <point x="254" y="624" type="curve" smooth="yes"/>
+      <point x="279" y="624"/>
+      <point x="299" y="644"/>
+      <point x="299" y="670" type="curve" smooth="yes"/>
+      <point x="299" y="696"/>
+      <point x="279" y="717"/>
+      <point x="254" y="717" type="curve" smooth="yes"/>
+      <point x="229" y="717"/>
+      <point x="209" y="696"/>
+      <point x="209" y="670" type="curve" smooth="yes"/>
+      <point x="209" y="644"/>
+      <point x="229" y="624"/>
+    </contour>
+    <contour>
+      <point x="448" y="624" type="curve" smooth="yes"/>
+      <point x="473" y="624"/>
+      <point x="493" y="644"/>
+      <point x="493" y="670" type="curve" smooth="yes"/>
+      <point x="493" y="696"/>
+      <point x="473" y="717"/>
+      <point x="448" y="717" type="curve" smooth="yes"/>
+      <point x="423" y="717"/>
+      <point x="403" y="696"/>
+      <point x="403" y="670" type="curve" smooth="yes"/>
+      <point x="403" y="644"/>
+      <point x="423" y="624"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ї_ї</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

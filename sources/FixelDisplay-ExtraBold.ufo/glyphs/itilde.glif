@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itilde" format="2">
+  <advance width="293"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="59.6" y="0" type="line"/>
+      <point x="233.6" y="0" type="line"/>
+      <point x="233.6" y="520" type="line"/>
+      <point x="59.6" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="229.2" y="579.4" type="curve" smooth="yes"/>
+      <point x="279.2" y="579.4"/>
+      <point x="322.2" y="601.2"/>
+      <point x="349" y="642" type="curve"/>
+      <point x="286" y="728.8" type="line"/>
+      <point x="273" y="704.6"/>
+      <point x="248.6" y="691.8"/>
+      <point x="220" y="691.8" type="curve" smooth="yes"/>
+      <point x="197" y="691.8"/>
+      <point x="177.2" y="699.8"/>
+      <point x="154.8" y="708.8" type="curve"/>
+      <point x="129.8" y="720.2"/>
+      <point x="102.6" y="730.8"/>
+      <point x="65.4" y="730.8" type="curve" smooth="yes"/>
+      <point x="13.4" y="730.8"/>
+      <point x="-29.8" y="709"/>
+      <point x="-55.8" y="668.2" type="curve"/>
+      <point x="6.4" y="581.4" type="line"/>
+      <point x="19.2" y="605.4"/>
+      <point x="44.6" y="618.4"/>
+      <point x="74.2" y="618.4" type="curve" smooth="yes"/>
+      <point x="98.6" y="618.4"/>
+      <point x="118.6" y="610.2"/>
+      <point x="140.4" y="601.4" type="curve" smooth="yes"/>
+      <point x="165.6" y="590.8"/>
+      <point x="193.2" y="579.4"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+tilde</string>
+  </dict>
+  </lib>
+</glyph>

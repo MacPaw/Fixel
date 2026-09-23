@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE.ss01" format="2">
+  <advance width="882"/>
+  <outline>
+    <contour>
+      <point x="16.6" y="0" type="curve"/>
+      <point x="177.6" y="0" type="line"/>
+      <point x="177.6" y="55.6"/>
+      <point x="184.6" y="109"/>
+      <point x="195" y="159" type="curve"/>
+      <point x="399.2" y="159" type="line"/>
+      <point x="399.2" y="0" type="line"/>
+      <point x="829" y="0" type="line"/>
+      <point x="829" y="136" type="line"/>
+      <point x="556" y="136" type="line"/>
+      <point x="556" y="287.4" type="line"/>
+      <point x="799" y="287.4" type="line"/>
+      <point x="799" y="415.6" type="line"/>
+      <point x="556" y="415.6" type="line"/>
+      <point x="556" y="564" type="line"/>
+      <point x="819" y="564" type="line"/>
+      <point x="819" y="700" type="line"/>
+      <point x="308.6" y="700" type="line"/>
+      <point x="137.4" y="483.4"/>
+      <point x="16.6" y="239.2"/>
+    </contour>
+    <contour>
+      <point x="230.2" y="286" type="line"/>
+      <point x="265.8" y="379.4"/>
+      <point x="317.8" y="473.8"/>
+      <point x="373" y="565.4" type="curve"/>
+      <point x="399.2" y="565.4" type="line"/>
+      <point x="399.2" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A.ss01</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

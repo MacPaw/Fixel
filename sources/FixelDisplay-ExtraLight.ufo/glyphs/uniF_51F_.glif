@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF51F" format="2">
+  <advance width="636"/>
+  <unicode hex="F51F"/>
+  <outline>
+    <component base="obarcyr"/>
+    <component base="dieresis" xOffset="488.667" yOffset="-49"/>
+    <component base="breve" xyScale="2.46321e-18" yScale="1" xOffset="482.667" yOffset="86.6667"/>
+  </outline>
+  <guideline angle="90" x="297" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>obarcyr+dieresis+breve</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

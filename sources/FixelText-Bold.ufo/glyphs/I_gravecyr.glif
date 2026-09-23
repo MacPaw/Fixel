@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igravecyr" format="2">
+  <advance width="725"/>
+  <unicode hex="040D"/>
+  <anchor x="362.6" y="520" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="grave.case" xOffset="500.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ii-cy+grave.case</string>
+  </dict>
+  </lib>
+</glyph>

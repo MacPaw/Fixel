@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="djerv-cy" format="2">
+  <advance width="595"/>
+  <unicode hex="A649"/>
+  <outline>
+    <contour>
+      <point x="325.667" y="720" type="line"/>
+      <point x="269.667" y="720" type="line"/>
+      <point x="269.667" y="520" type="line"/>
+      <point x="113" y="520" type="line"/>
+      <point x="113" y="467" type="line"/>
+      <point x="269.667" y="467" type="line"/>
+      <point x="269.667" y="346.333" type="line"/>
+      <point x="325.667" y="346.333" type="line"/>
+      <point x="325.667" y="467" type="line"/>
+      <point x="482.333" y="467" type="line"/>
+      <point x="482.333" y="520" type="line"/>
+      <point x="325.667" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="529.667" y="0" type="line"/>
+      <point x="529.667" y="134.667" type="line" smooth="yes"/>
+      <point x="529.667" y="271"/>
+      <point x="444.333" y="354.333"/>
+      <point x="303" y="354.333" type="curve" smooth="yes"/>
+      <point x="292.333" y="354.333" type="line" smooth="yes"/>
+      <point x="151" y="354.333"/>
+      <point x="65" y="271"/>
+      <point x="65" y="134.667" type="curve" smooth="yes"/>
+      <point x="65" y="0" type="line"/>
+      <point x="123.667" y="0" type="line"/>
+      <point x="123.667" y="134" type="line" smooth="yes"/>
+      <point x="123.667" y="240.333"/>
+      <point x="185" y="299.333"/>
+      <point x="294.667" y="299.333" type="curve" smooth="yes"/>
+      <point x="300.667" y="299.333" type="line" smooth="yes"/>
+      <point x="410.333" y="299.333"/>
+      <point x="471" y="239.667"/>
+      <point x="471" y="134" type="curve" smooth="yes"/>
+      <point x="471" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>r()</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>п-30</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

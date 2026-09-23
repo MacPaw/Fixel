@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estailcyr.CHU" format="2">
+  <advance width="519"/>
+  <unicode hex="F50D"/>
+  <anchor x="283" y="0" name="bottom"/>
+  <anchor x="282" y="520" name="top"/>
+  <anchor x="282" y="520" name="top.1"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="390"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+cedilla</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

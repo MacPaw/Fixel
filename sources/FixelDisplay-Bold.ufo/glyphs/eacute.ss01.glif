@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute.ss01" format="2">
+  <advance width="610"/>
+  <anchor x="422.2" y="0" name="bottom"/>
+  <anchor x="331.2" y="520" name="top"/>
+  <anchor x="331.2" y="520" name="top.1"/>
+  <outline>
+    <component base="e.ss01"/>
+    <component base="acute" xScale="1" xOffset="482.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss01+acute</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="307"/>
+  <unicode hex="013E"/>
+  <anchor x="136.6" y="0" name="bottom"/>
+  <anchor x="201.4" y="517" name="right"/>
+  <anchor x="136.2" y="519.4" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="caron.salt" xScale="1" xOffset="412.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+caron.salt</string>
+  </dict>
+  </lib>
+</glyph>

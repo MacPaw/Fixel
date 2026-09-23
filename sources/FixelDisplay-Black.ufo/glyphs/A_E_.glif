@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="898"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="237" y="110" type="line"/>
+      <point x="395" y="110" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="847" y="0" type="line"/>
+      <point x="847" y="176" type="line"/>
+      <point x="588" y="176" type="line"/>
+      <point x="588" y="265" type="line"/>
+      <point x="817" y="265" type="line"/>
+      <point x="817" y="428" type="line"/>
+      <point x="588" y="428" type="line"/>
+      <point x="588" y="524" type="line"/>
+      <point x="837" y="524" type="line"/>
+      <point x="837" y="700" type="line"/>
+      <point x="203" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="267" type="line"/>
+      <point x="342" y="524" type="line"/>
+      <point x="395" y="524" type="line"/>
+      <point x="395" y="267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

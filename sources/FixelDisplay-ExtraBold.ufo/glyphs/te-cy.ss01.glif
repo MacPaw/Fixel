@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy.ss01" format="2">
+  <advance width="475"/>
+  <anchor x="236" y="520" name="top"/>
+  <anchor x="236" y="520" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="303.4" y="-8.4" type="curve" smooth="yes"/>
+      <point x="343.4" y="-8.4"/>
+      <point x="391.6" y="-0.2"/>
+      <point x="422.4" y="12.2" type="curve"/>
+      <point x="422.4" y="141.2" type="line"/>
+      <point x="412.2" y="137.8"/>
+      <point x="390" y="135"/>
+      <point x="373.6" y="135" type="curve" smooth="yes"/>
+      <point x="334.6" y="135"/>
+      <point x="322.6" y="151.8"/>
+      <point x="322.6" y="204.8" type="curve" smooth="yes"/>
+      <point x="322.6" y="385.2" type="line"/>
+      <point x="457.6" y="385.2" type="line"/>
+      <point x="457.6" y="520" type="line"/>
+      <point x="13.6" y="520" type="line"/>
+      <point x="13.6" y="385.2" type="line"/>
+      <point x="148.6" y="385.2" type="line"/>
+      <point x="148.6" y="172.2" type="line" smooth="yes"/>
+      <point x="148.6" y="50.4"/>
+      <point x="197" y="-8.4"/>
+    </contour>
+  </outline>
+</glyph>

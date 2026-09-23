@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+  <advance width="876"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="64.8" y="0" type="line"/>
+      <point x="240.8" y="0" type="line"/>
+      <point x="240.8" y="484.8" type="line"/>
+      <point x="249.8" y="484.8" type="line"/>
+      <point x="373.6" y="90.4" type="line"/>
+      <point x="502" y="90.4" type="line"/>
+      <point x="625.8" y="484.8" type="line"/>
+      <point x="634.8" y="484.8" type="line"/>
+      <point x="634.8" y="0" type="line"/>
+      <point x="810.8" y="0" type="line"/>
+      <point x="810.8" y="700" type="line"/>
+      <point x="558.4" y="700" type="line"/>
+      <point x="442.2" y="322.4" type="line"/>
+      <point x="433.4" y="322.4" type="line"/>
+      <point x="317" y="700" type="line"/>
+      <point x="64.8" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

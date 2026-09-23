@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron.ss01" format="2">
+  <advance width="729"/>
+  <anchor x="355.4" y="0" name="bottom"/>
+  <anchor x="377.6" y="519.4" name="top"/>
+  <outline>
+    <component base="N.ss01"/>
+    <component base="caron.case" xScale="1" xyScale="-1.35891e-20" xOffset="580.6" yOffset="-0.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N.ss01+caron.case</string>
+  </dict>
+  </lib>
+</glyph>

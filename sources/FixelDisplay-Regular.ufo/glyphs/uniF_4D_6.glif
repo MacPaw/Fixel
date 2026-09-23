@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF4D6" format="2">
+  <advance width="678"/>
+  <unicode hex="F4D6"/>
+  <anchor x="299" y="520" name="top"/>
+  <outline>
+    <component base="Ereversed-cy"/>
+    <component base="dotaccent.case" xOffset="453" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Э+dotaccent.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iu-cy" format="2">
+  <advance width="992"/>
+  <unicode hex="042E"/>
+  <anchor x="524" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="619" y="-8" type="curve"/>
+      <point x="620" y="-8" type="line"/>
+      <point x="810" y="-8"/>
+      <point x="947" y="142"/>
+      <point x="947" y="340" type="curve" smooth="yes"/>
+      <point x="947" y="360" type="line" smooth="yes"/>
+      <point x="947" y="559"/>
+      <point x="810" y="709"/>
+      <point x="619" y="709" type="curve"/>
+      <point x="619" y="709" type="line" name="&#x1f525;"/>
+      <point x="440" y="709"/>
+      <point x="310" y="577"/>
+      <point x="294" y="397" type="curve"/>
+      <point x="180" y="397" type="line"/>
+      <point x="180" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="321" type="line"/>
+      <point x="292" y="321" type="line"/>
+      <point x="300" y="132"/>
+      <point x="434" y="-8"/>
+    </contour>
+    <contour>
+      <point x="376" y="360" type="line" smooth="yes"/>
+      <point x="376" y="516"/>
+      <point x="474" y="631"/>
+      <point x="620" y="631" type="curve" name="&#x1f525;"/>
+      <point x="620" y="631" type="line"/>
+      <point x="766" y="631"/>
+      <point x="863" y="516"/>
+      <point x="863" y="360" type="curve" smooth="yes"/>
+      <point x="863" y="340" type="line" smooth="yes"/>
+      <point x="863" y="185"/>
+      <point x="765" y="70"/>
+      <point x="620" y="70" type="curve"/>
+      <point x="619" y="70" type="line"/>
+      <point x="474" y="70"/>
+      <point x="376" y="185"/>
+      <point x="376" y="340" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

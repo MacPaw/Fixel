@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="2">
+  <advance width="254"/>
+  <unicode hex="013A"/>
+  <anchor x="127" y="0" name="bottom"/>
+  <anchor x="180.6" y="517" name="right"/>
+  <anchor x="126.8" y="518.2" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="acute.case" xyScale="-1.33227e-20" xOffset="284" yOffset="0.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

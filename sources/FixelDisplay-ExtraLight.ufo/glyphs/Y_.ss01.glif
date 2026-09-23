@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.ss01" format="2">
+  <advance width="568"/>
+  <anchor x="291.667" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="269" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="282.333" type="line"/>
+      <point x="419.333" y="411.667"/>
+      <point x="521.333" y="541.333"/>
+      <point x="543.333" y="700" type="curve"/>
+      <point x="499.333" y="700" type="line"/>
+      <point x="486" y="562.333"/>
+      <point x="389" y="429.667"/>
+      <point x="299.667" y="328" type="curve"/>
+      <point x="285.667" y="328" type="line"/>
+      <point x="57.6667" y="700" type="line"/>
+      <point x="11.6667" y="700" type="line"/>
+      <point x="269" y="281.333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

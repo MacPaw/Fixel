@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzeabkhcyr" format="2">
+  <advance width="585"/>
+  <unicode hex="04E0"/>
+  <outline>
+    <contour>
+      <point x="184.6" y="336" type="line"/>
+      <point x="298.4" y="381.6" type="line"/>
+      <point x="517.4" y="602.4" type="line"/>
+      <point x="517.4" y="700" type="line"/>
+      <point x="62.8" y="700" type="line"/>
+      <point x="62.8" y="584" type="line"/>
+      <point x="353.8" y="584" type="line"/>
+      <point x="353.8" y="579.2" type="line"/>
+      <point x="181.4" y="407.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="302.4" y="-11.2" type="curve" smooth="yes"/>
+      <point x="442.8" y="-11.2"/>
+      <point x="551.2" y="70.6"/>
+      <point x="551.2" y="200.4" type="curve" smooth="yes"/>
+      <point x="551.2" y="207" type="line" smooth="yes"/>
+      <point x="551.2" y="368.6"/>
+      <point x="430.2" y="420.2"/>
+      <point x="275.4" y="420.2" type="curve"/>
+      <point x="181.4" y="400" type="line"/>
+      <point x="181.4" y="319.4" type="line"/>
+      <point x="294.4" y="319.4" type="line" smooth="yes"/>
+      <point x="372.4" y="319.4"/>
+      <point x="417.2" y="278.8"/>
+      <point x="417.2" y="214.8" type="curve" smooth="yes"/>
+      <point x="417.2" y="211.6" type="line" smooth="yes"/>
+      <point x="417.2" y="147.2"/>
+      <point x="370" y="104.8"/>
+      <point x="296.8" y="104.8" type="curve" smooth="yes"/>
+      <point x="225.6" y="104.8"/>
+      <point x="174" y="136.8"/>
+      <point x="124.8" y="211.2" type="curve"/>
+      <point x="16" y="144.6" type="line"/>
+      <point x="84" y="43.4"/>
+      <point x="181.8" y="-11.2"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>З-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>З-10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

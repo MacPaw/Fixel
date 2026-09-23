@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwacyr" format="2">
+  <advance width="742"/>
+  <unicode hex="04D8"/>
+  <anchor x="358.4" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="28.6" y="411" type="line"/>
+      <point x="28.6" y="334.6" type="line"/>
+      <point x="77.8" y="286.2" type="line"/>
+      <point x="573.4" y="286.2" type="line"/>
+      <point x="573.4" y="411" type="line"/>
+    </contour>
+    <contour>
+      <point x="28.6" y="340.2" type="line"/>
+      <point x="28.6" y="132.6"/>
+      <point x="169.2" y="-13.6"/>
+      <point x="365.8" y="-13.6" type="curve" smooth="yes"/>
+      <point x="370.2" y="-13.6" type="line" smooth="yes"/>
+      <point x="566.8" y="-13.6"/>
+      <point x="707.4" y="132.6"/>
+      <point x="707.4" y="340.2" type="curve" smooth="yes"/>
+      <point x="707.4" y="359.2" type="line" smooth="yes"/>
+      <point x="707.4" y="564"/>
+      <point x="561.4" y="713"/>
+      <point x="376.2" y="713" type="curve" smooth="yes" name="&#x1f525;"/>
+      <point x="371" y="713" type="line" smooth="yes"/>
+      <point x="242.8" y="713"/>
+      <point x="140.2" y="662.6"/>
+      <point x="67.2" y="573.4" type="curve"/>
+      <point x="190" y="468" type="line"/>
+      <point x="230" y="525.4"/>
+      <point x="285.2" y="558.2"/>
+      <point x="351.2" y="558.2" type="curve" smooth="yes" name="&#x1f525;.1"/>
+      <point x="365.6" y="558.2" type="line" smooth="yes"/>
+      <point x="465.8" y="558.2"/>
+      <point x="528.2" y="472"/>
+      <point x="528.2" y="350.4" type="curve" smooth="yes"/>
+      <point x="528.2" y="321.6" type="line" smooth="yes"/>
+      <point x="528.2" y="205"/>
+      <point x="470" y="134.8"/>
+      <point x="377.2" y="134.8" type="curve" smooth="yes" name="&#x1f525;.2"/>
+      <point x="364.4" y="134.8" type="line" smooth="yes"/>
+      <point x="271.6" y="134.8"/>
+      <point x="213.4" y="205"/>
+      <point x="213.4" y="321.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

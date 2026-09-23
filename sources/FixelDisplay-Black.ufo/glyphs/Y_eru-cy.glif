@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yeru-cy" format="2">
+  <advance width="924"/>
+  <unicode hex="042B"/>
+  <anchor x="462" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="360" y="0" type="line" smooth="yes"/>
+      <point x="513" y="0"/>
+      <point x="614" y="95"/>
+      <point x="614" y="241" type="curve" smooth="yes"/>
+      <point x="614" y="249" type="line" smooth="yes"/>
+      <point x="614" y="397"/>
+      <point x="514" y="486"/>
+      <point x="360" y="486" type="curve" smooth="yes"/>
+      <point x="268" y="486" type="line"/>
+      <point x="268" y="700" type="line"/>
+      <point x="61" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="169" type="line"/>
+      <point x="260" y="331" type="line"/>
+      <point x="312" y="331" type="line" smooth="yes"/>
+      <point x="382" y="331"/>
+      <point x="412" y="309"/>
+      <point x="412" y="255" type="curve" smooth="yes"/>
+      <point x="412" y="249" type="line" smooth="yes"/>
+      <point x="412" y="196"/>
+      <point x="379" y="169"/>
+      <point x="314" y="169" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="655" y="0" type="line"/>
+      <point x="863" y="0" type="line"/>
+      <point x="863" y="700" type="line"/>
+      <point x="655" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

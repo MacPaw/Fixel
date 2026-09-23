@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Io-cy.accented" format="2">
+  <advance width="556"/>
+  <unicode hex="F469"/>
+  <outline>
+    <component base="E"/>
+    <component base="dieresis.case" xOffset="466.333" yOffset="3"/>
+    <component base="acute.case" xScale="1" xyScale="-3.12639e-18" yScale="1" xOffset="462.333" yOffset="73.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+dieresis.case+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

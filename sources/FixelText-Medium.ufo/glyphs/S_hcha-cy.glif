@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shcha-cy" format="2">
+  <advance width="1004"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="878" y="-135" type="line"/>
+      <point x="979.4" y="-135" type="line"/>
+      <point x="979.4" y="96" type="line"/>
+      <point x="900.6" y="96" type="line"/>
+      <point x="900.6" y="700" type="line"/>
+      <point x="795.6" y="700" type="line"/>
+      <point x="795.6" y="94" type="line"/>
+      <point x="548" y="94" type="line"/>
+      <point x="548" y="700" type="line"/>
+      <point x="443.8" y="700" type="line"/>
+      <point x="443.8" y="94" type="line"/>
+      <point x="196.2" y="94" type="line"/>
+      <point x="196.2" y="700" type="line"/>
+      <point x="91.2" y="700" type="line"/>
+      <point x="91.2" y="0" type="line"/>
+      <point x="878" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Д</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TeWithMiddleHook-cy" format="2">
+  <advance width="748"/>
+  <unicode hex="A68A"/>
+  <outline>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="251" y="680" type="line"/>
+      <point x="492" y="680" type="line"/>
+      <point x="492" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+      <point x="30" y="680" type="line"/>
+      <point x="231" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="-167" type="curve"/>
+      <point x="417" y="-188" type="line"/>
+      <point x="438" y="-192"/>
+      <point x="458" y="-195"/>
+      <point x="479.879" y="-195" type="curve" smooth="yes"/>
+      <point x="590" y="-195"/>
+      <point x="663" y="-119"/>
+      <point x="663" y="34" type="curve" smooth="yes"/>
+      <point x="663" y="171" type="line" smooth="yes"/>
+      <point x="663" y="356"/>
+      <point x="563" y="409"/>
+      <point x="446.806" y="409" type="curve" smooth="yes"/>
+      <point x="381" y="409"/>
+      <point x="311" y="392"/>
+      <point x="249" y="369" type="curve"/>
+      <point x="249" y="348" type="line"/>
+      <point x="308" y="371"/>
+      <point x="380" y="389"/>
+      <point x="445.325" y="389" type="curve" smooth="yes"/>
+      <point x="552" y="389"/>
+      <point x="643" y="341"/>
+      <point x="643" y="171" type="curve" smooth="yes"/>
+      <point x="643" y="34" type="line" smooth="yes"/>
+      <point x="643" y="-109"/>
+      <point x="576" y="-175"/>
+      <point x="478.904" y="-175" type="curve" smooth="yes"/>
+      <point x="455" y="-175"/>
+      <point x="436" y="-171"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Djecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Gehookcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

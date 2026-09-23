@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzze-cy" format="2">
+  <advance width="759"/>
+  <unicode hex="A688"/>
+  <outline>
+    <contour>
+      <point x="13.4" y="-135" type="line"/>
+      <point x="161.6" y="-135" type="line"/>
+      <point x="161.6" y="0" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="608.2" y="58.2" type="line"/>
+      <point x="608.2" y="700" type="line"/>
+      <point x="123.8" y="700" type="line"/>
+      <point x="123.8" y="628.8" type="line" smooth="yes"/>
+      <point x="123.8" y="356.4"/>
+      <point x="109.4" y="191.8"/>
+      <point x="71" y="130" type="curve"/>
+      <point x="13.4" y="130" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="130" type="line"/>
+      <point x="214.2" y="130" type="line"/>
+      <point x="250.6" y="212"/>
+      <point x="270.8" y="354.4"/>
+      <point x="273.8" y="564.6" type="curve"/>
+      <point x="273.8" y="571.8" type="line"/>
+      <point x="455" y="571.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="-295.2" type="curve" smooth="yes"/>
+      <point x="591" y="-295.2" type="line" smooth="yes"/>
+      <point x="674.6" y="-295.2"/>
+      <point x="760.2" y="-251.2"/>
+      <point x="760.2" y="-175.8" type="curve" smooth="yes"/>
+      <point x="760.2" y="-171" type="line" smooth="yes"/>
+      <point x="760.2" y="-124.2"/>
+      <point x="726.4" y="-87.4"/>
+      <point x="679.4" y="-72.8" type="curve"/>
+      <point x="716.8" y="-58"/>
+      <point x="739.4" y="-21.6"/>
+      <point x="739.4" y="14.6" type="curve" smooth="yes"/>
+      <point x="739.4" y="22.6" type="line" smooth="yes"/>
+      <point x="739.4" y="84.2"/>
+      <point x="676.8" y="130.8"/>
+      <point x="598.6" y="130.8" type="curve" smooth="yes"/>
+      <point x="583" y="130.8" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="582.6" y="0"/>
+      <point x="594" y="-9.2"/>
+      <point x="594" y="-23.2" type="curve"/>
+      <point x="594" y="-24.8" type="line"/>
+      <point x="594" y="-40"/>
+      <point x="583" y="-49.2"/>
+      <point x="545.2" y="-49.2" type="curve" smooth="yes"/>
+      <point x="524.6" y="-49.2" type="line"/>
+      <point x="524.6" y="-124.4" type="line"/>
+      <point x="553" y="-124.4" type="line" smooth="yes"/>
+      <point x="593.8" y="-124.4"/>
+      <point x="612" y="-134.2"/>
+      <point x="612" y="-151.6" type="curve" smooth="yes"/>
+      <point x="612" y="-155.2" type="line" smooth="yes"/>
+      <point x="612" y="-170.8"/>
+      <point x="591" y="-182.4"/>
+      <point x="562.6" y="-182.4" type="curve" smooth="yes"/>
+      <point x="556.6" y="-182.4" type="line" smooth="yes"/>
+      <point x="523.4" y="-182.4"/>
+      <point x="485.8" y="-166.2"/>
+      <point x="462.2" y="-137.8" type="curve"/>
+      <point x="383.2" y="-216" type="line"/>
+      <point x="433.6" y="-275.6"/>
+      <point x="502.6" y="-295.2"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Д</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Д-20</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

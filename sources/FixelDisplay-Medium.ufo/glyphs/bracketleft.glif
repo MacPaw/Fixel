@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+  <advance width="324"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="82.4" y="-156" type="line"/>
+      <point x="288.4" y="-156" type="line"/>
+      <point x="288.4" y="-68.4" type="line"/>
+      <point x="177.8" y="-68.4" type="line"/>
+      <point x="177.8" y="632.6" type="line"/>
+      <point x="288.4" y="632.6" type="line"/>
+      <point x="288.4" y="720" type="line"/>
+      <point x="82.4" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  </dict>
+  </lib>
+</glyph>

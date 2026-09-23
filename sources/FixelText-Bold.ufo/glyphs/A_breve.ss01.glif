@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve.ss01" format="2">
+  <advance width="653"/>
+  <anchor x="632.6" y="0" name="bottom"/>
+  <anchor x="370.6" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="1.4" y="0" type="curve"/>
+      <point x="162.4" y="0" type="line"/>
+      <point x="162.4" y="49"/>
+      <point x="168" y="98.2"/>
+      <point x="178" y="146.4" type="curve"/>
+      <point x="433.8" y="146.4" type="line"/>
+      <point x="468.4" y="0" type="line"/>
+      <point x="632.6" y="0" type="line"/>
+      <point x="453.4" y="700" type="line"/>
+      <point x="290.6" y="700" type="line"/>
+      <point x="112.2" y="473.8"/>
+      <point x="1.4" y="233.8"/>
+    </contour>
+    <contour>
+      <point x="209.2" y="274.6" type="line"/>
+      <point x="241.2" y="359.6"/>
+      <point x="288.4" y="458.2"/>
+      <point x="333.4" y="532.4" type="curve"/>
+      <point x="346.8" y="532.4" type="line"/>
+      <point x="404.6" y="274.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="371.8" y="755.6" type="curve" smooth="yes"/>
+      <point x="476.2" y="755.6"/>
+      <point x="542.8" y="812"/>
+      <point x="541.8" y="900" type="curve"/>
+      <point x="423.6" y="900" type="line"/>
+      <point x="424" y="867.4"/>
+      <point x="406.4" y="847.4"/>
+      <point x="373.6" y="847.4" type="curve" smooth="yes"/>
+      <point x="340.8" y="847.4"/>
+      <point x="317.6" y="867.4"/>
+      <point x="317.6" y="900" type="curve"/>
+      <point x="200" y="900" type="line"/>
+      <point x="200" y="812"/>
+      <point x="267.4" y="755.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A.ss01+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

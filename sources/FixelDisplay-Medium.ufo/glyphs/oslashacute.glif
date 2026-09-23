@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute" format="2">
+  <advance width="642"/>
+  <unicode hex="01FF"/>
+  <anchor x="321.2" y="517.6" name="top"/>
+  <outline>
+    <component base="oslash"/>
+    <component base="acute" xyScale="5.43565e-20" xOffset="455" yOffset="-2.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>oslash+acute</string>
+  </dict>
+  </lib>
+</glyph>

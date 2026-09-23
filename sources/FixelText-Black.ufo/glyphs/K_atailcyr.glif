@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Katailcyr" format="2">
+  <advance width="678"/>
+  <unicode hex="049A"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="264" y="312" type="line"/>
+      <point x="274" y="312" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="443" y="378" type="line"/>
+      <point x="671" y="700" type="line"/>
+      <point x="445" y="700" type="line"/>
+      <point x="274" y="421" type="line"/>
+      <point x="264" y="421" type="line"/>
+      <point x="264" y="700" type="line"/>
+      <point x="56" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="484" y="-135" type="line"/>
+      <point x="679" y="-135" type="line"/>
+      <point x="679" y="171" type="line"/>
+      <point x="444" y="171" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>К-10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

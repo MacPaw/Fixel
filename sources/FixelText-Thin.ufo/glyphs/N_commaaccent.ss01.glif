@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent.ss01" format="2">
+  <advance width="728"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="359" y="520" name="top"/>
+  <outline>
+    <component base="N.ss01"/>
+    <component base="commaaccentcomb" xOffset="416"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N.ss01+commaaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scedilla" format="2">
+  <advance width="572"/>
+  <unicode hex="015E"/>
+  <anchor x="292.6" y="0" name="bottom"/>
+  <anchor x="285.6" y="520" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="cedilla" xScale="1" xOffset="371.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+cedilla</string>
+  </dict>
+  </lib>
+</glyph>

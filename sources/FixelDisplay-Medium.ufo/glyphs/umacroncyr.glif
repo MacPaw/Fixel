@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacroncyr" format="2">
+  <advance width="544"/>
+  <unicode hex="04EF"/>
+  <anchor x="277.6" y="517.6" name="top"/>
+  <anchor x="277.6" y="517.6" name="top.1"/>
+  <outline>
+    <component base="u-cy"/>
+    <component base="macron" xyScale="5.54223e-20" xOffset="453" yOffset="-2.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u-cy+macron</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

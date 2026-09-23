@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl.ss01" format="2">
+  <advance width="602"/>
+  <anchor x="318.4" y="0" name="bottom"/>
+  <anchor x="310.2" y="517" name="right"/>
+  <anchor x="260.4" y="517.6" name="top"/>
+  <outline>
+    <contour>
+      <point x="495.6" y="-3.6" type="curve" smooth="yes"/>
+      <point x="524.2" y="-3.6"/>
+      <point x="558" y="2.2"/>
+      <point x="582.2" y="9.8" type="curve"/>
+      <point x="582.2" y="90.8" type="line"/>
+      <point x="565.4" y="86.4"/>
+      <point x="545.6" y="84"/>
+      <point x="530.4" y="84" type="curve" smooth="yes"/>
+      <point x="501" y="84"/>
+      <point x="486" y="97.2"/>
+      <point x="486" y="147.2" type="curve" smooth="yes"/>
+      <point x="486" y="652.6" type="line"/>
+      <point x="428.8" y="681.6"/>
+      <point x="334.8" y="718"/>
+      <point x="246.2" y="718" type="curve" smooth="yes"/>
+      <point x="144.8" y="718"/>
+      <point x="80.6" y="661"/>
+      <point x="80.6" y="574.8" type="curve" smooth="yes"/>
+      <point x="80.6" y="559.8"/>
+      <point x="82.4" y="541.8"/>
+      <point x="86.8" y="518" type="curve"/>
+      <point x="66.4" y="515"/>
+      <point x="42.8" y="509.6"/>
+      <point x="25.4" y="502.6" type="curve"/>
+      <point x="25.4" y="435.8" type="line"/>
+      <point x="94.4" y="435.8" type="line"/>
+      <point x="94.4" y="-190" type="line"/>
+      <point x="193.4" y="-190" type="line"/>
+      <point x="193.4" y="435.8" type="line"/>
+      <point x="330.4" y="435.8" type="line"/>
+      <point x="330.4" y="520" type="line"/>
+      <point x="181.4" y="520" type="line"/>
+      <point x="179" y="533.2"/>
+      <point x="177.4" y="547.8"/>
+      <point x="177.4" y="559.4" type="curve" smooth="yes"/>
+      <point x="177.4" y="608"/>
+      <point x="206" y="632"/>
+      <point x="265.4" y="632" type="curve" smooth="yes"/>
+      <point x="308.8" y="632"/>
+      <point x="361.6" y="613.8"/>
+      <point x="387" y="600.2" type="curve"/>
+      <point x="387" y="127.8" type="line" smooth="yes"/>
+      <point x="387" y="40"/>
+      <point x="422" y="-3.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>f.ss01</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l.ss01</string>
+  <key>com.fontlab.recipe</key>
+  <string>f.ss01_l.ss01</string>
+  </dict>
+  </lib>
+</glyph>

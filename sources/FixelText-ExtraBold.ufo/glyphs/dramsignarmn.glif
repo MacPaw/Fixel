@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dramsignarmn" format="2">
+  <advance width="640"/>
+  <unicode hex="058F"/>
+  <outline>
+    <contour>
+      <point x="305.4" y="715.2" type="curve" smooth="yes"/>
+      <point x="475.6" y="715.2"/>
+      <point x="586.8" y="621.2"/>
+      <point x="586.8" y="442" type="curve" smooth="yes"/>
+      <point x="586.8" y="0" type="line"/>
+      <point x="405.2" y="0" type="line"/>
+      <point x="405.2" y="435.2" type="line" smooth="yes"/>
+      <point x="405.2" y="516.6"/>
+      <point x="363.2" y="552.2"/>
+      <point x="306.2" y="552.2" type="curve" smooth="yes"/>
+      <point x="247.6" y="552.2"/>
+      <point x="203.8" y="516.6"/>
+      <point x="203.8" y="435.2" type="curve" smooth="yes"/>
+      <point x="203.8" y="397.2" type="line"/>
+      <point x="22.2" y="397.2" type="line"/>
+      <point x="22.2" y="442" type="line" smooth="yes"/>
+      <point x="22.2" y="614"/>
+      <point x="126.4" y="715.2"/>
+    </contour>
+    <contour>
+      <point x="313.2" y="243.8" type="line"/>
+      <point x="313.2" y="357.4" type="line"/>
+      <point x="640.6" y="357.4" type="line"/>
+      <point x="640.6" y="243.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="313.2" y="88.6" type="line"/>
+      <point x="313.2" y="202.2" type="line"/>
+      <point x="640.6" y="202.2" type="line"/>
+      <point x="640.6" y="88.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="2">
+  <advance width="762"/>
+  <unicode hex="0143"/>
+  <anchor x="380.8" y="4.44089e-16" name="bottom"/>
+  <anchor x="380.8" y="521.6" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="acute.case" xyScale="-3.69482e-20" xOffset="576.8" yOffset="1.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

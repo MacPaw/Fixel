@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ensharptailcyr" format="2">
+  <advance width="588"/>
+  <unicode hex="04CA"/>
+  <outline>
+    <contour>
+      <point x="91.6667" y="0" type="line"/>
+      <point x="129.667" y="0" type="line"/>
+      <point x="129.667" y="253.667" type="line"/>
+      <point x="452.333" y="253.667" type="line"/>
+      <point x="452.333" y="0" type="line"/>
+      <point x="490.333" y="0" type="line"/>
+      <point x="490.333" y="520" type="line"/>
+      <point x="452.333" y="520" type="line"/>
+      <point x="452.333" y="289.667" type="line"/>
+      <point x="129.667" y="289.667" type="line"/>
+      <point x="129.667" y="520" type="line"/>
+      <point x="91.6667" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="-128" type="line"/>
+      <point x="506" y="-128" type="line"/>
+      <point x="551.667" y="36" type="line"/>
+      <point x="476.667" y="36" type="line"/>
+      <point x="490.333" y="0" type="line"/>
+      <point x="504.333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>д</string>
+  <key>com.fontlab.recipe</key>
+  <string>entailcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

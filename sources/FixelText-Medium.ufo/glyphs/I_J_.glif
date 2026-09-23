@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="631"/>
+  <unicode hex="0132"/>
+  <outline>
+    <contour>
+      <point x="379.2" y="-7" type="curve" smooth="yes"/>
+      <point x="498.4" y="-7"/>
+      <point x="560.2" y="69.8"/>
+      <point x="560.2" y="195" type="curve" smooth="yes"/>
+      <point x="560.2" y="700" type="line"/>
+      <point x="454.8" y="700" type="line"/>
+      <point x="454.8" y="200.2" type="line" smooth="yes"/>
+      <point x="454.8" y="132.4"/>
+      <point x="426.4" y="90.2"/>
+      <point x="358.2" y="90.2" type="curve" smooth="yes"/>
+      <point x="329" y="90.2"/>
+      <point x="304.6" y="99.8"/>
+      <point x="285" y="113.2" type="curve"/>
+      <point x="285" y="11.8" type="line"/>
+      <point x="311.2" y="0.2"/>
+      <point x="344.4" y="-7"/>
+    </contour>
+    <contour>
+      <point x="90.8" y="0" type="line"/>
+      <point x="196.2" y="0" type="line"/>
+      <point x="196.2" y="700" type="line"/>
+      <point x="90.8" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I_J</string>
+  </dict>
+  </lib>
+</glyph>

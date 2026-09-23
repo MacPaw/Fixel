@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+  <advance width="242"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="93" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="149" y="520" type="line"/>
+      <point x="93" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="643" type="line"/>
+      <point x="237" y="643" type="line"/>
+      <point x="237" y="691.667" type="line"/>
+      <point x="5" y="691.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=5</string>
+  <key>com.fontlab.recipe</key>
+  <string>idotless+macron</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+  <advance width="309"/>
+  <unicode hex="0130"/>
+  <anchor x="232.8" y="0" name="bottom"/>
+  <anchor x="154.4" y="520" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccent.case" xOffset="306" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+dotaccent.case</string>
+  </dict>
+  </lib>
+</glyph>

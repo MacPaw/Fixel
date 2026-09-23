@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zjekomicyr" format="2">
+  <advance width="827"/>
+  <unicode hex="0504"/>
+  <outline>
+    <contour>
+      <point x="469.358" y="163.449" type="curve" smooth="yes"/>
+      <point x="445" y="296"/>
+      <point x="373" y="361"/>
+      <point x="252" y="361" type="curve"/>
+      <point x="301" y="351" type="line"/>
+      <point x="381" y="369"/>
+      <point x="434" y="440"/>
+      <point x="434" y="530.173" type="curve" smooth="yes"/>
+      <point x="434" y="636"/>
+      <point x="361" y="709"/>
+      <point x="252.473" y="709" type="curve" smooth="yes"/>
+      <point x="160" y="709"/>
+      <point x="75" y="656"/>
+      <point x="30" y="571" type="curve"/>
+      <point x="46" y="561" type="line"/>
+      <point x="93" y="643"/>
+      <point x="167" y="690"/>
+      <point x="250.18" y="690" type="curve" smooth="yes"/>
+      <point x="348" y="690"/>
+      <point x="414" y="625"/>
+      <point x="414" y="530.412" type="curve" smooth="yes"/>
+      <point x="414" y="433"/>
+      <point x="344" y="362"/>
+      <point x="252" y="362" type="curve" smooth="yes"/>
+      <point x="188" y="362" type="line"/>
+      <point x="188" y="342" type="line"/>
+      <point x="252" y="342" type="line" smooth="yes"/>
+      <point x="365" y="342"/>
+      <point x="426" y="286"/>
+      <point x="450.572" y="157.797" type="curve" smooth="yes"/>
+      <point x="472" y="46"/>
+      <point x="520" y="-5"/>
+      <point x="603.832" y="-5" type="curve" smooth="yes"/>
+      <point x="694" y="-5"/>
+      <point x="742" y="54"/>
+      <point x="742" y="165" type="curve" smooth="yes"/>
+      <point x="742" y="369" type="line"/>
+      <point x="722" y="369" type="line"/>
+      <point x="722" y="167" type="line" smooth="yes"/>
+      <point x="722" y="68"/>
+      <point x="682" y="14"/>
+      <point x="604.792" y="14" type="curve" smooth="yes"/>
+      <point x="532" y="14"/>
+      <point x="488" y="62"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Dzjekomicyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Njekomicyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

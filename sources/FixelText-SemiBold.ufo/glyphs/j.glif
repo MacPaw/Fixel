@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+  <advance width="279"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="59" y="-204.2" type="curve" smooth="yes"/>
+      <point x="152.6" y="-204.2"/>
+      <point x="207.8" y="-144.2"/>
+      <point x="207.8" y="-35.2" type="curve" smooth="yes"/>
+      <point x="207.8" y="520" type="line"/>
+      <point x="83.8" y="520" type="line"/>
+      <point x="83.8" y="-15.2" type="line" smooth="yes"/>
+      <point x="83.8" y="-75.2"/>
+      <point x="62.6" y="-94"/>
+      <point x="16.4" y="-94" type="curve" smooth="yes"/>
+      <point x="-3.8" y="-94"/>
+      <point x="-21.4" y="-90"/>
+      <point x="-37.8" y="-83" type="curve"/>
+      <point x="-37.8" y="-186.2" type="line"/>
+      <point x="-8" y="-198.8"/>
+      <point x="30.4" y="-204.2"/>
+    </contour>
+    <contour>
+      <point x="145.6" y="600.6" type="curve" smooth="yes"/>
+      <point x="189.2" y="600.6"/>
+      <point x="220.4" y="627.6"/>
+      <point x="220.4" y="667.2" type="curve" smooth="yes"/>
+      <point x="220.4" y="706.8"/>
+      <point x="189.2" y="735.2"/>
+      <point x="145.6" y="735.2" type="curve" smooth="yes"/>
+      <point x="102.4" y="735.2"/>
+      <point x="71.8" y="706.8"/>
+      <point x="71.8" y="667.2" type="curve" smooth="yes"/>
+      <point x="71.8" y="627.6"/>
+      <point x="102.4" y="600.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>i</string>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

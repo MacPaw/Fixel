@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="578"/>
+  <unicode hex="0176"/>
+  <anchor x="289" y="520" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="circumflex.case" xyScale="2.53131e-20" xOffset="477.333" yOffset="0.666667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

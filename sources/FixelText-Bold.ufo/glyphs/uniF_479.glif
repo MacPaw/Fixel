@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF479" format="2">
+  <advance width="550"/>
+  <unicode hex="F479"/>
+  <anchor x="352.8" y="520" name="top"/>
+  <outline>
+    <component base="yatcyr"/>
+    <component base="acute" xOffset="498.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>yat+acute</string>
+  </dict>
+  </lib>
+</glyph>

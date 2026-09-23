@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen.case" format="2">
+  <advance width="452"/>
+  <outline>
+    <contour>
+      <point x="65.8" y="313.2" type="line"/>
+      <point x="385.8" y="313.2" type="line"/>
+      <point x="385.8" y="404" type="line"/>
+      <point x="65.8" y="404" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>hyphen</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>hyphen</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

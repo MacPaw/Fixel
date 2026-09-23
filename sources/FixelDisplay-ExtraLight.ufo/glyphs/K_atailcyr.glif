@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Katailcyr" format="2">
+  <advance width="638"/>
+  <unicode hex="049A"/>
+  <outline>
+    <contour>
+      <point x="106.667" y="0" type="line"/>
+      <point x="146.667" y="0" type="line"/>
+      <point x="146.667" y="359" type="line"/>
+      <point x="161.333" y="359" type="line"/>
+      <point x="562.333" y="0" type="line"/>
+      <point x="620.667" y="0" type="line"/>
+      <point x="202.333" y="373.333" type="line"/>
+      <point x="583.333" y="700" type="line"/>
+      <point x="528.667" y="700" type="line"/>
+      <point x="162" y="383.667" type="line"/>
+      <point x="146.667" y="383.667" type="line"/>
+      <point x="146.667" y="700" type="line"/>
+      <point x="106.667" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="-135" type="line"/>
+      <point x="637.333" y="-135" type="line"/>
+      <point x="637.333" y="38" type="line"/>
+      <point x="563.667" y="38" type="line"/>
+      <point x="562.333" y="0" type="line"/>
+      <point x="598" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>К-10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

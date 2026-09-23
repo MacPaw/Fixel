@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota-cy" format="2">
+  <advance width="278"/>
+  <unicode hex="A647"/>
+  <anchor x="117.6" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="176.6" y="-3.6" type="curve" smooth="yes"/>
+      <point x="205.2" y="-3.6"/>
+      <point x="239" y="2.2"/>
+      <point x="263.2" y="9.8" type="curve"/>
+      <point x="263.2" y="90.8" type="line"/>
+      <point x="246.4" y="86.4"/>
+      <point x="226.6" y="84"/>
+      <point x="211.4" y="84" type="curve" smooth="yes"/>
+      <point x="182" y="84"/>
+      <point x="167" y="97.2"/>
+      <point x="167" y="147.2" type="curve" smooth="yes"/>
+      <point x="167" y="520" type="line"/>
+      <point x="68" y="520" type="line"/>
+      <point x="68" y="127.8" type="line" smooth="yes"/>
+      <point x="68" y="33.6"/>
+      <point x="108.6" y="-3.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l.ss01</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l.ss01</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

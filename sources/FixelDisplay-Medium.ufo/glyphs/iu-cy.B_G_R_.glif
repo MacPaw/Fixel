@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iu-cy.BGR" format="2">
+  <advance width="819"/>
+  <anchor x="425.8" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="515.6" y="-7.6" type="curve" smooth="yes"/>
+      <point x="521.6" y="-7.6" type="line" smooth="yes"/>
+      <point x="665" y="-7.6"/>
+      <point x="769.2" y="99.6"/>
+      <point x="769.2" y="246.8" type="curve" smooth="yes"/>
+      <point x="769.2" y="273.2" type="line" smooth="yes"/>
+      <point x="769.2" y="420.6"/>
+      <point x="665" y="527.6"/>
+      <point x="521.6" y="527.6" type="curve" smooth="yes"/>
+      <point x="515.6" y="527.6" type="line" smooth="yes"/>
+      <point x="385.6" y="527.6"/>
+      <point x="289" y="439.4"/>
+      <point x="271.8" y="312.6" type="curve"/>
+      <point x="178.4" y="312.6" type="line"/>
+      <point x="178.4" y="720" type="line"/>
+      <point x="82.4" y="720" type="line"/>
+      <point x="82.4" y="0" type="line"/>
+      <point x="178.4" y="0" type="line"/>
+      <point x="178.4" y="227.6" type="line"/>
+      <point x="269.2" y="227.6" type="line"/>
+      <point x="277.6" y="90"/>
+      <point x="379.2" y="-7.6"/>
+    </contour>
+    <contour>
+      <point x="517.4" y="78.8" type="line" smooth="yes"/>
+      <point x="432.6" y="78.8"/>
+      <point x="371.8" y="148"/>
+      <point x="371.8" y="248.4" type="curve" smooth="yes"/>
+      <point x="371.8" y="273.4" type="line" smooth="yes"/>
+      <point x="371.8" y="372.8"/>
+      <point x="432.6" y="441.2"/>
+      <point x="517.4" y="441.2" type="curve" smooth="yes"/>
+      <point x="520" y="441.2" type="line" smooth="yes"/>
+      <point x="604.8" y="441.2"/>
+      <point x="665.6" y="372.8"/>
+      <point x="665.6" y="273.4" type="curve" smooth="yes"/>
+      <point x="665.6" y="248.4" type="line" smooth="yes"/>
+      <point x="665.6" y="148"/>
+      <point x="604.8" y="78.8"/>
+      <point x="520" y="78.8" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

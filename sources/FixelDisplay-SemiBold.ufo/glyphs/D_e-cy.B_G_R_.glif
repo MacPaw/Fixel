@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="De-cy.BGR" format="2">
+  <advance width="709"/>
+  <outline>
+    <contour>
+      <point x="16.8" y="-135" type="line"/>
+      <point x="141.6" y="-135" type="line"/>
+      <point x="141.6" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="-135" type="line"/>
+      <point x="691.8" y="-135" type="line"/>
+      <point x="691.8" y="112" type="line"/>
+      <point x="16.8" y="112" type="line"/>
+    </contour>
+    <contour>
+      <point x="447.2" y="700" type="line"/>
+      <point x="262.4" y="700" type="line"/>
+      <point x="35.6" y="2" type="line"/>
+      <point x="176.4" y="2" type="line"/>
+      <point x="350.2" y="573.2" type="line"/>
+      <point x="358.2" y="573.2" type="line"/>
+      <point x="533.8" y="2" type="line"/>
+      <point x="673.8" y="2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

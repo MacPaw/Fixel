@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron" format="2">
+  <advance width="480"/>
+  <unicode hex="0161"/>
+  <anchor x="251.2" y="0" name="bottom"/>
+  <anchor x="235.8" y="520" name="top"/>
+  <anchor x="235.8" y="520" name="top.1"/>
+  <outline>
+    <component base="s"/>
+    <component base="caron" xOffset="438"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+caron</string>
+  </dict>
+  </lib>
+</glyph>

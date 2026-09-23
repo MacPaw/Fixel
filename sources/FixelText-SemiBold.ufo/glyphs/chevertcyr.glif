@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chevertcyr" format="2">
+  <advance width="574"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <contour>
+      <point x="379.4" y="0" type="line"/>
+      <point x="503.4" y="0" type="line"/>
+      <point x="503.4" y="520" type="line"/>
+      <point x="379.4" y="520" type="line"/>
+      <point x="379.4" y="287.2" type="line"/>
+      <point x="344.4" y="273.8"/>
+      <point x="302" y="267"/>
+      <point x="263.6" y="267" type="curve" smooth="yes"/>
+      <point x="200" y="267"/>
+      <point x="173" y="293.2"/>
+      <point x="173" y="349.8" type="curve" smooth="yes"/>
+      <point x="173" y="520" type="line"/>
+      <point x="51" y="520" type="line"/>
+      <point x="51" y="340.4" type="line" smooth="yes"/>
+      <point x="51" y="232.4"/>
+      <point x="117.2" y="172"/>
+      <point x="244.6" y="172" type="curve" smooth="yes"/>
+      <point x="286.2" y="172"/>
+      <point x="329" y="180.6"/>
+      <point x="379.4" y="196.4" type="curve"/>
+    </contour>
+    <contour>
+      <point x="314.8" y="72.8" type="line"/>
+      <point x="314.8" y="373.8" type="line"/>
+      <point x="240.4" y="373.8" type="line"/>
+      <point x="240.4" y="72.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ч</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

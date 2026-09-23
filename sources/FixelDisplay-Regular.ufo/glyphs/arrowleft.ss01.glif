@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowleft.ss01" format="2">
+  <advance width="719"/>
+  <outline>
+    <contour>
+      <point x="50" y="331" type="line"/>
+      <point x="122" y="241"/>
+      <point x="167" y="195"/>
+      <point x="259" y="123" type="curve"/>
+      <point x="298" y="173" type="line"/>
+      <point x="226" y="229"/>
+      <point x="185" y="268"/>
+      <point x="134" y="328" type="curve"/>
+      <point x="134" y="340" type="line"/>
+      <point x="185" y="400"/>
+      <point x="226" y="439"/>
+      <point x="298" y="495" type="curve"/>
+      <point x="259" y="545" type="line"/>
+      <point x="167" y="473"/>
+      <point x="122" y="427"/>
+      <point x="50" y="337" type="curve"/>
+    </contour>
+    <contour>
+      <point x="102" y="302" type="line"/>
+      <point x="679" y="302" type="line"/>
+      <point x="679" y="366" type="line"/>
+      <point x="102" y="366" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>arrowleft</string>
+  </dict>
+  </lib>
+</glyph>

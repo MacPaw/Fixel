@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresiscyr" format="2">
+  <advance width="650"/>
+  <unicode hex="04D2"/>
+  <anchor x="656.4" y="0" name="bottom"/>
+  <anchor x="324.8" y="520" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresis.case" xScale="1" xOffset="551.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+dieresis.case</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

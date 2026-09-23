@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowright.ss01" format="2">
+  <advance width="738"/>
+  <outline>
+    <component base="arrowleft.ss01" xScale="-1" xOffset="738.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|arrowleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|arrowleft</string>
+  </dict>
+  </lib>
+</glyph>

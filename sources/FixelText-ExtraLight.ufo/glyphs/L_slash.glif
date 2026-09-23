@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="515"/>
+  <unicode hex="0141"/>
+  <outline>
+    <component base="L" xOffset="2.33333"/>
+    <contour>
+      <point x="26.6667" y="308.333" type="line"/>
+      <point x="306" y="410.333" type="line"/>
+      <point x="306" y="449.333" type="line"/>
+      <point x="26.6667" y="347.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L-80</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>L</string>
+  </dict>
+  </lib>
+</glyph>

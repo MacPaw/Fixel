@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="2">
+  <advance width="392"/>
+  <unicode hex="0157"/>
+  <anchor x="136.2" y="0" name="bottom"/>
+  <anchor x="224.8" y="520" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="commaaccentcomb" xOffset="233.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+commaaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

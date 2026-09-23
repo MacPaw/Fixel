@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketangleleft.case" format="2">
+  <advance width="318"/>
+  <outline>
+    <contour>
+      <point x="258" y="-20" type="line"/>
+      <point x="278" y="-20" type="line"/>
+      <point x="104" y="354" type="line"/>
+      <point x="278" y="720" type="line"/>
+      <point x="258" y="720" type="line"/>
+      <point x="81" y="354" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>parenleft.case</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>parenleft.case</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

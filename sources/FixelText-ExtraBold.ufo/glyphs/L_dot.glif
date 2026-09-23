@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="536"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="64.8" y="0" type="line"/>
+      <point x="483.4" y="0" type="line"/>
+      <point x="483.4" y="156" type="line"/>
+      <point x="246.4" y="156" type="line"/>
+      <point x="246.4" y="700" type="line"/>
+      <point x="64.8" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="398.4" y="287.8" type="curve" smooth="yes"/>
+      <point x="458.4" y="287.8"/>
+      <point x="499.6" y="320.8"/>
+      <point x="499.6" y="372" type="curve" smooth="yes"/>
+      <point x="499.6" y="423.2"/>
+      <point x="458.4" y="458"/>
+      <point x="398.4" y="458" type="curve" smooth="yes"/>
+      <point x="340.8" y="458"/>
+      <point x="301.4" y="423.2"/>
+      <point x="301.4" y="372" type="curve" smooth="yes"/>
+      <point x="301.4" y="320.8"/>
+      <point x="340.8" y="287.8"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>L</string>
+  </dict>
+  </lib>
+</glyph>

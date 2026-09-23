@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve" format="2">
+  <advance width="723"/>
+  <unicode hex="016C"/>
+  <anchor x="449.6" y="0" name="bottom"/>
+  <anchor x="362" y="520" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="breve.case" xScale="1" xyScale="-9.09273e-21" xOffset="572.2" yOffset="-0.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U-cy" format="2">
+  <advance width="615"/>
+  <unicode hex="0423"/>
+  <anchor x="320" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="232" y="-17" type="curve" smooth="yes"/>
+      <point x="338" y="-17"/>
+      <point x="405" y="45"/>
+      <point x="442" y="157" type="curve" smooth="yes"/>
+      <point x="623" y="700" type="line"/>
+      <point x="419" y="700" type="line"/>
+      <point x="347" y="376" type="line"/>
+      <point x="337" y="376" type="line"/>
+      <point x="223" y="700" type="line"/>
+      <point x="-3" y="700" type="line"/>
+      <point x="234" y="171" type="line"/>
+      <point x="223" y="157"/>
+      <point x="206" y="151"/>
+      <point x="185" y="151" type="curve" smooth="yes"/>
+      <point x="151" y="151"/>
+      <point x="112" y="165"/>
+      <point x="91" y="179" type="curve"/>
+      <point x="91" y="8" type="line"/>
+      <point x="137" y="-9"/>
+      <point x="187" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y+10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Y+5</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

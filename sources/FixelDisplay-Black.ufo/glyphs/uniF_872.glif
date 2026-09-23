@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF872" format="2">
+  <advance width="712"/>
+  <unicode hex="F872"/>
+  <anchor x="388" y="520" name="top"/>
+  <outline>
+    <component base="El-cy"/>
+    <component base="macron.case" xOffset="626" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Л+macron.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

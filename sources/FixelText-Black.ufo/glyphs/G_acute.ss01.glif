@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gacute.ss01" format="2">
+  <advance width="765"/>
+  <anchor x="360" y="-12" name="bottom"/>
+  <anchor x="402" y="520" name="top"/>
+  <outline>
+    <component base="G.ss01"/>
+    <component base="acute.case" xOffset="588"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G.ss01+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

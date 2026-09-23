@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yatcyr" format="2">
+  <advance width="499"/>
+  <unicode hex="0463"/>
+  <anchor x="252" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="90" y="639" type="line"/>
+      <point x="90" y="507" type="line"/>
+      <point x="102" y="520" type="line"/>
+      <point x="73" y="518"/>
+      <point x="28" y="515"/>
+      <point x="10" y="510" type="curve"/>
+      <point x="10" y="501" type="line"/>
+      <point x="90" y="501" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="277" y="0" type="line" smooth="yes"/>
+      <point x="381" y="0"/>
+      <point x="454" y="63"/>
+      <point x="454" y="155" type="curve" smooth="yes"/>
+      <point x="454" y="163" type="line" smooth="yes"/>
+      <point x="454" y="255"/>
+      <point x="381" y="318"/>
+      <point x="277" y="318" type="curve" smooth="yes"/>
+      <point x="110" y="318" type="line"/>
+      <point x="110" y="501" type="line"/>
+      <point x="287" y="501" type="line"/>
+      <point x="287" y="520" type="line"/>
+      <point x="110" y="520" type="line"/>
+      <point x="110" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="19" type="line"/>
+      <point x="110" y="299" type="line"/>
+      <point x="277" y="299" type="line" smooth="yes"/>
+      <point x="371" y="299"/>
+      <point x="434" y="244"/>
+      <point x="434" y="164" type="curve" smooth="yes"/>
+      <point x="434" y="154" type="line" smooth="yes"/>
+      <point x="434" y="74"/>
+      <point x="371" y="19"/>
+      <point x="277" y="19" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>hardsign-cy</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ь</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

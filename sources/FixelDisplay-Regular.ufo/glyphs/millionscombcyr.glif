@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="millionscombcyr" format="2">
+  <unicode hex="0489"/>
+  <anchor x="-725" y="520" name="_top.1"/>
+  <outline>
+    <contour>
+      <point x="-756" y="757" type="line"/>
+      <point x="-694" y="757" type="line"/>
+      <point x="-694" y="939" type="line"/>
+      <point x="-756" y="939" type="line"/>
+    </contour>
+    <contour>
+      <point x="-756" y="-410" type="line"/>
+      <point x="-694" y="-410" type="line"/>
+      <point x="-694" y="-228" type="line"/>
+      <point x="-756" y="-228" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1218" y="234" type="line"/>
+      <point x="-1218" y="296" type="line"/>
+      <point x="-1400" y="296" type="line"/>
+      <point x="-1400" y="234" type="line"/>
+    </contour>
+    <contour>
+      <point x="-51" y="234" type="line"/>
+      <point x="-51" y="296" type="line"/>
+      <point x="-233" y="296" type="line"/>
+      <point x="-233" y="234" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1095" y="591" type="line"/>
+      <point x="-1051" y="635" type="line"/>
+      <point x="-1180" y="764" type="line"/>
+      <point x="-1224" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-270" y="-234" type="line"/>
+      <point x="-226" y="-190" type="line"/>
+      <point x="-355" y="-61" type="line"/>
+      <point x="-399" y="-105" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1052" y="-105" type="line"/>
+      <point x="-1096" y="-61" type="line"/>
+      <point x="-1225" y="-190" type="line"/>
+      <point x="-1181" y="-234" type="line"/>
+    </contour>
+    <contour>
+      <point x="-227" y="720" type="line"/>
+      <point x="-271" y="764" type="line"/>
+      <point x="-400" y="635" type="line"/>
+      <point x="-356" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

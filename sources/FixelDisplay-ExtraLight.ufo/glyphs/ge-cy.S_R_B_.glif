@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy.SRB" format="2">
+  <advance width="249"/>
+  <anchor x="102.333" y="520" name="top"/>
+  <outline>
+    <component base="iota-cy"/>
+    <component base="macron" xScale="1" xOffset="254.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota-cy+macron</string>
+  </dict>
+  </lib>
+</glyph>

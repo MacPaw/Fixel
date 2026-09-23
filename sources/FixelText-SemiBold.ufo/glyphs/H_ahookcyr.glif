@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hahookcyr" format="2">
+  <advance width="615"/>
+  <unicode hex="04FC"/>
+  <outline>
+    <contour>
+      <point x="595.2" y="-42.0931" type="curve" smooth="yes"/>
+      <point x="595.2" y="-137.6"/>
+      <point x="533.2" y="-203.6"/>
+      <point x="440.511" y="-203.6" type="curve" smooth="yes"/>
+      <point x="411.2" y="-203.6"/>
+      <point x="376.8" y="-197"/>
+      <point x="349.6" y="-186.2" type="curve"/>
+      <point x="349.6" y="-75.6" type="line"/>
+      <point x="365.6" y="-83.6"/>
+      <point x="382.4" y="-87.2"/>
+      <point x="398.016" y="-87.2" type="curve" smooth="yes"/>
+      <point x="438" y="-87.2"/>
+      <point x="464.4" y="-63.6"/>
+      <point x="464.4" y="-28.1326" type="curve" smooth="yes"/>
+      <point x="464.4" y="3.8"/>
+      <point x="443" y="34"/>
+      <point x="424.4" y="69.6" type="curve" smooth="yes"/>
+      <point x="314" y="273.2" type="line"/>
+      <point x="306" y="273.2" type="line"/>
+      <point x="160.8" y="0" type="line"/>
+      <point x="9.2" y="0" type="line"/>
+      <point x="220" y="360.2" type="line" name="&#x1f525;.1"/>
+      <point x="220" y="365.4" type="line"/>
+      <point x="22.8" y="700" type="line"/>
+      <point x="173.4" y="700" type="line"/>
+      <point x="306" y="455.6" type="line"/>
+      <point x="314" y="455.6" type="line"/>
+      <point x="449" y="700" type="line"/>
+      <point x="596.4" y="700" type="line"/>
+      <point x="399.8" y="365.4" type="line" name="&#x1f525;"/>
+      <point x="399.8" y="360.6" type="line"/>
+      <point x="526.8" y="143.6" type="line"/>
+      <point x="566.4" y="72.8"/>
+      <point x="595.2" y="23"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>X</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>X</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

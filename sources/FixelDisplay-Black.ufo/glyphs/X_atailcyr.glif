@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xatailcyr" format="2">
+  <advance width="714"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <contour>
+      <point x="518" y="-135" type="line"/>
+      <point x="713" y="-135" type="line"/>
+      <point x="713" y="176" type="line"/>
+      <point x="480" y="176" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="9" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="352" y="239" type="line"/>
+      <point x="366" y="239" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="504" y="360" type="line"/>
+      <point x="504" y="366" type="line" name="&#x1f525;"/>
+      <point x="704" y="700" type="line"/>
+      <point x="472" y="700" type="line"/>
+      <point x="366" y="494" type="line"/>
+      <point x="352" y="494" type="line"/>
+      <point x="243" y="700" type="line"/>
+      <point x="12" y="700" type="line"/>
+      <point x="214" y="366" type="line"/>
+      <point x="214" y="359" type="line" name="&#x1f525;.1"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>X</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Katailcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

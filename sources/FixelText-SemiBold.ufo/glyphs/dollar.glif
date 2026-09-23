@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="587"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="237.2" y="-75" type="line"/>
+      <point x="346" y="-75" type="line"/>
+      <point x="346" y="19.8" type="line"/>
+      <point x="472.2" y="32.2"/>
+      <point x="557.2" y="107.4"/>
+      <point x="557.2" y="212" type="curve" smooth="yes"/>
+      <point x="557.2" y="309.6"/>
+      <point x="492" y="364.6"/>
+      <point x="321.4" y="410.2" type="curve"/>
+      <point x="225" y="437"/>
+      <point x="175.4" y="457.6"/>
+      <point x="175.4" y="502" type="curve" smooth="yes"/>
+      <point x="175.4" y="542.4"/>
+      <point x="215.4" y="568.2"/>
+      <point x="281.4" y="568.2" type="curve" smooth="yes"/>
+      <point x="348.8" y="568.2"/>
+      <point x="421.4" y="544.4"/>
+      <point x="473.2" y="506" type="curve"/>
+      <point x="529.4" y="603.2" type="line"/>
+      <point x="478" y="644.8"/>
+      <point x="409.2" y="671"/>
+      <point x="336" y="679.2" type="curve"/>
+      <point x="336" y="775" type="line"/>
+      <point x="227.2" y="775" type="line"/>
+      <point x="227.2" y="677" type="line"/>
+      <point x="119.4" y="658.6"/>
+      <point x="47" y="587.8"/>
+      <point x="47" y="492.2" type="curve" smooth="yes"/>
+      <point x="47" y="398.2"/>
+      <point x="110.6" y="344.6"/>
+      <point x="274" y="300" type="curve" smooth="yes"/>
+      <point x="364.2" y="275.4"/>
+      <point x="424.4" y="254.2"/>
+      <point x="424.4" y="199.6" type="curve" smooth="yes"/>
+      <point x="424.4" y="158"/>
+      <point x="380.8" y="133"/>
+      <point x="308.4" y="133" type="curve" smooth="yes"/>
+      <point x="230.8" y="133"/>
+      <point x="142.8" y="163.6"/>
+      <point x="91.4" y="209.6" type="curve"/>
+      <point x="28" y="111" type="line"/>
+      <point x="80.6" y="64.8"/>
+      <point x="156" y="33"/>
+      <point x="237.2" y="22.2" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>S</string>
+  </dict>
+  </lib>
+</glyph>

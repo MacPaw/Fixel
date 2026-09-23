@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ha-cy" format="2">
+  <advance width="592"/>
+  <unicode hex="0425"/>
+  <outline>
+    <component base="X"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>X</string>
+  </dict>
+  </lib>
+</glyph>

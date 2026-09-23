@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardsign-cy.ss01" format="2">
+  <advance width="602"/>
+  <outline>
+    <contour>
+      <point x="13.4" y="520" type="line"/>
+      <point x="13.4" y="385.2" type="line"/>
+      <point x="112" y="385.2" type="line"/>
+      <point x="112" y="0.2" type="line"/>
+      <point x="359.2" y="0" type="line"/>
+      <point x="487.4" y="0"/>
+      <point x="577.6" y="85.4"/>
+      <point x="577.6" y="203.4" type="curve" smooth="yes"/>
+      <point x="577.6" y="309.2"/>
+      <point x="504.2" y="374.2"/>
+      <point x="383.8" y="374.2" type="curve" smooth="yes"/>
+      <point x="350" y="374.2"/>
+      <point x="317.2" y="368.8"/>
+      <point x="283.6" y="360.2" type="curve"/>
+      <point x="283.6" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="280.4" y="122" type="line"/>
+      <point x="280.4" y="240.8" type="line"/>
+      <point x="297.4" y="249.8"/>
+      <point x="321.2" y="255"/>
+      <point x="342" y="255" type="curve" smooth="yes"/>
+      <point x="384.8" y="255"/>
+      <point x="407" y="233.4"/>
+      <point x="407" y="196.8" type="curve" smooth="yes"/>
+      <point x="407" y="150.4"/>
+      <point x="372.2" y="122"/>
+      <point x="325" y="122" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

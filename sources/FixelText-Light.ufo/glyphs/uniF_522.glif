@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF522" format="2">
+  <advance width="654"/>
+  <unicode hex="F522"/>
+  <anchor x="290.667" y="520" name="top"/>
+  <outline>
+    <component base="Ereversed-cy"/>
+    <component base="macron.case" xOffset="444.667" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Э+macron.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

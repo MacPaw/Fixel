@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve.ss01" format="2">
+  <advance width="559"/>
+  <anchor x="277.333" y="520" name="top"/>
+  <outline>
+    <component base="g.ss01"/>
+    <component base="breve" xOffset="438.667" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss01+breve</string>
+  </dict>
+  </lib>
+</glyph>

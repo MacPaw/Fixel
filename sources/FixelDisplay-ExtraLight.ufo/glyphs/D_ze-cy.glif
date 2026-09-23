@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dze-cy" format="2">
+  <advance width="573"/>
+  <unicode hex="0405"/>
+  <anchor x="295.333" y="0" name="bottom"/>
+  <anchor x="281.333" y="520" name="top"/>
+  <outline>
+    <component base="S"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tche-cy" format="2">
+  <advance width="608"/>
+  <unicode hex="A693"/>
+  <outline>
+    <contour>
+      <point x="379" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="520" type="line"/>
+      <point x="379" y="520" type="line"/>
+      <point x="379" y="268" type="line"/>
+      <point x="356.8" y="260.2"/>
+      <point x="334" y="256.6"/>
+      <point x="312.4" y="256.6" type="curve" smooth="yes"/>
+      <point x="265.6" y="256.6"/>
+      <point x="247" y="280.4"/>
+      <point x="247" y="324.2" type="curve" smooth="yes"/>
+      <point x="247" y="385.2" type="line"/>
+      <point x="316.2" y="385.2" type="line"/>
+      <point x="316.2" y="520" type="line"/>
+      <point x="4" y="520" type="line"/>
+      <point x="4" y="385.2" type="line"/>
+      <point x="77" y="385.2" type="line"/>
+      <point x="77" y="300.8" type="line" smooth="yes"/>
+      <point x="77" y="193.2"/>
+      <point x="146.4" y="126"/>
+      <point x="273.8" y="126" type="curve" smooth="yes"/>
+      <point x="309" y="126"/>
+      <point x="341" y="131.8"/>
+      <point x="379" y="140.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>tetsecyr-20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ч</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

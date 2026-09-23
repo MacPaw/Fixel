@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ebreve.ss01" format="2">
+  <advance width="583"/>
+  <anchor x="407.8" y="0" name="bottom"/>
+  <anchor x="310" y="520" name="top"/>
+  <anchor x="310" y="520" name="top.1"/>
+  <outline>
+    <component base="e.ss01"/>
+    <component base="breve" xyScale="1.97215e-37" xOffset="490" yOffset="-4.44089e-16"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss01+breve</string>
+  </dict>
+  </lib>
+</glyph>

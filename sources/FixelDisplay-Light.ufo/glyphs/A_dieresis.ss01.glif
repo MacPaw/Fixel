@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis.ss01" format="2">
+  <advance width="636"/>
+  <anchor x="601.333" y="0" name="bottom"/>
+  <anchor x="355.333" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="6.66667" y="0" type="curve"/>
+      <point x="71" y="0" type="line"/>
+      <point x="71" y="62.3333"/>
+      <point x="88" y="134.667"/>
+      <point x="114.667" y="210.667" type="curve"/>
+      <point x="477.667" y="210.667" type="line"/>
+      <point x="535.667" y="0" type="line"/>
+      <point x="601.333" y="0" type="line"/>
+      <point x="404.333" y="700" type="line"/>
+      <point x="313.667" y="700" type="line"/>
+      <point x="177.333" y="500.667"/>
+      <point x="6.66667" y="199.333"/>
+    </contour>
+    <contour>
+      <point x="136" y="267.667" type="line"/>
+      <point x="192" y="406"/>
+      <point x="275" y="546.333"/>
+      <point x="344.333" y="646.333" type="curve"/>
+      <point x="357" y="646.333" type="line"/>
+      <point x="462.333" y="267.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="251.667" y="785.333" type="curve" smooth="yes"/>
+      <point x="269" y="780.333"/>
+      <point x="286.333" y="790.667"/>
+      <point x="291.333" y="808" type="curve" smooth="yes"/>
+      <point x="296.333" y="825.333"/>
+      <point x="285.667" y="842.333"/>
+      <point x="268.333" y="847.333" type="curve" smooth="yes"/>
+      <point x="251" y="852"/>
+      <point x="234.333" y="841"/>
+      <point x="229.333" y="823.667" type="curve" smooth="yes"/>
+      <point x="224.333" y="806.333"/>
+      <point x="234.333" y="790"/>
+    </contour>
+    <contour>
+      <point x="441.667" y="785.333" type="curve" smooth="yes"/>
+      <point x="459" y="780.333"/>
+      <point x="476.333" y="790.667"/>
+      <point x="481.333" y="808" type="curve" smooth="yes"/>
+      <point x="486.333" y="825.333"/>
+      <point x="475.667" y="842.333"/>
+      <point x="458.333" y="847.333" type="curve" smooth="yes"/>
+      <point x="441" y="852"/>
+      <point x="424.333" y="841"/>
+      <point x="419.333" y="823.667" type="curve" smooth="yes"/>
+      <point x="414.333" y="806.333"/>
+      <point x="424.333" y="790"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A.ss01+dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

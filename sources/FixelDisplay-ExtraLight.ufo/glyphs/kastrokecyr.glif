@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kastrokecyr" format="2">
+  <advance width="508"/>
+  <unicode hex="049F"/>
+  <outline>
+    <contour>
+      <point x="93.3333" y="596.667" type="line"/>
+      <point x="23.3333" y="596.667" type="line"/>
+      <point x="23.3333" y="621" type="line"/>
+      <point x="42.3333" y="626.333"/>
+      <point x="76.6667" y="630.667"/>
+      <point x="103.667" y="632.333" type="curve"/>
+      <point x="93.3333" y="624.667" type="line"/>
+      <point x="93.3333" y="720" type="line"/>
+      <point x="131.333" y="720" type="line"/>
+      <point x="131.333" y="632" type="line"/>
+      <point x="319.333" y="632" type="line"/>
+      <point x="319.333" y="596.667" type="line"/>
+      <point x="131.333" y="596.667" type="line"/>
+      <point x="131.333" y="287" type="line"/>
+      <point x="140.333" y="287" type="line"/>
+      <point x="420" y="520" type="line"/>
+      <point x="470.333" y="520" type="line"/>
+      <point x="177" y="275.667" type="line"/>
+      <point x="489.333" y="0" type="line"/>
+      <point x="437.333" y="0" type="line"/>
+      <point x="140.333" y="263" type="line"/>
+      <point x="131.333" y="263" type="line"/>
+      <point x="131.333" y="0" type="line"/>
+      <point x="93.3333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>hbar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>k</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

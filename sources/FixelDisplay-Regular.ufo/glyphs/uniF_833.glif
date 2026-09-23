@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF833" format="2">
+  <advance width="574"/>
+  <unicode hex="F833"/>
+  <anchor x="519" y="0" name="bottom"/>
+  <anchor x="309" y="520" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflex.case" xOffset="512"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+circumflex.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

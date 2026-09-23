@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheabkhcyr" format="2">
+  <advance width="886"/>
+  <unicode hex="04BC"/>
+  <outline>
+    <contour>
+      <point x="210.2" y="298.2" type="line"/>
+      <point x="210.2" y="400.8" type="line"/>
+      <point x="181.6" y="400.8" type="line" smooth="yes"/>
+      <point x="132.2" y="400.8"/>
+      <point x="114.4" y="419.2"/>
+      <point x="114.4" y="467.4" type="curve" smooth="yes"/>
+      <point x="114.4" y="492.4"/>
+      <point x="119.8" y="515.2"/>
+      <point x="128.4" y="532.8" type="curve"/>
+      <point x="24.8" y="532.8" type="line"/>
+      <point x="14" y="508.6"/>
+      <point x="6" y="467.2"/>
+      <point x="6" y="436.4" type="curve" smooth="yes"/>
+      <point x="6" y="351"/>
+      <point x="67.4" y="298.2"/>
+      <point x="166.2" y="298.2" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="854.6" y="297.2" type="line"/>
+      <point x="854.6" y="352" type="line"/>
+      <point x="819.6" y="399.2" type="line"/>
+      <point x="277.8" y="399.2" type="line"/>
+      <point x="277.8" y="297.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="854.6" y="352" type="line"/>
+      <point x="854.6" y="559.2"/>
+      <point x="716.8" y="711"/>
+      <point x="517.6" y="711" type="curve" smooth="yes"/>
+      <point x="318.4" y="711"/>
+      <point x="180.2" y="559.2"/>
+      <point x="180.2" y="352" type="curve" smooth="yes"/>
+      <point x="180.2" y="347.8" type="line" smooth="yes"/>
+      <point x="180.2" y="133.2"/>
+      <point x="318" y="-11.2"/>
+      <point x="523.2" y="-11.2" type="curve" smooth="yes"/>
+      <point x="647.6" y="-11.2"/>
+      <point x="756" y="42.4"/>
+      <point x="818.8" y="134.8" type="curve"/>
+      <point x="720" y="207.4" type="line"/>
+      <point x="680.2" y="141"/>
+      <point x="613.6" y="105.2"/>
+      <point x="532.6" y="105.2" type="curve" smooth="yes" name="&#x1f525;.1"/>
+      <point x="398.8" y="105.2"/>
+      <point x="311.8" y="202.4"/>
+      <point x="311.8" y="347.4" type="curve" smooth="yes"/>
+      <point x="311.8" y="354.2" type="line" smooth="yes"/>
+      <point x="311.8" y="496.2"/>
+      <point x="386.6" y="595.4"/>
+      <point x="516.4" y="595.4" type="curve" smooth="yes" name="&#x1f525;.2"/>
+      <point x="638.4" y="595.4"/>
+      <point x="722.8" y="496.2"/>
+      <point x="722.8" y="354.2" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="456" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|Schwa</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

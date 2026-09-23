@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vzmetcomb-cy" format="2">
+  <unicode hex="A66F"/>
+  <anchor x="-201.333" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-365" y="631.333" type="line"/>
+      <point x="-312.333" y="631.333" type="line"/>
+      <point x="-312.333" y="691.667" type="line"/>
+      <point x="-90.3333" y="691.667" type="line"/>
+      <point x="-90.3333" y="631.333" type="line"/>
+      <point x="-37.6667" y="631.333" type="line"/>
+      <point x="-37.6667" y="742.333" type="line"/>
+      <point x="-365" y="742.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

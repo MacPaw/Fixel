@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="622"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="289" y="-5.33333" type="curve" smooth="yes"/>
+      <point x="294.667" y="-5.33333" type="line" smooth="yes"/>
+      <point x="386.667" y="-5.33333"/>
+      <point x="458.667" y="40.3333"/>
+      <point x="494.333" y="117.333" type="curve"/>
+      <point x="494.333" y="112.667" type="line"/>
+      <point x="495" y="71.6667"/>
+      <point x="498.333" y="26.3333"/>
+      <point x="502.667" y="0" type="curve"/>
+      <point x="532" y="0" type="line"/>
+      <point x="532" y="720" type="line"/>
+      <point x="494" y="720" type="line"/>
+      <point x="494" y="403" type="line"/>
+      <point x="458.333" y="479.667"/>
+      <point x="386.667" y="525.333"/>
+      <point x="294.667" y="525.333" type="curve" smooth="yes"/>
+      <point x="289" y="525.333" type="line" smooth="yes"/>
+      <point x="150.667" y="525.333"/>
+      <point x="56.6667" y="422.333"/>
+      <point x="56.6667" y="270.333" type="curve" smooth="yes"/>
+      <point x="56.6667" y="249.667" type="line" smooth="yes"/>
+      <point x="56.6667" y="97.6667"/>
+      <point x="150.667" y="-5.33333"/>
+    </contour>
+    <contour>
+      <point x="291.667" y="32" type="line" smooth="yes"/>
+      <point x="173.333" y="32"/>
+      <point x="96" y="120.333"/>
+      <point x="96" y="251" type="curve" smooth="yes"/>
+      <point x="96" y="269" type="line" smooth="yes"/>
+      <point x="96" y="399.667"/>
+      <point x="173.333" y="488"/>
+      <point x="291.667" y="488" type="curve" smooth="yes"/>
+      <point x="298.333" y="488" type="line" smooth="yes"/>
+      <point x="416.667" y="488"/>
+      <point x="494" y="399.667"/>
+      <point x="494" y="269" type="curve" smooth="yes"/>
+      <point x="494" y="251" type="line" smooth="yes"/>
+      <point x="494" y="120.667"/>
+      <point x="417" y="32"/>
+      <point x="298.333" y="32" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="307" y="626.667" type="line"/>
+      <point x="598.667" y="626.667" type="line"/>
+      <point x="598.667" y="658.667" type="line"/>
+      <point x="307" y="658.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>d</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|hbar</string>
+  </dict>
+  </lib>
+</glyph>

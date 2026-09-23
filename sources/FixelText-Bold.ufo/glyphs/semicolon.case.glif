@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon.case" format="2">
+  <advance width="270"/>
+  <outline>
+    <component base="period" xScale="1" xyScale="-2.53635e-17" xOffset="15.6" yOffset="446.2"/>
+    <component base="comma"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>semicolon</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>semicolon</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

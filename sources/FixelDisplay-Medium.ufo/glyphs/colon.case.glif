@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon.case" format="2">
+  <advance width="226"/>
+  <outline>
+    <component base="period"/>
+    <component base="period" yScale="1" yOffset="465.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

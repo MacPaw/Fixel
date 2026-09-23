@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chedieresiscyr" format="2">
+  <advance width="672"/>
+  <unicode hex="04F4"/>
+  <anchor x="326" y="520" name="top"/>
+  <outline>
+    <component base="Che-cy"/>
+    <component base="dieresis.case" xOffset="510"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Che-cy+dieresis.case</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

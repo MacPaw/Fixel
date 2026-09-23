@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss01" format="2">
+  <advance width="313"/>
+  <anchor x="193" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="69" y="-146.333" type="curve" smooth="yes"/>
+      <point x="162.667" y="-146.333"/>
+      <point x="212.667" y="-78.3333"/>
+      <point x="212.667" y="43.6667" type="curve" smooth="yes"/>
+      <point x="212.667" y="700" type="line"/>
+      <point x="172.667" y="700" type="line"/>
+      <point x="172.667" y="42.3333" type="line" smooth="yes"/>
+      <point x="172.667" y="-56"/>
+      <point x="136" y="-108"/>
+      <point x="60" y="-108" type="curve" smooth="yes"/>
+      <point x="31.3333" y="-108"/>
+      <point x="4.66667" y="-97.3333"/>
+      <point x="-20" y="-85" type="curve"/>
+      <point x="-20" y="-126.333" type="line"/>
+      <point x="6" y="-138.333"/>
+      <point x="37" y="-146.333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>U</string>
+  </dict>
+  </lib>
+</glyph>

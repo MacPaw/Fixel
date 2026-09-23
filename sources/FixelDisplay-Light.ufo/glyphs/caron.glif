@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="-235" y="592.333" type="line"/>
+      <point x="-161" y="592.333" type="line"/>
+      <point x="-21" y="720" type="line"/>
+      <point x="-91.3333" y="720" type="line"/>
+      <point x="-189" y="635" type="line"/>
+      <point x="-207" y="635" type="line"/>
+      <point x="-304.667" y="720" type="line"/>
+      <point x="-375" y="720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

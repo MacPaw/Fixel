@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TeWithMiddleHook-cy" format="2">
+  <advance width="785"/>
+  <unicode hex="A68A"/>
+  <outline>
+    <contour>
+      <point x="187.4" y="0" type="line"/>
+      <point x="369.8" y="0" type="line"/>
+      <point x="369.8" y="544" type="line"/>
+      <point x="567.2" y="544" type="line"/>
+      <point x="567.2" y="700" type="line"/>
+      <point x="21.2" y="700" type="line"/>
+      <point x="21.2" y="544" type="line"/>
+      <point x="187.4" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="433.4" y="-49.6" type="curve"/>
+      <point x="433.4" y="-181.4" type="line"/>
+      <point x="466.8" y="-193.6"/>
+      <point x="500.8" y="-198.4"/>
+      <point x="528.299" y="-198.4" type="curve" smooth="yes"/>
+      <point x="649.6" y="-198.4"/>
+      <point x="731.8" y="-105"/>
+      <point x="731.8" y="40" type="curve" smooth="yes"/>
+      <point x="731.8" y="198.6" type="line" smooth="yes"/>
+      <point x="731.8" y="343.8"/>
+      <point x="646.6" y="430.4"/>
+      <point x="498.155" y="430.4" type="curve" smooth="yes"/>
+      <point x="457.8" y="430.4"/>
+      <point x="410.6" y="424"/>
+      <point x="363.8" y="412" type="curve"/>
+      <point x="363.8" y="256.6" type="line"/>
+      <point x="395" y="267"/>
+      <point x="429.4" y="274.4"/>
+      <point x="462.113" y="274.4" type="curve" smooth="yes"/>
+      <point x="526.2" y="274.4"/>
+      <point x="556.6" y="246"/>
+      <point x="556.6" y="184.6" type="curve" smooth="yes"/>
+      <point x="556.6" y="37.8" type="line" smooth="yes"/>
+      <point x="556.6" y="-22.6"/>
+      <point x="526.2" y="-57.6"/>
+      <point x="480.562" y="-57.6" type="curve" smooth="yes"/>
+      <point x="467.2" y="-57.6"/>
+      <point x="447.6" y="-54.6"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Djecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Gehookcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

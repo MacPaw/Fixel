@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iu-cy" format="2">
+  <advance width="1011"/>
+  <unicode hex="042E"/>
+  <anchor x="530.4" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="631.8" y="-9.8" type="curve" smooth="yes"/>
+      <point x="635.8" y="-9.8" type="line" smooth="yes"/>
+      <point x="827.6" y="-9.8"/>
+      <point x="967.6" y="141.4"/>
+      <point x="967.6" y="340.8" type="curve" smooth="yes"/>
+      <point x="967.6" y="359.4" type="line" smooth="yes"/>
+      <point x="967.6" y="559.2"/>
+      <point x="827.8" y="710.4"/>
+      <point x="635" y="710.4" type="curve" smooth="yes"/>
+      <point x="631.8" y="710.4" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="454" y="710.4"/>
+      <point x="322.8" y="581.6"/>
+      <point x="303.2" y="404.8" type="curve"/>
+      <point x="197.6" y="404.8" type="line"/>
+      <point x="197.6" y="700" type="line"/>
+      <point x="92.2" y="700" type="line"/>
+      <point x="92.2" y="0" type="line"/>
+      <point x="197.6" y="0" type="line"/>
+      <point x="197.6" y="310.8" type="line"/>
+      <point x="301.4" y="310.8" type="line"/>
+      <point x="314.4" y="126.2"/>
+      <point x="449" y="-9.8"/>
+    </contour>
+    <contour>
+      <point x="409.8" y="359" type="line" smooth="yes"/>
+      <point x="409.8" y="506.4"/>
+      <point x="501.2" y="613"/>
+      <point x="632.8" y="613" type="curve" smooth="yes" name="&#x1f525;"/>
+      <point x="635.4" y="613" type="line" smooth="yes"/>
+      <point x="767.2" y="613"/>
+      <point x="857.6" y="506.4"/>
+      <point x="857.6" y="359" type="curve" smooth="yes"/>
+      <point x="857.6" y="341" type="line" smooth="yes"/>
+      <point x="857.6" y="194.2"/>
+      <point x="766.4" y="87.6"/>
+      <point x="635.4" y="87.6" type="curve" smooth="yes"/>
+      <point x="632" y="87.6" type="line" smooth="yes"/>
+      <point x="501.2" y="87.6"/>
+      <point x="409.8" y="194.2"/>
+      <point x="409.8" y="341" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

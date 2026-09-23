@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft.case" format="2">
+  <advance width="578"/>
+  <outline>
+    <contour>
+      <point x="442.667" y="155.333" type="line"/>
+      <point x="505" y="155.333" type="line"/>
+      <point x="325" y="354.667" type="line"/>
+      <point x="325" y="364" type="line"/>
+      <point x="505" y="563.333" type="line"/>
+      <point x="442.667" y="563.333" type="line"/>
+      <point x="264.333" y="365.667" type="line"/>
+      <point x="264.333" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="241.667" y="155.333" type="line"/>
+      <point x="304" y="155.333" type="line"/>
+      <point x="124" y="354.667" type="line"/>
+      <point x="124" y="364" type="line"/>
+      <point x="304" y="563.333" type="line"/>
+      <point x="241.667" y="563.333" type="line"/>
+      <point x="63.3333" y="365.667" type="line"/>
+      <point x="63.3333" y="353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>guilsinglleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>guilsinglleft</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

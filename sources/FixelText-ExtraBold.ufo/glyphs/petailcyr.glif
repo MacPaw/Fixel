@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="petailcyr" format="2">
+  <advance width="643"/>
+  <unicode hex="0525"/>
+  <outline>
+    <contour>
+      <point x="464.6" y="-128" type="line"/>
+      <point x="628.6" y="-128" type="line"/>
+      <point x="628.6" y="125.2" type="line"/>
+      <point x="425.4" y="125.2" type="line"/>
+      <point x="377.2" y="0" type="line"/>
+      <point x="464.6" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="55.4" y="0" type="line"/>
+      <point x="229.4" y="0" type="line"/>
+      <point x="229.4" y="390" type="line"/>
+      <point x="377.2" y="390" type="line"/>
+      <point x="377.2" y="0" type="line"/>
+      <point x="551.2" y="0" type="line"/>
+      <point x="551.2" y="520" type="line"/>
+      <point x="55.4" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>п</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>entailcyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

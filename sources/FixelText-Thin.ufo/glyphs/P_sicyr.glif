@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psicyr" format="2">
+  <advance width="715"/>
+  <unicode hex="0470"/>
+  <outline>
+    <contour>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="175" type="line"/>
+      <point x="338" y="175" type="line" smooth="yes"/>
+      <point x="170" y="175"/>
+      <point x="80" y="260"/>
+      <point x="80" y="418" type="curve" smooth="yes"/>
+      <point x="80" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="100" y="416" type="line" smooth="yes"/>
+      <point x="100" y="272"/>
+      <point x="183" y="194"/>
+      <point x="338" y="194" type="curve" smooth="yes"/>
+      <point x="348" y="194" type="line"/>
+      <point x="348" y="700" type="line"/>
+      <point x="368" y="700" type="line"/>
+      <point x="368" y="194" type="line"/>
+      <point x="378" y="194" type="line" smooth="yes"/>
+      <point x="532" y="194"/>
+      <point x="615" y="272"/>
+      <point x="615" y="416" type="curve" smooth="yes"/>
+      <point x="615" y="700" type="line"/>
+      <point x="635" y="700" type="line"/>
+      <point x="635" y="418" type="line" smooth="yes"/>
+      <point x="635" y="261"/>
+      <point x="544" y="175"/>
+      <point x="378" y="175" type="curve" smooth="yes"/>
+      <point x="368" y="175" type="line"/>
+      <point x="368" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U-20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>U-20</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF52B" format="2">
+  <advance width="544"/>
+  <unicode hex="F52B"/>
+  <anchor x="281.4" y="520" name="top"/>
+  <outline>
+    <component base="ia-cy"/>
+    <component base="breve" xScale="1" xyScale="1.97215e-37" xOffset="461.4" yOffset="-4.44089e-16"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>я+breve</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

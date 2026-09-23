@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ereversed-cy.accented" format="2">
+  <advance width="537"/>
+  <unicode hex="F470"/>
+  <anchor x="245" y="520" name="top"/>
+  <outline>
+    <component base="ereversed-cy"/>
+    <component base="acute" xOffset="404"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>э+acute</string>
+  </dict>
+  </lib>
+</glyph>

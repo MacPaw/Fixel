@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwadieresiscyr" format="2">
+  <advance width="609"/>
+  <unicode hex="04DB"/>
+  <outline>
+    <component base="schwacyr"/>
+    <component base="dieresis" xScale="1" xOffset="498.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>schwacyr+dieresis</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

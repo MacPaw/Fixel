@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotless" format="2">
+  <advance width="284"/>
+  <unicode hex="0237"/>
+  <anchor x="147.6" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="62.2" y="-197" type="curve" smooth="yes"/>
+      <point x="153.8" y="-197"/>
+      <point x="209" y="-137"/>
+      <point x="209" y="-28.4" type="curve" smooth="yes"/>
+      <point x="209" y="520" type="line"/>
+      <point x="85" y="520" type="line"/>
+      <point x="85" y="-8.4" type="line" smooth="yes"/>
+      <point x="85" y="-68.4"/>
+      <point x="63.8" y="-87.2"/>
+      <point x="17.6" y="-87.2" type="curve" smooth="yes"/>
+      <point x="-2.6" y="-87.2"/>
+      <point x="-19.8" y="-83.2"/>
+      <point x="-36.6" y="-75.4" type="curve"/>
+      <point x="-36.6" y="-179" type="line"/>
+      <point x="-6.4" y="-191.6"/>
+      <point x="31.6" y="-197"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>l</string>
+  </dict>
+  </lib>
+</glyph>

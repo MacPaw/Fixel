@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="2">
+  <advance width="574"/>
+  <unicode hex="00E3"/>
+  <anchor x="500.667" y="0" name="bottom"/>
+  <anchor x="285.333" y="520" name="top"/>
+  <anchor x="285.333" y="520" name="top.1"/>
+  <outline>
+    <component base="a"/>
+    <component base="tilde" xyScale="-8.91139e-20" xOffset="475.333" yOffset="2.33333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+tilde</string>
+  </dict>
+  </lib>
+</glyph>

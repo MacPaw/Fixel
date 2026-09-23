@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzjekomicyr" format="2">
+  <advance width="639"/>
+  <unicode hex="0506"/>
+  <outline>
+    <contour>
+      <point x="196.4" y="296.8" type="line"/>
+      <point x="289" y="296.8" type="line" smooth="yes"/>
+      <point x="364.4" y="296.8"/>
+      <point x="410.2" y="252.4"/>
+      <point x="410.2" y="180.6" type="curve" smooth="yes"/>
+      <point x="410.2" y="0" type="line"/>
+      <point x="541.4" y="0" type="line"/>
+      <point x="541.4" y="192" type="line" smooth="yes"/>
+      <point x="541.4" y="282.2"/>
+      <point x="485.4" y="350.6"/>
+      <point x="398.6" y="367.6" type="curve"/>
+      <point x="398.6" y="356.2" type="line"/>
+      <point x="470.4" y="390"/>
+      <point x="509.4" y="448"/>
+      <point x="509.4" y="520.494" type="curve" smooth="yes"/>
+      <point x="509.4" y="633.4"/>
+      <point x="414.8" y="712.2"/>
+      <point x="278.379" y="712.2" type="curve" smooth="yes"/>
+      <point x="168.2" y="712.2"/>
+      <point x="76" y="660.8"/>
+      <point x="11.6" y="565.4" type="curve"/>
+      <point x="120.4" y="500.8" type="line"/>
+      <point x="155" y="562.6"/>
+      <point x="204.4" y="595"/>
+      <point x="266.485" y="595" type="curve" smooth="yes"/>
+      <point x="334.6" y="595"/>
+      <point x="379.4" y="556"/>
+      <point x="379.4" y="497.347" type="curve" smooth="yes"/>
+      <point x="379.4" y="437.4"/>
+      <point x="332.6" y="397.6"/>
+      <point x="262.8" y="397.6" type="curve" smooth="yes"/>
+      <point x="196.4" y="397.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="497.2" y="-135" type="line"/>
+      <point x="622" y="-135" type="line"/>
+      <point x="622" y="116" type="line"/>
+      <point x="462.4" y="116" type="line"/>
+      <point x="410.2" y="0" type="line"/>
+      <point x="497.2" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>З-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ц-5</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

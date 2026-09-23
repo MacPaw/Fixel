@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy.BGR" format="2">
+  <advance width="624"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="327" y="700" name="top"/>
+  <outline>
+    <component base="k"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>k</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

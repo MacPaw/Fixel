@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Twe-cy" format="2">
+  <advance width="562"/>
+  <unicode hex="A68C"/>
+  <outline>
+    <contour>
+      <point x="391.65" y="-16" type="curve" smooth="yes"/>
+      <point x="267.2" y="-16"/>
+      <point x="190.2" y="48"/>
+      <point x="190.2" y="189" type="curve" smooth="yes"/>
+      <point x="190.2" y="544" type="line"/>
+      <point x="20" y="544" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="542" y="700" type="line"/>
+      <point x="542" y="544" type="line"/>
+      <point x="371.8" y="544" type="line"/>
+      <point x="371.8" y="218.8" type="line" smooth="yes"/>
+      <point x="371.8" y="172.6"/>
+      <point x="392.4" y="147.8"/>
+      <point x="433.867" y="147.8" type="curve" smooth="yes"/>
+      <point x="454.6" y="147.8"/>
+      <point x="475.2" y="154"/>
+      <point x="493" y="167" type="curve"/>
+      <point x="493" y="-0.8" type="line"/>
+      <point x="461.4" y="-10.6"/>
+      <point x="427.8" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>T</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DEE" format="2">
+  <unicode hex="2DEE"/>
+  <anchor x="-220.667" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-247.333" y="570" type="line"/>
+      <point x="-194" y="570" type="line"/>
+      <point x="-194" y="663.333" type="line"/>
+      <point x="-50" y="663.333" type="line"/>
+      <point x="-50" y="713.333" type="line"/>
+      <point x="-391.333" y="713.333" type="line"/>
+      <point x="-391.333" y="663.333" type="line"/>
+      <point x="-247.333" y="663.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

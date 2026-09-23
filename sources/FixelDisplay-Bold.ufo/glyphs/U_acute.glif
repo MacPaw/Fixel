@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacute" format="2">
+  <advance width="721"/>
+  <unicode hex="00DA"/>
+  <anchor x="440.2" y="0" name="bottom"/>
+  <anchor x="361" y="520" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="acute.case" xOffset="551"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

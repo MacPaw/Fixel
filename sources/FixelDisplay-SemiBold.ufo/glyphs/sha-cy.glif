@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha-cy" format="2">
+  <advance width="852"/>
+  <unicode hex="0448"/>
+  <outline>
+    <contour>
+      <point x="74.8" y="0" type="line"/>
+      <point x="777.6" y="0" type="line"/>
+      <point x="777.6" y="520" type="line"/>
+      <point x="655.2" y="520" type="line"/>
+      <point x="655.2" y="97.6" type="line"/>
+      <point x="487" y="97.6" type="line"/>
+      <point x="487" y="520" type="line"/>
+      <point x="365.4" y="520" type="line"/>
+      <point x="365.4" y="97.6" type="line"/>
+      <point x="197.2" y="97.6" type="line"/>
+      <point x="197.2" y="520" type="line"/>
+      <point x="74.8" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>н</string>
+  </dict>
+  </lib>
+</glyph>

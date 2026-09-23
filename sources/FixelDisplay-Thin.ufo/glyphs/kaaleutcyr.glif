@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaaleutcyr" format="2">
+  <advance width="518"/>
+  <unicode hex="051F"/>
+  <outline>
+    <component base="ka-cy"/>
+    <contour>
+      <point x="435" y="329" type="line"/>
+      <point x="327" y="425" type="line"/>
+      <point x="327" y="425" type="line"/>
+      <point x="219" y="522" type="line"/>
+      <point x="207" y="508" type="line"/>
+      <point x="313" y="413" type="line"/>
+      <point x="313" y="413" type="line"/>
+      <point x="423" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>k</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

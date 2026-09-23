@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zetailcyr" format="2">
+  <advance width="532"/>
+  <unicode hex="0499"/>
+  <outline>
+    <component base="ze-cy"/>
+    <contour>
+      <point x="191" y="87.2" type="line"/>
+      <point x="191" y="-128" type="line"/>
+      <point x="351" y="-128" type="line"/>
+      <point x="351" y="87.2" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="257" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>з</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>з</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

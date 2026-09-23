@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjecyr" format="2">
+  <advance width="403"/>
+  <unicode hex="0453"/>
+  <anchor x="231.6" y="520" name="top"/>
+  <anchor x="231.6" y="520" name="top.1"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="acute" xScale="1" xOffset="363.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

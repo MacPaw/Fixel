@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="602"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="91.6667" y="0" type="line"/>
+      <point x="129.667" y="0" type="line"/>
+      <point x="129.667" y="235" type="line" smooth="yes"/>
+      <point x="129.667" y="345.667"/>
+      <point x="211" y="421.333"/>
+      <point x="325.333" y="421.333" type="curve" name="&#x1f525;"/>
+      <point x="326.667" y="421.333" type="line"/>
+      <point x="429.667" y="421.333"/>
+      <point x="482.667" y="365"/>
+      <point x="482.667" y="263.333" type="curve" smooth="yes"/>
+      <point x="482.667" y="0" type="line"/>
+      <point x="520.667" y="0" type="line"/>
+      <point x="520.667" y="267.667" type="line" smooth="yes"/>
+      <point x="520.667" y="391"/>
+      <point x="455.333" y="458.667"/>
+      <point x="332.667" y="458.667" type="curve" name="&#x1f525;"/>
+      <point x="331.667" y="458.667" type="line"/>
+      <point x="240" y="458.667"/>
+      <point x="165.667" y="415"/>
+      <point x="129.667" y="345.667" type="curve"/>
+      <point x="129.667" y="596.667" type="line"/>
+      <point x="316.667" y="596.667" type="line"/>
+      <point x="316.667" y="632" type="line"/>
+      <point x="129.667" y="632" type="line"/>
+      <point x="129.667" y="720" type="line"/>
+      <point x="91.6667" y="720" type="line"/>
+      <point x="91.6667" y="622.667" type="line"/>
+      <point x="103.667" y="632.333" type="line"/>
+      <point x="76.6667" y="630.667"/>
+      <point x="42.3333" y="626.333"/>
+      <point x="23.3333" y="621" type="curve"/>
+      <point x="23.3333" y="596.667" type="line"/>
+      <point x="91.6667" y="596.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>h</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

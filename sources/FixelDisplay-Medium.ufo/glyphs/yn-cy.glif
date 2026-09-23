@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yn-cy" format="2">
+  <advance width="616"/>
+  <unicode hex="A65F"/>
+  <outline>
+    <contour>
+      <point x="89" y="115.4" type="line" smooth="yes"/>
+      <point x="78.8" y="87.4"/>
+      <point x="66.8" y="77.8"/>
+      <point x="44.4" y="77.8" type="curve" smooth="yes"/>
+      <point x="35.4" y="77.8"/>
+      <point x="26.2" y="80"/>
+      <point x="15.6" y="84.8" type="curve"/>
+      <point x="15.6" y="0.2" type="line"/>
+      <point x="32.6" y="-4.6"/>
+      <point x="48" y="-7.8"/>
+      <point x="65.6" y="-7.8" type="curve" smooth="yes"/>
+      <point x="115.6" y="-7.8"/>
+      <point x="148.4" y="13.6"/>
+      <point x="168.8" y="80" type="curve"/>
+      <point x="282.8" y="418.8" type="line"/>
+      <point x="352.4" y="418.8" type="line"/>
+      <point x="490.6" y="0" type="line"/>
+      <point x="596.6" y="0" type="line"/>
+      <point x="402.4" y="520" type="line"/>
+      <point x="236.2" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="-200" type="line"/>
+      <point x="365" y="487.4" type="line"/>
+      <point x="270" y="487.4" type="line"/>
+      <point x="268" y="-200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|izhitsacyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|izhitsacyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>izhitsa</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

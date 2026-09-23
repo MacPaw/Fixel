@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusiotifiedClosedLittle-cy" format="2">
+  <advance width="691"/>
+  <unicode hex="A65D"/>
+  <outline>
+    <contour>
+      <point x="483" y="520" type="line"/>
+      <point x="388" y="520" type="line"/>
+      <point x="199" y="0" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="430" y="436" type="line"/>
+      <point x="440" y="436" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="671" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="200" type="line"/>
+      <point x="558" y="270" type="line"/>
+      <point x="304" y="270" type="line"/>
+      <point x="304" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="590" y="0" type="line"/>
+      <point x="590" y="70" type="line"/>
+      <point x="273" y="70" type="line"/>
+      <point x="279" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="200" type="line"/>
+      <point x="330" y="200" type="line"/>
+      <point x="330" y="270" type="line"/>
+      <point x="159" y="270" type="line"/>
+      <point x="159" y="520" type="line"/>
+      <point x="85" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>н</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>yusClosedlittle-cy</string>
+  <key>com.fontlab.recipe</key>
+  <string>yusClosedlittle-cy+н</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

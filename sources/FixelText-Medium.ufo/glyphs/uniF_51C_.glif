@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF51C" format="2">
+  <advance width="750"/>
+  <unicode hex="F51C"/>
+  <anchor x="374.8" y="520" name="top"/>
+  <outline>
+    <component base="Obarcyr"/>
+    <component base="breve.case" xOffset="560.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Obarcyr+breve.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

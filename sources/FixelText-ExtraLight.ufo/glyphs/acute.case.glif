@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.case" format="2">
+  <anchor x="-160" y="519" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-89" y="900" type="line"/>
+      <point x="-130.667" y="900" type="line"/>
+      <point x="-179.667" y="764" type="line"/>
+      <point x="-147.667" y="764" type="line"/>
+    </contour>
+  </outline>
+</glyph>

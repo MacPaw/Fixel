@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="703"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="413.2" y="-11.2" type="curve" smooth="yes"/>
+      <point x="565.2" y="-11.2"/>
+      <point x="664.4" y="80"/>
+      <point x="664.4" y="219.6" type="curve" smooth="yes"/>
+      <point x="664.4" y="343.2"/>
+      <point x="586.2" y="425.8"/>
+      <point x="467.2" y="431.4" type="curve"/>
+      <point x="461.8" y="431.4"/>
+      <point x="455.8" y="430.8"/>
+      <point x="449.8" y="430.2" type="curve"/>
+      <point x="596.8" y="600.4" type="line"/>
+      <point x="596.8" y="700" type="line"/>
+      <point x="329.4" y="700" type="line" smooth="yes"/>
+      <point x="176" y="700"/>
+      <point x="74.4" y="591.2"/>
+      <point x="74.4" y="427" type="curve" smooth="yes"/>
+      <point x="74.4" y="0" type="line"/>
+      <point x="205.2" y="0" type="line"/>
+      <point x="205.2" y="425" type="line" smooth="yes"/>
+      <point x="205.2" y="520"/>
+      <point x="263.6" y="584"/>
+      <point x="350.2" y="584" type="curve" smooth="yes"/>
+      <point x="455.6" y="584" type="line"/>
+      <point x="291" y="389" type="line"/>
+      <point x="335.2" y="314" type="line"/>
+      <point x="358.4" y="327.2"/>
+      <point x="392" y="335.4"/>
+      <point x="420.4" y="335.4" type="curve" smooth="yes"/>
+      <point x="487.4" y="335.4"/>
+      <point x="533" y="290.4"/>
+      <point x="533" y="223.2" type="curve" smooth="yes"/>
+      <point x="533" y="154.8"/>
+      <point x="485.4" y="110.4"/>
+      <point x="412.2" y="110.4" type="curve" smooth="yes"/>
+      <point x="380.6" y="110.4"/>
+      <point x="354" y="119.6"/>
+      <point x="329" y="137.4" type="curve"/>
+      <point x="258" y="34.4" type="line"/>
+      <point x="300.4" y="4.6"/>
+      <point x="351.8" y="-11.2"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>B-5</string>
+  </dict>
+  </lib>
+</glyph>

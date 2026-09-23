@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="2">
+  <advance width="632"/>
+  <unicode hex="0064"/>
+  <anchor x="584" y="517" name="right"/>
+  <outline>
+    <contour>
+      <point x="247" y="-14" type="curve" smooth="yes"/>
+      <point x="254" y="-14" type="line" smooth="yes"/>
+      <point x="319" y="-14"/>
+      <point x="374" y="10"/>
+      <point x="413" y="51" type="curve"/>
+      <point x="413" y="51" type="line"/>
+      <point x="416" y="32"/>
+      <point x="421" y="13"/>
+      <point x="426" y="0" type="curve"/>
+      <point x="584" y="0" type="line"/>
+      <point x="584" y="720" type="line"/>
+      <point x="385" y="720" type="line"/>
+      <point x="385" y="494" type="line"/>
+      <point x="349" y="520"/>
+      <point x="305" y="534"/>
+      <point x="255" y="534" type="curve" smooth="yes"/>
+      <point x="247" y="534" type="line" smooth="yes"/>
+      <point x="111" y="534"/>
+      <point x="20" y="431"/>
+      <point x="20" y="277" type="curve" smooth="yes"/>
+      <point x="20" y="243" type="line" smooth="yes"/>
+      <point x="20" y="89"/>
+      <point x="111" y="-14"/>
+    </contour>
+    <contour>
+      <point x="301" y="122" type="line" smooth="yes"/>
+      <point x="255" y="122"/>
+      <point x="226" y="172"/>
+      <point x="226" y="254" type="curve" smooth="yes"/>
+      <point x="226" y="275" type="line" smooth="yes"/>
+      <point x="226" y="352"/>
+      <point x="255" y="398"/>
+      <point x="301" y="398" type="curve" smooth="yes"/>
+      <point x="311" y="398" type="line" smooth="yes"/>
+      <point x="357" y="398"/>
+      <point x="386" y="352"/>
+      <point x="386" y="275" type="curve" smooth="yes"/>
+      <point x="386" y="254" type="line" smooth="yes"/>
+      <point x="386" y="172"/>
+      <point x="357" y="122"/>
+      <point x="311" y="122" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l</string>
+  </dict>
+  </lib>
+</glyph>

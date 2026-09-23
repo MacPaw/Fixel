@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent.ss01" format="2">
+  <advance width="558"/>
+  <anchor x="277.333" y="520" name="top"/>
+  <outline>
+    <component base="g.ss01"/>
+    <component base="dotaccent" xOffset="411" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g.ss01+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

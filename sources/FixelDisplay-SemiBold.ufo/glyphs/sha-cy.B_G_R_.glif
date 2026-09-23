@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha-cy.BGR" format="2">
+  <advance width="919"/>
+  <outline>
+    <contour>
+      <point x="844.4" y="520" type="line"/>
+      <point x="720.4" y="520" type="line"/>
+      <point x="720.4" y="227.6" type="line" smooth="yes"/>
+      <point x="720.4" y="141.4"/>
+      <point x="675" y="98.8"/>
+      <point x="609.2" y="98" type="curve"/>
+      <point x="607.4" y="98" type="line"/>
+      <point x="545.4" y="98.4"/>
+      <point x="517.4" y="128.6"/>
+      <point x="517.4" y="204.6" type="curve" smooth="yes"/>
+      <point x="517.4" y="520" type="line"/>
+      <point x="393.4" y="520" type="line"/>
+      <point x="393.4" y="227.2" type="line" smooth="yes"/>
+      <point x="393.4" y="141"/>
+      <point x="347.2" y="98.4"/>
+      <point x="281" y="97.6" type="curve"/>
+      <point x="279.2" y="97.6" type="line"/>
+      <point x="218.4" y="98"/>
+      <point x="190.4" y="128.2"/>
+      <point x="190.4" y="204.2" type="curve" smooth="yes"/>
+      <point x="190.4" y="520" type="line"/>
+      <point x="66.4" y="520" type="line"/>
+      <point x="66.4" y="182.6" type="line" smooth="yes"/>
+      <point x="66.4" y="59.6"/>
+      <point x="125.6" y="-10.4"/>
+      <point x="236.6" y="-10.4" type="curve"/>
+      <point x="238.4" y="-10.4" type="line"/>
+      <point x="309.6" y="-10.4"/>
+      <point x="371.6" y="24.6"/>
+      <point x="412.2" y="80.6" type="curve"/>
+      <point x="437.8" y="22"/>
+      <point x="489.8" y="-10"/>
+      <point x="565.2" y="-10" type="curve"/>
+      <point x="567" y="-10" type="line"/>
+      <point x="632.6" y="-10"/>
+      <point x="691.4" y="21.6"/>
+      <point x="731.6" y="70.2" type="curve"/>
+      <point x="733.8" y="48.8"/>
+      <point x="739.6" y="17.8"/>
+      <point x="746.4" y="0" type="curve"/>
+      <point x="844.4" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l</string>
+  <key>com.fontlab.recipe</key>
+  <string>m</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

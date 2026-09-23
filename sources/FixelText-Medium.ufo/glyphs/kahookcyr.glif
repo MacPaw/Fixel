@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kahookcyr" format="2">
+  <advance width="521"/>
+  <unicode hex="04C4"/>
+  <outline>
+    <contour>
+      <point x="275.8" y="-109.8" type="curve" smooth="yes"/>
+      <point x="252.6" y="-109.8"/>
+      <point x="235.4" y="-107"/>
+      <point x="216.8" y="-99.8" type="curve"/>
+      <point x="216.8" y="-184.4" type="line"/>
+      <point x="244" y="-194.8"/>
+      <point x="272" y="-200.6"/>
+      <point x="297.2" y="-200.6" type="curve" smooth="yes"/>
+      <point x="410.4" y="-200.6"/>
+      <point x="484.8" y="-103.6"/>
+      <point x="484.8" y="41.2" type="curve" smooth="yes"/>
+      <point x="484.8" y="73.4" type="line" smooth="yes"/>
+      <point x="484.8" y="225.6"/>
+      <point x="402" y="305.8"/>
+      <point x="277" y="305.8" type="curve" smooth="yes"/>
+      <point x="240.2" y="305.8"/>
+      <point x="203.8" y="300.8"/>
+      <point x="172" y="287.2" type="curve"/>
+      <point x="172" y="222" type="line"/>
+      <point x="264.4" y="222" type="line" smooth="yes"/>
+      <point x="338" y="222"/>
+      <point x="388.8" y="172.8"/>
+      <point x="388.8" y="69.8" type="curve" smooth="yes"/>
+      <point x="388.8" y="40.8" type="line" smooth="yes"/>
+      <point x="388.8" y="-50.4"/>
+      <point x="344.2" y="-109.8"/>
+    </contour>
+    <contour>
+      <point x="176.8" y="520" type="line"/>
+      <point x="77.8" y="520" type="line"/>
+      <point x="77.8" y="0" type="line"/>
+      <point x="176.8" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="190.2" y="267.2" type="line"/>
+      <point x="277.4" y="248.2" type="line"/>
+      <point x="507.4" y="520" type="line"/>
+      <point x="394.2" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>k+10</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Engecyr" format="2">
+  <advance width="925"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="265" type="line"/>
+      <point x="463" y="265" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="671" y="0" type="line"/>
+      <point x="671" y="524" type="line"/>
+      <point x="901" y="524" type="line"/>
+      <point x="901" y="700" type="line"/>
+      <point x="463" y="700" type="line"/>
+      <point x="463" y="441" type="line"/>
+      <point x="268" y="441" type="line"/>
+      <point x="268" y="700" type="line"/>
+      <point x="61" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ґ</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="574"/>
+  <unicode hex="00CA"/>
+  <anchor x="509" y="0" name="bottom"/>
+  <anchor x="309" y="520" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflex.case" xOffset="490" yOffset="1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

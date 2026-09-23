@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yeru-cy.accented" format="2">
+  <advance width="821"/>
+  <unicode hex="F465"/>
+  <anchor x="410.333" y="520" name="top"/>
+  <outline>
+    <component base="Yeru-cy"/>
+    <component base="acute.case" xScale="1" xOffset="565.333" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ы+acute.case</string>
+  </dict>
+  </lib>
+</glyph>

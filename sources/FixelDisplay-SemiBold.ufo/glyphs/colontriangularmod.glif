@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colontriangularmod" format="2">
+  <advance width="243"/>
+  <unicode hex="02D0"/>
+  <outline>
+    <contour>
+      <point x="121.4" y="138.2" type="line"/>
+      <point x="41.6" y="0" type="line"/>
+      <point x="201.2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="121.4" y="308.6" type="line"/>
+      <point x="201.2" y="446.8" type="line"/>
+      <point x="41.6" y="446.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>colon</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

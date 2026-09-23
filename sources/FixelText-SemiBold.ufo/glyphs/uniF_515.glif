@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF515" format="2">
+  <advance width="565"/>
+  <unicode hex="F515"/>
+  <outline>
+    <component base="e"/>
+    <component base="dieresis" xScale="1" xOffset="493.6" yOffset="-25"/>
+    <component base="breve" xScale="1" xyScale="8.57199e-18" xOffset="464.4" yOffset="150.8"/>
+  </outline>
+  <guideline angle="90" x="296" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+dieresis+breve</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsse-cy" format="2">
+  <advance width="522"/>
+  <unicode hex="A690"/>
+  <outline>
+    <contour>
+      <point x="291" y="0" type="line"/>
+      <point x="245.667" y="0" type="line" smooth="yes"/>
+      <point x="202.667" y="0"/>
+      <point x="173.667" y="-26.6667"/>
+      <point x="173.667" y="-65.5053" type="curve" smooth="yes"/>
+      <point x="173.667" y="-99.3333"/>
+      <point x="195.667" y="-122.667"/>
+      <point x="229.494" y="-122.667" type="curve" smooth="yes"/>
+      <point x="245.667" y="-122.667"/>
+      <point x="258.667" y="-117.333"/>
+      <point x="269" y="-107.333" type="curve"/>
+      <point x="297.333" y="-142" type="line"/>
+      <point x="280" y="-158.667"/>
+      <point x="255.333" y="-168"/>
+      <point x="227.262" y="-168" type="curve" smooth="yes"/>
+      <point x="168.667" y="-168"/>
+      <point x="128" y="-127.333"/>
+      <point x="128" y="-67.37" type="curve" smooth="yes"/>
+      <point x="128" y="0"/>
+      <point x="179.333" y="45.3333"/>
+      <point x="256.333" y="45.3333" type="curve"/>
+      <point x="231" y="22.3333" type="line"/>
+      <point x="231" y="643" type="line"/>
+      <point x="16.6667" y="643" type="line"/>
+      <point x="16.6667" y="700" type="line"/>
+      <point x="505.333" y="700" type="line"/>
+      <point x="505.333" y="643" type="line"/>
+      <point x="291" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>T</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

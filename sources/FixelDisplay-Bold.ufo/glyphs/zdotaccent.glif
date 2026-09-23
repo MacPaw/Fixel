@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="2">
+  <advance width="507"/>
+  <unicode hex="017C"/>
+  <anchor x="254" y="520" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotaccent" xOffset="397.2" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

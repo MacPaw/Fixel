@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="2">
+  <advance width="184"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="60" y="478" type="line"/>
+      <point x="77" y="478" type="line"/>
+      <point x="157" y="700" type="line"/>
+      <point x="131" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>quotedblright</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>quotedblright</string>
+  </dict>
+  </lib>
+</glyph>

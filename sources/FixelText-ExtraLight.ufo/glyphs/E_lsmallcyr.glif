@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elsmallcyr" format="2">
+  <advance width="545"/>
+  <unicode hex="1D2B"/>
+  <anchor x="272.333" y="520" name="top"/>
+  <anchor x="272.333" y="520" name="top.1"/>
+  <outline>
+    <component base="el-cy.BGR"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>el-cy.BGR</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

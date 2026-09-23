@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="2">
+  <advance width="628"/>
+  <unicode hex="016F"/>
+  <anchor x="553.2" y="0" name="bottom"/>
+  <anchor x="306.8" y="520" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="ring" xOffset="429" yOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+ring</string>
+  </dict>
+  </lib>
+</glyph>

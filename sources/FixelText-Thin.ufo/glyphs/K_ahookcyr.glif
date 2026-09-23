@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kahookcyr" format="2">
+  <advance width="601"/>
+  <unicode hex="04C3"/>
+  <outline>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="342" type="line"/>
+      <point x="194" y="351" type="line"/>
+      <point x="534" y="700" type="line"/>
+      <point x="504" y="700" type="line"/>
+      <point x="180" y="361" type="line"/>
+      <point x="130" y="361" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="110" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="-167" type="curve"/>
+      <point x="303" y="-188" type="line"/>
+      <point x="323" y="-192"/>
+      <point x="342" y="-195"/>
+      <point x="363" y="-195" type="curve" smooth="yes"/>
+      <point x="469" y="-195"/>
+      <point x="539" y="-119"/>
+      <point x="539" y="24" type="curve" smooth="yes"/>
+      <point x="539" y="96" type="line" smooth="yes"/>
+      <point x="539" y="277"/>
+      <point x="445" y="362"/>
+      <point x="267" y="362" type="curve" smooth="yes"/>
+      <point x="191" y="362" type="line"/>
+      <point x="190" y="361" type="line"/>
+      <point x="130" y="361" type="line"/>
+      <point x="130" y="342" type="line"/>
+      <point x="266" y="342" type="line" smooth="yes"/>
+      <point x="433" y="342"/>
+      <point x="519" y="265"/>
+      <point x="519" y="96" type="curve" smooth="yes"/>
+      <point x="519" y="24" type="line" smooth="yes"/>
+      <point x="519" y="-109"/>
+      <point x="455" y="-175"/>
+      <point x="364" y="-175" type="curve" smooth="yes"/>
+      <point x="339" y="-175"/>
+      <point x="321" y="-171"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>K</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Djecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

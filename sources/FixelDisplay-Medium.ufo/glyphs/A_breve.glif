@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="2">
+  <advance width="649"/>
+  <unicode hex="0102"/>
+  <anchor x="647.6" y="0" name="bottom"/>
+  <anchor x="324.4" y="520" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="breve.case" xScale="1" xyScale="3.64153e-20" xOffset="511.2" yOffset="-0.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

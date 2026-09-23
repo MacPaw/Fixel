@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="213"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="19" y="-109" type="line"/>
+      <point x="67.3333" y="-109" type="line"/>
+      <point x="164" y="129" type="line"/>
+      <point x="101.333" y="129" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>comma</string>
+  </dict>
+  </lib>
+</glyph>

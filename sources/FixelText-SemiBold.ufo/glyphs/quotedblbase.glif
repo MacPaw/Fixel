@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="2">
+  <advance width="444"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="16.4" y="-124.6" type="line"/>
+      <point x="111.6" y="-124.6" type="line"/>
+      <point x="221.8" y="156.6" type="line"/>
+      <point x="102.8" y="156.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="202.4" y="-124.6" type="line"/>
+      <point x="297.6" y="-124.6" type="line"/>
+      <point x="407.8" y="156.6" type="line"/>
+      <point x="288.8" y="156.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>comma</string>
+  </dict>
+  </lib>
+</glyph>

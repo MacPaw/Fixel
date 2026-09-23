@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF45E" format="2">
+  <advance width="288"/>
+  <unicode hex="F45E"/>
+  <anchor x="196.6" y="0" name="bottom"/>
+  <anchor x="144" y="520" name="top"/>
+  <outline>
+    <component base="Iacute"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Iacute</string>
+  </dict>
+  </lib>
+</glyph>

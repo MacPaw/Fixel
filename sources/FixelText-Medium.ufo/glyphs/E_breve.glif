@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="2">
+  <advance width="559"/>
+  <unicode hex="0114"/>
+  <anchor x="501.6" y="0" name="bottom"/>
+  <anchor x="297" y="520" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="breve.case" xScale="1" xOffset="482.4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

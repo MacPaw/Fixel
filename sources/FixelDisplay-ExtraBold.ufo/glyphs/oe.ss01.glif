@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe.ss01" format="2">
+  <advance width="984"/>
+  <outline>
+    <contour>
+      <point x="305.4" y="-12.4" type="curve" smooth="yes"/>
+      <point x="316" y="-12.4" type="line" smooth="yes"/>
+      <point x="473.2" y="-12.4"/>
+      <point x="588.6" y="98.8"/>
+      <point x="588.6" y="248.2" type="curve" smooth="yes"/>
+      <point x="588.6" y="271.8" type="line" smooth="yes"/>
+      <point x="588.6" y="421.2"/>
+      <point x="473.2" y="532.4"/>
+      <point x="316" y="532.4" type="curve" smooth="yes"/>
+      <point x="305.4" y="532.4" type="line" smooth="yes"/>
+      <point x="148.2" y="532.4"/>
+      <point x="32.8" y="421.2"/>
+      <point x="32.8" y="271.8" type="curve" smooth="yes"/>
+      <point x="32.8" y="248.2" type="line" smooth="yes"/>
+      <point x="32.8" y="98.8"/>
+      <point x="148.2" y="-12.4"/>
+    </contour>
+    <contour>
+      <point x="314.6" y="111" type="line" smooth="yes"/>
+      <point x="257.4" y="111"/>
+      <point x="213.2" y="171.2"/>
+      <point x="213.2" y="253.8" type="curve" smooth="yes"/>
+      <point x="213.2" y="266.2" type="line" smooth="yes"/>
+      <point x="213.2" y="348.8"/>
+      <point x="257.4" y="409"/>
+      <point x="314.6" y="409" type="curve" smooth="yes"/>
+      <point x="322.8" y="409" type="line" smooth="yes"/>
+      <point x="380.8" y="409"/>
+      <point x="424.2" y="348.8"/>
+      <point x="424.2" y="266.2" type="curve" smooth="yes"/>
+      <point x="424.2" y="253.8" type="line" smooth="yes"/>
+      <point x="424.2" y="171.2"/>
+      <point x="380" y="111"/>
+      <point x="322.8" y="111" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="699" y="-13.2" type="curve" smooth="yes"/>
+      <point x="718.4" y="-13.2" type="line" smooth="yes"/>
+      <point x="806.4" y="-13.2"/>
+      <point x="905" y="29"/>
+      <point x="951.4" y="75.8" type="curve"/>
+      <point x="864.4" y="178" type="line"/>
+      <point x="822.8" y="145.6"/>
+      <point x="773.2" y="121.6"/>
+      <point x="725.6" y="121.6" type="curve" smooth="yes"/>
+      <point x="710.2" y="121.6" type="line" smooth="yes"/>
+      <point x="655.4" y="121.6"/>
+      <point x="604.2" y="151.8"/>
+      <point x="591.2" y="211" type="curve"/>
+      <point x="591.2" y="211" type="line"/>
+      <point x="757.2" y="211" type="line" smooth="yes"/>
+      <point x="888.4" y="211"/>
+      <point x="951.4" y="259"/>
+      <point x="951.4" y="343.2" type="curve" smooth="yes"/>
+      <point x="951.4" y="454.2"/>
+      <point x="846.2" y="532.4"/>
+      <point x="708.2" y="532.4" type="curve" smooth="yes"/>
+      <point x="691.2" y="532.4" type="line" smooth="yes"/>
+      <point x="541" y="532.4"/>
+      <point x="424.2" y="415.6"/>
+      <point x="424.2" y="263.8" type="curve" smooth="yes"/>
+      <point x="424.2" y="245.2" type="line" smooth="yes"/>
+      <point x="424.2" y="96"/>
+      <point x="540.8" y="-13.2"/>
+    </contour>
+    <contour>
+      <point x="589.2" y="309" type="line"/>
+      <point x="598.2" y="367.8"/>
+      <point x="640" y="412"/>
+      <point x="698" y="412" type="curve" smooth="yes"/>
+      <point x="701" y="412" type="line" smooth="yes"/>
+      <point x="756.2" y="412"/>
+      <point x="785.2" y="383.2"/>
+      <point x="785.2" y="352.6" type="curve" smooth="yes"/>
+      <point x="785.2" y="328"/>
+      <point x="769.2" y="309"/>
+      <point x="730.4" y="309" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e.ss01</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

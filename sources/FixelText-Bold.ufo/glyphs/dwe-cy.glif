@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dwe-cy" format="2">
+  <advance width="605"/>
+  <unicode hex="A681"/>
+  <outline>
+    <component base="de-cy"/>
+    <contour>
+      <point x="240" y="445.8" type="line"/>
+      <point x="240" y="631" type="line"/>
+      <point x="101.8" y="631" type="line"/>
+      <point x="101.8" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>д</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>д</string>
+  <key>com.fontlab.recipe</key>
+  <string>д</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

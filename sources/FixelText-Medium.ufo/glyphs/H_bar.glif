@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="696"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="H"/>
+    <contour>
+      <point x="157" y="529.6" type="line"/>
+      <point x="551.6" y="529.6" type="line"/>
+      <point x="551.6" y="617.2" type="line"/>
+      <point x="157" y="617.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>r()</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

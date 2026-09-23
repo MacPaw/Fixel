@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tf" format="2">
+  <advance width="626"/>
+  <outline>
+    <contour>
+      <point x="584.8" y="542.4" type="line"/>
+      <point x="550" y="648.4"/>
+      <point x="458.4" y="712.8"/>
+      <point x="331.2" y="712.8" type="curve" smooth="yes"/>
+      <point x="143" y="712.8"/>
+      <point x="30.4" y="572.4"/>
+      <point x="30.4" y="342" type="curve" smooth="yes"/>
+      <point x="30.4" y="116.4"/>
+      <point x="139.4" y="-12.8"/>
+      <point x="325.4" y="-12.8" type="curve" smooth="yes"/>
+      <point x="490.2" y="-12.8"/>
+      <point x="605" y="88.2"/>
+      <point x="605" y="231.8" type="curve" smooth="yes"/>
+      <point x="605" y="370.2"/>
+      <point x="498.2" y="454.4"/>
+      <point x="363.2" y="454.4" type="curve" smooth="yes"/>
+      <point x="301.6" y="454.4"/>
+      <point x="242.2" y="435.6"/>
+      <point x="187.8" y="396.8" type="curve"/>
+      <point x="183.8" y="398.4"/>
+      <point x="180.2" y="399.6"/>
+      <point x="178" y="399.2" type="curve"/>
+      <point x="182.2" y="517.6"/>
+      <point x="239.4" y="588.6"/>
+      <point x="328.6" y="588.6" type="curve" smooth="yes"/>
+      <point x="385" y="588.6"/>
+      <point x="424.2" y="561"/>
+      <point x="446" y="509.6" type="curve"/>
+    </contour>
+    <contour>
+      <point x="183.4" y="256.2" type="curve"/>
+      <point x="186.4" y="262.2"/>
+      <point x="188.8" y="268.6"/>
+      <point x="192.6" y="273.6" type="curve"/>
+      <point x="218.2" y="320"/>
+      <point x="276" y="344.4"/>
+      <point x="332.6" y="344.4" type="curve" smooth="yes"/>
+      <point x="408.4" y="344.4"/>
+      <point x="458" y="302.4"/>
+      <point x="458" y="236.6" type="curve" smooth="yes"/>
+      <point x="458" y="168"/>
+      <point x="402.6" y="118.6"/>
+      <point x="325" y="118.6" type="curve" smooth="yes"/>
+      <point x="244.2" y="118.6"/>
+      <point x="193.6" y="174.6"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <guideline angle="90" x="290" y="0"/>
+</glyph>

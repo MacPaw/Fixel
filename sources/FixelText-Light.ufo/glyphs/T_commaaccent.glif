@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="502"/>
+  <unicode hex="021A"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="251" y="520" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="commaaccentcomb" xOffset="320"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+commaaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iebrevecyr" format="2">
+  <advance width="571"/>
+  <unicode hex="04D7"/>
+  <anchor x="348.667" y="0" name="bottom"/>
+  <anchor x="294" y="520" name="top"/>
+  <anchor x="294" y="520" name="top.1"/>
+  <outline>
+    <component base="e"/>
+    <component base="breve" xOffset="454.667" yOffset="1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+breve</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

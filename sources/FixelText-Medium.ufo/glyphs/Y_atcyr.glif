@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yatcyr" format="2">
+  <advance width="665"/>
+  <unicode hex="0462"/>
+  <anchor x="185.8" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="237.2" y="94.6" type="line"/>
+      <point x="237.2" y="338.6" type="line"/>
+      <point x="379" y="338.6" type="line" smooth="yes"/>
+      <point x="463.2" y="338.6"/>
+      <point x="515.8" y="293.4"/>
+      <point x="515.8" y="219.6" type="curve" smooth="yes"/>
+      <point x="515.8" y="214.4" type="line" smooth="yes" name="&#x1f525;.1"/>
+      <point x="515.8" y="139.6"/>
+      <point x="464.4" y="94.6"/>
+      <point x="379" y="94.6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="133" y="705" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="382.8" y="0" type="line" smooth="yes"/>
+      <point x="528.2" y="0"/>
+      <point x="624" y="84.6"/>
+      <point x="624" y="213.6" type="curve" smooth="yes"/>
+      <point x="624" y="218.8" type="line" smooth="yes" name="&#x1f525;"/>
+      <point x="624" y="347"/>
+      <point x="527.4" y="429.6"/>
+      <point x="383.8" y="429.6" type="curve" smooth="yes"/>
+      <point x="238.4" y="429.6" type="line"/>
+      <point x="238.4" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="528" type="line"/>
+      <point x="388.4" y="528" type="line"/>
+      <point x="388.4" y="619" type="line"/>
+      <point x="20" y="619" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Т</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ь</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF536" format="2">
+  <advance width="909"/>
+  <unicode hex="F536"/>
+  <anchor x="454.4" y="520" name="top"/>
+  <outline>
+    <component base="Yeru-cy"/>
+    <component base="breve.case" xyScale="-9.09273e-21" xOffset="664.6" yOffset="-0.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ы+breve.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowup.ss01" format="2">
+  <advance width="636"/>
+  <outline>
+    <contour>
+      <point x="312" y="645" type="line"/>
+      <point x="198" y="571"/>
+      <point x="138" y="519"/>
+      <point x="40" y="407" type="curve"/>
+      <point x="151" y="310" type="line"/>
+      <point x="218" y="386"/>
+      <point x="265" y="430"/>
+      <point x="327" y="477" type="curve"/>
+      <point x="309" y="477" type="line"/>
+      <point x="371" y="430"/>
+      <point x="418" y="386"/>
+      <point x="485" y="310" type="curve"/>
+      <point x="596" y="407" type="line"/>
+      <point x="498" y="519"/>
+      <point x="438" y="571"/>
+      <point x="324" y="645" type="curve"/>
+    </contour>
+    <contour>
+      <point x="245" y="568" type="line"/>
+      <point x="245" y="18" type="line"/>
+      <point x="391" y="18" type="line"/>
+      <point x="391" y="568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowup</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l()</string>
+  </dict>
+  </lib>
+</glyph>

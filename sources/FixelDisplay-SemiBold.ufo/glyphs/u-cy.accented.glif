@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u-cy.accented" format="2">
+  <advance width="558"/>
+  <unicode hex="F46E"/>
+  <anchor x="285.2" y="518.2" name="top"/>
+  <anchor x="285.2" y="518.2" name="top.1"/>
+  <outline>
+    <component base="y"/>
+    <component base="acute" xScale="1" xyScale="8.15348e-20" xOffset="427.8" yOffset="-1.8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+acute</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="2">
+  <advance width="787"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="232.6" y="347.8" type="line" smooth="yes"/>
+      <point x="232.6" y="247.4"/>
+      <point x="282.6" y="175.2"/>
+      <point x="347.4" y="155.2" type="curve"/>
+      <point x="343" y="31.8" type="line"/>
+      <point x="177" y="58.8"/>
+      <point x="44.6" y="187.4"/>
+      <point x="44.6" y="361" type="curve" smooth="yes"/>
+      <point x="44.6" y="381" type="line" smooth="yes"/>
+      <point x="44.6" y="581.2"/>
+      <point x="181.4" y="715.4"/>
+      <point x="386.6" y="715.4" type="curve" smooth="yes"/>
+      <point x="400.6" y="715.4" type="line" smooth="yes"/>
+      <point x="605.8" y="715.4"/>
+      <point x="742.6" y="580.8"/>
+      <point x="742.6" y="380" type="curve" smooth="yes"/>
+      <point x="742.6" y="360" type="line" smooth="yes"/>
+      <point x="742.6" y="187.6"/>
+      <point x="610.2" y="59"/>
+      <point x="444.2" y="32" type="curve"/>
+      <point x="439.8" y="155.4" type="line"/>
+      <point x="504.6" y="175.4"/>
+      <point x="554.6" y="247.6"/>
+      <point x="554.6" y="348" type="curve" smooth="yes"/>
+      <point x="554.6" y="368" type="line" smooth="yes"/>
+      <point x="554.6" y="483.2"/>
+      <point x="492.2" y="559"/>
+      <point x="399.6" y="559" type="curve" smooth="yes"/>
+      <point x="387.6" y="559" type="line" smooth="yes"/>
+      <point x="295" y="559"/>
+      <point x="232.6" y="483.2"/>
+      <point x="232.6" y="367.8" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="439.8" y="0" type="line"/>
+      <point x="439.8" y="148" type="line"/>
+      <point x="718.2" y="148" type="line"/>
+      <point x="718.2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="347.4" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="69" y="148" type="line"/>
+      <point x="347.4" y="148" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="19"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O+10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O+10</string>
+  </dict>
+  </lib>
+</glyph>

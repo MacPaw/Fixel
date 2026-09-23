@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rhacyr" format="2">
+  <advance width="798"/>
+  <unicode hex="0516"/>
+  <outline>
+    <contour>
+      <point x="482.4" y="328.6" type="line"/>
+      <point x="506.4" y="328.6" type="line"/>
+      <point x="668.6" y="0" type="line"/>
+      <point x="787.2" y="0" type="line"/>
+      <point x="583.8" y="392.8" type="line" name="&#x1f525;"/>
+      <point x="583.8" y="398" type="line" name="&#x1f525;"/>
+      <point x="770.2" y="700" type="line"/>
+      <point x="647.8" y="700" type="line"/>
+      <point x="532.2" y="502.8" type="line"/>
+      <point x="503.2" y="502.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="91.2" y="0" type="line"/>
+      <point x="196.6" y="0" type="line"/>
+      <point x="196.6" y="222.6" type="line"/>
+      <point x="296" y="222.6" type="line" smooth="yes"/>
+      <point x="439.6" y="222.6"/>
+      <point x="531.4" y="314.8"/>
+      <point x="531.4" y="457.6" type="curve" smooth="yes"/>
+      <point x="531.4" y="463.6" type="line" smooth="yes"/>
+      <point x="531.4" y="607.8"/>
+      <point x="439.2" y="700"/>
+      <point x="294.6" y="700" type="curve" smooth="yes"/>
+      <point x="91.2" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="314.4" type="line"/>
+      <point x="195" y="604.6" type="line"/>
+      <point x="291.8" y="604.6" type="line" smooth="yes"/>
+      <point x="380.8" y="604.6"/>
+      <point x="434.2" y="551"/>
+      <point x="434.2" y="462.4" type="curve" smooth="yes"/>
+      <point x="434.2" y="457.2" type="line" smooth="yes"/>
+      <point x="434.2" y="368"/>
+      <point x="381.6" y="314.4"/>
+      <point x="291.8" y="314.4" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>P</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>X</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

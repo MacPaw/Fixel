@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tetsecyr" format="2">
+  <advance width="694"/>
+  <unicode hex="04B5"/>
+  <outline>
+    <contour>
+      <point x="534.8" y="-128" type="line"/>
+      <point x="675.8" y="-128" type="line"/>
+      <point x="675.8" y="111.4" type="line"/>
+      <point x="600.6" y="111.4" type="line"/>
+      <point x="600.6" y="520" type="line"/>
+      <point x="451.6" y="520" type="line"/>
+      <point x="451.6" y="115" type="line"/>
+      <point x="273.2" y="115" type="line"/>
+      <point x="273.2" y="401.4" type="line"/>
+      <point x="376.2" y="401.4" type="line"/>
+      <point x="376.2" y="520" type="line"/>
+      <point x="14" y="520" type="line"/>
+      <point x="14" y="401.4" type="line"/>
+      <point x="124.2" y="401.4" type="line"/>
+      <point x="124.2" y="0" type="line"/>
+      <point x="534.8" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>т</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ц</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>
